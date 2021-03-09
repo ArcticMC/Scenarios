@@ -1,252 +1,367 @@
-Current Arctic Scenario list with Description (As of March 8th, 2021) Completed At the Moment, made by zac083. His Discord 
+Current Arctic Scenario list with Description (As of March 9th, 2021) Completed At the Moment, made by zac083. His Discord 
 zac083#1977: 
 
--=ARCTIC SHOP=-
+# ARCTIC SHOP
 
-Ever wanted to host your own game on Arctic, with your amazing friends, maybe with a custom scenario you made? https://store.arcticmc.net/category/1217070 Our dedicated admins can help you host your custom game, Private Game, or Recorded Round with a custom scenario! 
+> Ever wanted to host your own game on Arctic, with your amazing friends, maybe with a custom scenario you made? https://store.arcticmc.net/category/1217070 Our dedicated admins can help you host your custom game, Private Game, or Recorded Round with a custom scenario! 
 
--=TOURNAMENT SCENARIOS=-
+# TOURNAMENT SCENARIOS
 
-**Iron Kit**| You will receive iron armor along with an iron sword, fishing rod, bow, 3 golden apples and 48 arrows to fight against your opponent! 
+### Iron Kit
+> You will receive iron armor along with an iron sword, fishing rod, bow, 3 golden apples and 48 arrows to fight against your opponent! 
 
-**UHC Kit**| You will be iron gear with Projectile Protection 2 and Protection 2. You will also have an iron sword with sharpness one and a bow with power 1, and a stack and a half of arrows. (96 arrows). 
+### UHC Kit
+> You will be iron gear with Projectile Protection 2 and Protection 2. You will also have an iron sword with sharpness one and a bow with power 1, and a stack and a half of arrows. (96 arrows). 
 
-**UHC+ Kit**| You will receive Protection 2 Diamond helmet, Diamond Chest-plate, and Diamond boots. You will also receive Projectile Protection 3 Iron leggings. You will have 2 stacks of arrows, along with a Sharpness 2 Diamond sword, and a power 2 bow. For your healing, you will have 6 golden apples and 3 golden heads.
+### UHC+ Kit
+> You will receive Protection 2 Diamond helmet, Diamond Chest-plate, and Diamond boots. You will also receive Projectile Protection 3 Iron leggings. You will have 2 stacks of arrows, along with a Sharpness 2 Diamond sword, and a power 2 bow. For your healing, you will have 6 golden apples and 3 golden heads.
 
-**Archer Kit**| This will test your bow skills, You will receive an Infinity bow with 1 arrow. You will be wearing leather armor with Projectile Protection for this kit.
+### Archer Kit
+> This will test your bow skills, You will receive an Infinity bow with 1 arrow. You will be wearing leather armor with Projectile Protection for this kit.
 
--=+UHC SCENARIOS+=-
+# UHC SCENARIOS
  
-(H) **100 Hearts**| Everyone will start with 100 hearts!!! Golden apples will heal 20% of your max health.
+### 100 Hearts (H)
+> Everyone will start with 100 hearts!!! Golden apples will heal 20% of your max health.
 
-(L) **Absorption Switch**| By left clicking on a golden apple, it will either switch to giving 2 hearts of absorption and 0 hearts of healing or the golden apple with heal 2 hearts without the absorption. Golden heads, when toggled to absorption on, will give out 2 hearts and heal whatever the host set the regeneration for golden heads (3-4 hearts). When absorption is toggled off, it will heal the normal health the golden head regeneration is set at. 
+### Absorption Switch (L) 
+> By left clicking on a golden apple, it will either switch to giving 2 hearts of absorption and 0 hearts of healing or the golden apple with heal 2 hearts without the absorption. Golden heads, when toggled to absorption on, will give out 2 hearts and heal whatever the host set the regeneration for golden heads (3-4 hearts). When absorption is toggled off, it will heal the normal health the golden head regeneration is set at. 
  
-(H) **Achievement Hunters**| When you earn a certain achievement, you will either be rewarded or penalized for earning that achievement. /alist is the command. Heads for this game are disabled and only available through 2 achievements. 
+### Achievement Hunters (H)
+> When you earn a certain achievement, you will either be rewarded or penalized for earning that achievement. /alist is the command. Heads for this game are disabled and only available through 2 achievements. 
  
-(L) **Achievement Paranoia**| If a player earns a specific achievement in normal Minecraft, the achievement will show, with who earned it and where they earned it.
+### Achievement Paranoia (L) 
+> If a player earns a specific achievement in normal Minecraft, the achievement will show, with who earned it and where they earned it.
  
-(H) **Achievements**| When you earn a normal achievement in normal Minecraft, you will either gain more attack, walking speed, (both in code) or gain 1 heart.
+### Achievements (H)
+> When you earn a normal achievement in normal Minecraft, you will either gain more attack, walking speed, (both in code) or gain 1 heart.
   
-(L) **Alone Together**| You are not able to see your own teammates.
+### Alone Together (L)
+> You are not able to see your own teammates.
  
-(H) **Amplified Terrain**| The terrain will have giant mountains to climb and navigate around.
+### Amplified Terrain (H)
+> The terrain will have giant mountains to climb and navigate around.
  
-(L) **Anonymous**| Players will be disguised as an IGN (Currently "Unknown") and players will not be able to tell who is who. The health on tab is disabled. The normal chat and death messages will contain the players in game.
+### Anonymous (L)
+> Players will be disguised as an IGN (Currently "Unknown") and players will not be able to tell who is who. The health on tab is disabled. The normal chat and death messages will contain the players in game.
 
-(H) (Not in /scen list but Ruined City World + Flooded) **Aquaphobia**| The world is an abandoned city with water rising from Y:32 to Y:80. Whenever you craft a helmet you will get Respiration 3 and Aqua Affinity and when you craft boots, you will get Depth Strider 3.
+### Aquaphobia (H) (Not in /scen list but Ruined City World + Flooded)
+> The world is an abandoned city with water rising from Y:32 to Y:80. Whenever you craft a helmet you will get Respiration 3 and Aqua Affinity and when you craft boots, you will get Depth Strider 3.
    
-(L) **Armageddon**| THE WORLD IS ENDING!!! Blocks and objects will fall from the sky, this will include: Gravel, Gold Nuggets, Splash potions that will damage you, lava, etc.
+### Armageddon (L)
+> THE WORLD IS ENDING!!! Blocks and objects will fall from the sky, this will include: Gravel, Gold Nuggets, Splash potions that will damage you, lava, etc.
 
-(L) **Armor Compensation**| The amount of teammates remaining determine the number of diamond armor each teammate can wear. If you are a solo, you can wear full, Teams of 2 3/4ths Diamond, Teams of 3 is Half Diamond, and Teams of 4 is one piece diamond armor.
+### Armor Compensation (L)
+> The amount of teammates remaining determine the number of diamond armor each teammate can wear. If you are a solo, you can wear full, Teams of 2 3/4ths Diamond, Teams of 3 is Half Diamond, and Teams of 4 is one piece diamond armor.
  
-(H) **Assassins**| At PvP, you will receive a target, that is your target until the target dies, then it switches to another target. If you manage to kill your target, they will drop all of their loot. If you kill a player that is not your target, then nothing will drop but their head. You need to craft a Compass in order to track your target.
+### Assassins (H)
+> At PvP, you will receive a target, that is your target until the target dies, then it switches to another target. If you manage to kill your target, they will drop all of their loot. If you kill a player that is not your target, then nothing will drop but their head. You need to craft a Compass in order to track your target.
  
-(H) **Assault and Battery**| 1 player can do damage with melee and the other can do damage with ranged weapons. If your teammate dies, then you will be able to use melee and ranged weapons.
+### Assault and Battery (H) (Team of 2 only!)
+> 1 player can do damage with melee and the other can do damage with ranged weapons. If your teammate dies, then you will be able to use melee and ranged weapons.
  
-(H) **Astrophobia**| Meteors will fall from the world creating craters and exploding the world. It will leave a hole in the earth and if you're lucky, it'll leave 2 gold or a diamond in the crater. The creepers will now be supercharged and deal more damage and explode faster. If you manage to kill one, there is a possibility to receive their spawn egg. The skeletons are the aliens and will shoot their "lasers" and it'll deal more damage. It will always be night time, not day time.
+### Astrophobia (H)
+> Meteors will fall from the world creating craters and exploding the world. It will leave a hole in the earth and if you're lucky, it'll leave 2 gold or a diamond in the crater. The creepers will now be supercharged and deal more damage and explode faster. If you manage to kill one, there is a possibility to receive their spawn egg. The skeletons are the aliens and will shoot their "lasers" and it'll deal more damage. It will always be night time, not day time.
  
-(L) **Backpacks**| You will have the ability to open your backpack, (/bp) to gain an extra 27 inventory slots for yourself. If you die with items in your backpack, they will fall to the floor.
+### Backpacks (L)
+> You will have the ability to open your backpack, (/bp) to gain an extra 27 inventory slots for yourself. If you die with items in your backpack, they will fall to the floor.
  
-(L) **Balance**| After mining 8 diamonds, it will be harder to mine more diamonds. After mining 48 gold, it will be harder to mine more gold.
+### Balance (L)
+> After mining 8 diamonds, it will be harder to mine more diamonds. After mining 48 gold, it will be harder to mine more gold.
  
-(L) **Bald Chicken**| Chickens do not drop feathers in this scenario, instead skeletons will drop 10-20 arrows upon their death.
+### Bald Chicken (L)
+> Chickens do not drop feathers in this scenario, instead skeletons will drop 10-20 arrows upon their death.
  
-(H) **Barebones**| Your best tier of mining is Iron, you cannot mine Gold or Diamonds, or obtain any anvils or enchant tables. If you kill a player, they will drop 1 diamond, a golden apple, 2 string and 32 arrows. 
-
-THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO (Hosts are only allowed to ask the Admins not players)
-(L) **Bats**| Whenver you kill a bat there is a 99% chance that you get 1 Golden Apple and a 1% chance to be instantly dead.
-
-THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO (Hosts are only allowed to ask the Admins not players)
-(H) **Battle Royale**| You are allowed to team up with anyone but only 1 will win. All skeleton, spider, and chicken drop rates have been decreased by 50%. Cobwebs will only drop str 10% of the time. You cannot talk in chat or message players, and no death messages will show. Every 20 minutes, you will get a notification in chat as to who has died. Whenever a player dies, their body will be on the floor of where they died. 
- 
-(L) **Battle Siren**| Whenever a player starts fighting another player, it will shows the general coordinates of where the fight is currently happening.
- 
-(L) **Bed Bombs**| When you place down a bed and right click it, the bed will explode. It'll explode in every world. (Overworld, Nether, and End.)
-  
-(L) **BestPvE**| Every 10 minutes, if you have not taken damage yet, you will gain a heart. If you take damage, then you are off the list. The only way to get back onto the list is to kill a player.
- 
-(H) **Beta 1.7 Terrain**| The terrain will be based off of the generated terrain in the version Beta 1.7. 
-
-(L) **Beta Zombies**| Instead of zombies dropping Rotten Flesh, instead they drop 0-2 feathers.
- 
-(L) **Big Crack**| The Big crack is located at X:0 or Z:0 and it a giant crack to the void with a 25 block radius.
- 
-(H) **Biome Bundle**| The map is generated with custom terrain and custom structures from the mod Biome Bundle.
- 
-(L) **Biome Paranoia**| On tab your name has a color, that color represents the biome you are in. To check the biomes, use /bl
+### Barebones (H)
+> Your best tier of mining is Iron, you cannot mine Gold or Diamonds, or obtain any anvils or enchant tables. If you kill a player, they will drop 1 diamond, a golden apple, 2 string and 32 arrows. 
 
 THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO (Hosts are only allowed to ask the Admins not players)
-(H) **Birds**| All players are allowed to fly in the game. Fall damage will be disabled. 
- 
-(H) **Black Plague**| Over time, the land becomes deceased and dead. It kills off any passive mob and gives hostile mobs a buff. Silverfish spawn naturally in the deceased area. While you are in the dead land, all the healing that you heal with will be halved. If you get hit by an aggressive mob in the dead land, there is a chance the negative effect gets to you for a certain time. If you have this negative effect and shoot/melee another player, they too will receive the negative effect. Credit for the organizers of Back in Time (BiT) for the idea!
- 
-(H) **Blast Mining**| Whenever you mine an ore, even nether quartz, there is a 5% chance the a creeper will spawn on you. There is also a 3% chance of ignited TNT spawning on you. This will not happen at the same time, you'll just have to face it one way or another.
- 
-(L) **Bleeding Sweets**| Whenever a player dies, they will drop a diamond, 5 gold, a book, 1 string, 16 arrows.
- 
-(H) **Blind Dates**| You start off as a team of 2, but at PvP, you will receive a wool, banner, or a firework. If you find a team of 2 with that same color, then you are on the same team! (Similar to Mystery Teams).  
- 
-(L) **Block Battle**| Every 10 minutes, the player with the most unique blocks in their inventory will win 4 diamonds. If it's a tie, no one wins!
-  
-(L) **Block Rush**| Whenever you mine a different type of block, you will be rewarded with 1 gold ingot. 
-
-(H) (Teams of 2 only!) **Blood Brothers**| Whenever you eat a gap, head, or health potion, it will your teammate instead of you.
- 
-(H) **Blood Cycle**| Every 10 minutes the Blood cycle will target an ore that you that has a chance to make you lose lose half a heart. The cycle of ores is random and it includes the following: Coal, Iron, Gold, Redstone, Lapis, Emerald, and Diamond. If you're lucky, the game will have a "no ore," meaning that no ores will do half a heart to you.
- 
-(L) **Blood Diamonds**| Every time you mine a diamond ore, you will lose half a heart.
- 
-(L) **Blood Enchants**| Every time you enchant an item, you will lose half a heart.
+### Bats (L)
+> Whenver you kill a bat there is a 99% chance that you get 1 Golden Apple and a 1% chance to be instantly dead. 
 
 THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO (Hosts are only allowed to ask the Admins not players)
-
-(H) **Blood Lapis**| Whenever you mine lapis ore, you will lose 0.5 hearts. The lapis will only drop 1-2 lapis.
-
-(L) **Blood Market**| The first 8 players, selected by the person who does the command /iwantslaveowner <Code word>, will be selected. However, the slave owners will have 500 hearts to bid on for players. It'll be bid by heart points. Command to bid is /bid <Number of heart points>. The heart points will be half a heart. If you bid a player for 1 heart point, you're bidding the player for .5 hearts. The remaining hearts the slaveowner has left, that will be their max health throughout the game.
+### Battle Royale (H)
+> You are allowed to team up with anyone but only 1 will win. All skeleton, spider, and chicken drop rates have been decreased by 50%. Cobwebs will only drop str 10% of the time. You cannot talk in chat or message players, and no death messages will show. Every 20 minutes, you will get a notification in chat as to who has died. Whenever a player dies, their body will be on the floor of where they died. 
  
-(L) **Blood Market Double Packaging**| The first 8 players, selected by the person who does the command /iwantslaveowner <Code word>, will be selected. However, the slave owners will have 500 hearts to bid on for players. Slave owners will be bidding for 2 people at once, and the 2 people that are selected are completely randomized. It'll be bid by heart points. Command to bid is /bid <Number of heart points>. The heart points will be half a heart. If you bid a player for 1 heart point, you're bidding the player for .5 hearts. The remaining hearts the slaveowner has left, that will be their max health throughout the game
+### Battle Siren (L)
+> Whenever a player starts fighting another player, it will shows the general coordinates of where the fight is currently happening.
+ 
+### Bed Bombs (L)
+> When you place down a bed and right click it, the bed will explode. It'll explode in every world. (Overworld, Nether, and End.)
   
-(H) **Bombers**| Everybody will have an unbreakable Flint and Steel, and most of the animals and monsters/mobs that you kill, will drop Dynamite/TNT.
+### BestPvE (L)
+> Every 10 minutes, if you have not taken damage yet, you will gain a heart. If you take damage, then you are off the list. The only way to get back onto the list is to kill a player.
  
-(H) **BowFighters**| Everybody will start off with an infinity book, an arrow and two string. You most powerful weapon can be a stone axe or wooden sword. 
- 
-(L) **Bowless**| Bows are disabled! You cannot craft, use, nor obtain bows!
+### Beta 1.7 Terrain (H)
+> The terrain will be based off of the generated terrain in the version Beta 1.7. 
 
-(L) **Break at First Block**| Breaking your first block will add you to a team with other people who broke the same block as you. Once a team is full, anyone trying to break a similar block as you will not be added to a team. Once you are added to a team, you cannot leave a team. 
-
-(L) **Breakup**| Before the start of the game, players on a big team, will be separated into smaller teams.
-
-(L) **Cannibalism**| Whenever you eat a player head, you will gain 1 empty heart. This heart will be permanent and will not go away.
+### Beta Zombies (L)
+> Instead of zombies dropping Rotten Flesh, instead they drop 0-2 feathers.
  
-(L) **Captains**| The captains are either picked by the host or chosen randomly and they pick players that they want on their team. (Order is snake draft. I.E. 1,2,3,4,4,3,2,1.)
+### Big Crack (L)
+> The Big crack is located at X:0 or Z:0 and it a giant crack to the void with a 25 block radius.
  
-(H) **Carrot Combo**| Whenever you craft a sword, it'll give you a carrot with the equivalent attack damage that sword has. (Wood and Gold = Sharp 2 Carrot. Stone = Sharp 3. Iron = Sharp 5. Diamond = Sharp 6.)
+### Biome Bundle (H)
+> The map is generated with custom terrain and custom structures from the mod Biome Bundle.
  
-(H, not comb.) **Catacombs**| There will be several layers underground that replicate the surface in the game!
- 
-(L) **Children Left Unattended**| Whenever a teammate dies, each player on that team earns a speed potion and a tamed wolf.
- 
-(L) **Chump Charity**| Every 10 minutes, the person who is on the lowest health gets fully healed.
- 
-(H, not comb.) **Chunk Apocalypse**|  Every chunk, within the UHC world, has a 10% of replacing EVERY block with an air block. (You can fall into the void by the way!)
-
-(H) **Chunk Biomes**| Each chunk has its separate biome. These chunks have slime blocks on the edges to separate the biomes from its chunk. 
- 
-(H) **City World**| Instead of a normal UHC world, the whole world is replaced in a City, meaning Mineshafts, Buildings, Sewers, etc.
-  
-(H) **Compensation**| When a teammate dies, their total health is divided to the remaining teammates. For example, if one teammate dies, and they're on a team of 3, the other 2 teammates will gain and regenerate 5 hearts. And if the other teammate dies, the solo player will receive the dead teammates 15 hearts, and have a total of 30 hearts. When you craft arrows, you'll get 16 per craft instead of the normal 4. Golden Apples heal 20% of your current total health, while Golden Heads heal 40% of your health. (If you have 20 hearts, the golden apple will heal 4 hearts and the Golden Head will heal 8.)
- 
-(H) **Corrupt Kings**| Every team will have a king. The king will be unknown to the team, each time a teammate dies, the king gets their hearts. The king will have 20 hearts and strength once all of their teammates have died. The goal of the team is to kill the king and the king's goal is to kill their team members. 
- 
-(L) **Craftable Absorption**| Absorption is off by default. When you have made a golden apple. If you surround the golden apple with 4 more gold, then it will become an Absorption Golden Apple. (This does not work with Absorption Golden Heads)
- 
-(L) **Craft Clean**| In a crafting table, if you piece of coal or charcoal and surround the fuel with any smeltable item, you will get its smelted result. 
-
-(H, not comb.) **Cryophobia**| You will spawn in an icy/snowy world. Skeletons will wear leather armor and will shoot snowballs, and if they hit you, you take a decent amount of damage. As the game progresses, the ice rise. The ice will start at Y:0 at the start of the game, and it will continue to rise as the game goes on. The ice will stop rising when meetup is called and when the ice reaches the surface.
- 
-(L) **Cupid**| Every time you shoot and hit a player with your bow, you gain 1% of your health back.
-
-(H) **Custom 0.0**| The map at 0,0 will be customized by the host! 
- 
-(L) **CutClean**| All ores and animal food will be dropped in it's smelted version.
- 
-(H) **Damage Cycle**| Every 10 minutes, the damage cycle will change. If you take that same type of damage from what the cycle said, you will take 3 times the damage. To check the damage type you need to avoid, do /current
- 
-(L) **Dead Biomes**| Every 10 minutes, a new biome will be announced as a "Dead Biome". If players are in that biome, they will receive Slowness 1 and Weakness 1 and for every minute they stay in the biome, they will lose 1 heart.
-  
-(H) **Demolition**| Most of the ores/blocks, have been replaced with TNT. As you decrease your Y level, more TNT will spawn will spawn in more veins and frequencies. If you place down TNT, it will instantly ignite it. Enderman will have TNT in their hands and creepers and super charged creepers and more likely to spawn. Most of the skeletons will have flame bows that will ignite the TNT. There is also no bedrock in the world so you can fall into the void!!!
-  
-(L) **Depths**| As your Y level goes down, the monsters will get stronger and stronger.
- 
-(H) **Diamondless**| When you mine a diamond, the diamond will not drop, instead a piece of iron will drop it. No diamonds will be dropped when a player dies.
-
-(L) **Dolphins**| If you swim in the water, you swim speed increases, making you swim like a dolphin. You cannot drown in the water 
- 
-(L) **Double Big Crack**| Upon the X:0 and Z:0 coordinates will lie 2 giant cracks, these cracks go all the way to the border. Also, beware of the void, you can get killed down there.
- 
-(L) **Double Dates**| You and another player will be paired up randomly with another team of 2 before the start of the game.
- 
-(H) **Double Healing**| All golden apples, golden heads, and instant health pots will heal twice as much. If absorption is enabled, then it will give you 3 absorption hearts instead of 4.
-
-(H) **Double Moles**| Instead of one mole on the team, there will now be 2 moles on your team to worry about. The moles are the people who must betray their team in order to meet up with other moles in the game. They will get kits to help betray their team quicker.
- 
-(L) **Double or Nothing**| Whenever you mine iron, gold, emerald, or diamonds, there is a 50% chance that you get 2 ores, or you get nothing!
-  
-(L) **Double Slimy Crack**| Coordinates of X:0 and Z:0 will have 2 cracks, that go to the border, with slime blocks underneath to break your fall. Players can also break the Slime blocks and send people to the void!!!
- 
-(L) **Drafters**| This is a captains mode that instead of picking people freely, you're restricted from picking a list of 5 people at random. This way, everyone will get accepted. Same captains rules apply. Players get chosen to be captain and take turns to pick players to form their team!
- 
-(H) **Dragon Rush**| At 0,0 lays a portal to the end. But 3 eyes of ender are missing from the portal. The goal is to race and defeat the dragon! The nether will be on but trapping and camping the nether portal will be off.
+### Biome Paranoia (L)
+> On tab your name has a color, that color represents the biome you are in. To check the biomes, use /bl
 
 THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO (Hosts are only allowed to ask the Admins not players)
-(H) **Dungeoneering**| Ore rates have been dropped except redstone, lapis, and emerald will spawn more frequently in caves. Dungeons in caves will spawn more frequently. There is no bedrock and TNT veins spawn. If you place the TNT it will automatically ignite.  
+### Birds (H)
+> All players are allowed to fly in the game. Fall damage will be disabled. 
+ 
+### Black Plague (H)
+> Over time, the land becomes deceased and dead. It kills off any passive mob and gives hostile mobs a buff. Silverfish spawn naturally in the deceased area. While you are in the dead land, all the healing that you heal with will be halved. If you get hit by an aggressive mob in the dead land, there is a chance the negative effect gets to you for a certain time. If you have this negative effect and shoot/melee another player, they too will receive the negative effect. Credit for the organizers of Back in Time (BiT) for the idea!
+ 
+### Blast Mining (H)
+> Whenever you mine an ore, even nether quartz, there is a 5% chance the a creeper will spawn on you. There is also a 3% chance of ignited TNT spawning on you. This will not happen at the same time, you'll just have to face it one way or another.
+ 
+### Bleeding Sweets (L)
+> Whenever a player dies, they will drop a diamond, 5 gold, a book, 1 string, 16 arrows.
+ 
+### Blind Dates (H)
+> You start off as a team of 2, but at PvP, you will receive a wool, banner, or a firework. If you find a team of 2 with that same color, then you are on the same team! (Similar to Mystery Teams).  
+ 
+### Block Battle (L)
+> Every 10 minutes, the player with the most unique blocks in their inventory will win 4 diamonds. If it's a tie, no one wins!
   
-(H) **Eggs**| You start the game with 3 eggs and when you throw them any mob/animal in the game can come out of the egg. You can get more eggs from chickens when they lay them.
+### Block Rush (L)
+> Whenever you mine a different type of block, you will be rewarded with 1 gold ingot.
+
+### Blood Brothers (H) (Teams of 2 only!)
+> Whenever you eat a gap, head, or health potion, it will your teammate instead of you.
+ 
+### Blood Cycle (H)
+> Every 10 minutes the Blood cycle will target an ore that you that has a chance to make you lose lose half a heart. The cycle of ores is random and it includes the following: Coal, Iron, Gold, Redstone, Lapis, Emerald, and Diamond. If you're lucky, the game will have a "no ore," meaning that no ores will do half a heart to you.
+ 
+### Blood Diamonds (L)
+> Every time you mine a diamond ore, you will lose half a heart.
+ 
+### Blood Enchants (L)
+> Every time you enchant an item, you will lose half a heart.
 
 THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO (Hosts are only allowed to ask the Admins not players)
-(H) **Eight Legged Freaks**| All hostile mobs will be replaced with Spiders with different abilities. 
+### Blood Lapis (H)
+> Whenever you mine lapis ore, you will lose 0.5 hearts. The lapis will only drop 1-2 lapis.
+
+### Blood Market (L)
+> The first 8 players, selected by the person who does the command /iwantslaveowner <Code word>, will be selected. However, the slave owners will have 500 hearts to bid on for players. It'll be bid by heart points. Command to bid is /bid <Number of heart points>. The heart points will be half a heart. If you bid a player for 1 heart point, you're bidding the player for .5 hearts. The remaining hearts the slaveowner has left, that will be their max health throughout the game.
+ 
+### Blood Market Double Packaging (L)
+> The first 8 players, selected by the person who does the command /iwantslaveowner <Code word>, will be selected. However, the slave owners will have 500 hearts to bid on for players. Slave owners will be bidding for 2 people at once, and the 2 people that are selected are completely randomized. It'll be bid by heart points. Command to bid is /bid <Number of heart points>. The heart points will be half a heart. If you bid a player for 1 heart point, you're bidding the player for .5 hearts. The remaining hearts the slaveowner has left, that will be their max health throughout the game
   
-(H, not comb.) **Elements**| Each player will get an ability, either water, earth, fire, and air. Created by the group of Ambition. https://pastebin.com/907NZWVJ
+### Bombers (H)
+> Everybody will have an unbreakable Flint and Steel, and most of the animals and monsters/mobs that you kill, will drop Dynamite/TNT.
  
-(L) **Enchanted Death**| You cannot craft enchanting tables. When a player dies, they will drop an enchanting table. (Please Note: You will be Disqualified of you team-kill your teammates for an enchanting table.)
+### BowFighters (H)
+> Everybody will start off with an infinity book, an arrow and two string. You most powerful weapon can be a stone axe or wooden sword. 
  
-(L) **Enchant Paranoia**| The enchant preview will be disabled. When you enchant an item, it will be enchanted with the enchantment name "???".
- 
-(H) **Ender Dance**| IT'S A RACE TO THE DRAGON!  Wait, it's not. The goal of this scenario is to be on top of one of the dragon's healing pillars and destroy one of them. Then if you have a music disk and a jukebox, you must place a jukebox on one of the pillars and put the music disk in the jukebox to win the game! Same rules apply with Dragon Rush (3 Eyes of ender missing).
- 
-(L) **End Meetup**| Once the game has reached it's Meetup phase, players will be frozen and teleported into the end. PvP will be disabled for about 10-15 seconds. Then the fight happens. After 10 mins, the dragon will spawn if the game is not completed.
+### Bowless (L)
+> Bows are disabled! You cannot craft, use, nor obtain bows!
 
-(L) **Enemy Recon**| Whenever you get a kill you will earn 1 recon. This recon will allow you to spy on what the player has in terms of inventory and information. By using the command /er <Player> it will use 1 recon, and it has a 30% chance of broadcasting in chat on who you are spying on.
+### Break at First Block (L)
+> Breaking your first block will add you to a team with other people who broke the same block as you. Once a team is full, anyone trying to break a similar block as you will not be added to a team. Once you are added to a team, you cannot leave a team. 
+
+### Breakup (L)
+> Before the start of the game, players on a big team, will be separated into smaller teams.
+
+### Cannibalism (L)
+> Whenever you eat a player head, you will gain 1 empty heart. This heart will be permanent and will not go away.
+ 
+### Captains (L)
+> The captains are either picked by the host or chosen randomly and they pick players that they want on their team. (Order is snake draft. I.E. 1,2,3,4,4,3,2,1.)
+ 
+### Carrot Combo (H)
+> Whenever you craft a sword, it'll give you a carrot with the equivalent attack damage that sword has. (Wood and Gold = Sharp 2 Carrot. Stone = Sharp 3. Iron = Sharp 5. Diamond = Sharp 6.)
+ 
+### Catacombs (H, not comb.)
+> There will be several layers underground that replicate the surface in the game!
+ 
+### Children Left Unattended (L)
+> Whenever a teammate dies, each player on that team earns a speed potion and a tamed wolf.
+ 
+### Chump Charity (L)
+> Every 10 minutes, the person who is on the lowest health gets fully healed.
+ 
+### Chunk Apocalypse (H, not comb.)
+> Every chunk, within the UHC world, has a 10% of replacing EVERY block with an air block. (You can fall into the void by the way!)
+
+### Chunk Biomes (H)
+> Each chunk has its separate biome. These chunks have slime blocks on the edges to separate the biomes from its chunk. 
+ 
+### City World (H)
+> Instead of a normal UHC world, the whole world is replaced in a City, meaning Mineshafts, Buildings, Sewers, etc.
   
-(H) **Experienced Crafter**| IF you want to craft a certain item, it will cost you levels to craft it. (An Iron sword, bow, golden apple, or golden head, and a diamond pick costs 1 Experience Level. Crafting Iron Armor will cost 2 Experience Levels. Crafting an Anvil or A Diamond sword will cost 3 Experience Levels. Crafting Diamond Armor will cost 5 Experience Levels. Crafting an Enchant Table will cost 6 Experience Levels. And Lastly: Crafting a Brewing Stand will cost 10 Experience Levels.)
+### Compensation (H)
+> When a teammate dies, their total health is divided to the remaining teammates. For example, if one teammate dies, and they're on a team of 3, the other 2 teammates will gain and regenerate 5 hearts. And if the other teammate dies, the solo player will receive the dead teammates 15 hearts, and have a total of 30 hearts. When you craft arrows, you'll get 16 per craft instead of the normal 4. Golden Apples heal 20% of your current total health, while Golden Heads heal 40% of your health. (If you have 20 hearts, the golden apple will heal 4 hearts and the Golden Head will heal 8.)
  
-(H, not comb.) **Extreme Mobs**| Upon when monsters are spawning: There is a 1% chance that whenever a zombie spawns, it will become a Giant Zombie. If you manage to kill it, it will drop 4 gold. There is a 5% chance that Creepers will spawn on top of a spider and will ride it. You can call this a Creeper Jockey. For creepers, again, there is a 10% that when you explode a creeper, it will set fire around the exploded area. For creepers, for a third time, there is a 10% chance that when they explode, it will spawn 3 silverfish around them. For witches, there is a 50% chance that they will be flying. (Meaning that the Witches will spawn on top of a bat.)
+### Corrupt Kings (H)
+> Every team will have a king. The king will be unknown to the team, each time a teammate dies, the king gets their hearts. The king will have 20 hearts and strength once all of their teammates have died. The goal of the team is to kill the king and the king's goal is to kill their team members. 
  
-(H) **Fallout**| If you are not below Y:60 after 45 minutes in the game, you will take half a heart every 30 seconds you stay on the surface.
+### Craftable Absorption (L)
+> Absorption is off by default. When you have made a golden apple. If you surround the golden apple with 4 more gold, then it will become an Absorption Golden Apple. (This does not work with Absorption Golden Heads)
+ 
+### Craft Clean (L)
+> In a crafting table, if you piece of coal or charcoal and surround the fuel with any smeltable item, you will get its smelted result. 
+
+### Cryophobia (H, not comb.)
+> You will spawn in an icy/snowy world. Skeletons will wear leather armor and will shoot snowballs, and if they hit you, you take a decent amount of damage. As the game progresses, the ice rise. The ice will start at Y:0 at the start of the game, and it will continue to rise as the game goes on. The ice will stop rising when meetup is called and when the ice reaches the surface.
+ 
+### Cupid (L)
+> Every time you shoot and hit a player with your bow, you gain 1% of your health back.
+
+### Custom 0.0 (H)
+> The map at 0,0 will be customized by the host! 
+ 
+### CutClean (L)
+> All ores and animal food will be dropped in it's smelted version.
+ 
+### Damage Cycle (H)
+> Every 10 minutes, the damage cycle will change. If you take that same type of damage from what the cycle said, you will take 3 times the damage. To check the damage type you need to avoid, do /current
+ 
+### Dead Biomes (L)
+> Every 10 minutes, a new biome will be announced as a "Dead Biome". If players are in that biome, they will receive Slowness 1 and Weakness 1 and for every minute they stay in the biome, they will lose 1 heart.
   
-(L) **Fast Getaway**| Whenever you kill a player, you will gain 45 seconds of speed 2. If you get hit or hit another player by bow or sword, 5 seconds when you get the Speed 2, you will lose the Speed.
+### Demolition (H)
+> Most of the ores/blocks, have been replaced with TNT. As you decrease your Y level, more TNT will spawn will spawn in more veins and frequencies. If you place down TNT, it will instantly ignite it. Enderman will have TNT in their hands and creepers and super charged creepers and more likely to spawn. Most of the skeletons will have flame bows that will ignite the TNT. There is also no bedrock in the world so you can fall into the void!!!
+  
+### Depths (L)
+> As your Y level goes down, the monsters will get stronger and stronger.
  
-(L) **Fast Smelting**| Items in the furnace will only take 1 second to smelt per item.
- 
-(L) **Feather Boots**| When you craft leather boots, using feathers instead of leather, it will have feather falling 4 upon crafting them.
- 
-(L) **Fireless**| All Fire damage (Includes lava and fire swords), will not do damage to you.
- 
-(H, not comb.) **Flat World**| The world will be completely Flat, and it's surface will be Y:5. Village rates will be upped, for you to survive a bit more easily.
- 
-(L) **Flippers**| When you craft golden boots, it will automatically have Depth Strider 3.
- 
-(H) **Flooded**| ALL of the world's air blocks between Y:32 to Y:70 will all be covered in water. Players will receive a Depth Strider 3 book and a Aqua Affinity book, some sugar cane, a couple of spawn eggs, for food, leather, and feathers. Players will also receive the permanent potion particles of Water breathing and Night Vision. Oh yea, one more thing, it will rain and the host can not toggle the rain off, it will be raining constantly.
- 
-(H, not comb.) **Flower Power**| Whenever you break a flower, you will gain a random item up to a stack of 64, 32, or 16, depending on the item. You will have 30 seconds to pick up the item from the flower you picked. After the 30 seconds, the item picked from the flower will despawn.
+### Diamondless (H)
+> When you mine a diamond, the diamond will not drop, instead a piece of iron will drop it. No diamonds will be dropped when a player dies.
 
-(H, not comb.) **Football Edition**| Each player on a team will be given a specific position in the game. Whether that would be Goalkeeper, Right or Left Defender, Midfielders or Forwards. https://www.reddit.com/r/ultrahardcore/comments/bsgzy8/may_25_0000_utc_na_hoookeys_2000_cto11_cutclean/ For more information about what powers you receive for each position.  
+### Dolphins (L) 
+> If you swim in the water, you swim speed increases, making you swim like a dolphin. You cannot drown in the water 
  
-(H) **Frozen In Time**| All the Current movement in water, lava will not flow. Gravel, sand, cacti, and sugarcane will float in the air. The leaves on trees will not decay. To get obsidian, you need to craft a diamond pickaxe, which would either give you 10 or 14 obsidian, depending if nether is on.
+### **Double Big Crack** (L)
+> Upon the X:0 and Z:0 coordinates will lie 2 giant cracks, these cracks go all the way to the border. Also, beware of the void, you can get killed down there.
  
-(L) **Gap Zap**| If you take damage while you are regenerating from a golden apple or head, the regeneration cancels.
+### **Double Dates** (L)
+> You and another player will be paired up randomly with another team of 2 before the start of the game.
  
-(L) **Gapple Roulette**| Whenever you eat a Golden Apple, you will get a random potion effect for a certain time.  
+### Double Healing (H)
+> All golden apples, golden heads, and instant health pots will heal twice as much. If absorption is enabled, then it will give you 3 absorption hearts instead of 4.
 
-(H) **Generous Admin**| Every so often, the host or a staff member will be scattered in the world with goodies they selected at random. You will receive a compass tracking him and if you kill the staff member, he will drop the goodies for you to receive. 
+### Double Moles (H)
+> Instead of one mole on the team, there will now be 2 moles on your team to worry about. The moles are the people who must betray their team in order to meet up with other moles in the game. They will get kits to help betray their team quicker.
  
-(L) **Genie**| You are given 3 wishes and you cannot get more. Based on the number of kills you have in the game is what you can wish for. (If you have 0 kills, you can get the following: Golden Apple, Diamond Sword, Anvil. If you have 1 Kill, you can get the following: Player Head, Speed 1 Potion, Strength 1 Potion. If you have 2 Kills, you can get the following: Enchantment Table, Brewing Stand, 5 Diamond Ore. If you have 4 Kills, you can get the following: Instant Health 2 Potion Not Splashable, 128 Bottles of Enchanting, 1 Glowstone Block, 1 Blaze Rod. If you have 5+ Kills, you can get the following: 64 Obsidian, 8 Gold Ingots, 4 Soul Sand, 3 Wither Skeleton Heads.) 
+### Double or Nothing (L) 
+> Whenever you mine iron, gold, emerald, or diamonds, there is a 50% chance that you get 2 ores, or you get nothing!
+  
+### Double Slimy Crack (L)
+> Coordinates of X:0 and Z:0 will have 2 cracks, that go to the border, with slime blocks underneath to break your fall. Players can also break the Slime blocks and send people to the void!!!
+ 
+### Drafters (L)
+> This is a captains mode that instead of picking people freely, you're restricted from picking a list of 5 people at random. This way, everyone will get accepted. Same captains rules apply. Players get chosen to be captain and take turns to pick players to form their team!
+ 
+### Dragon Rush (H) 
+> At 0,0 lays a portal to the end. But 3 eyes of ender are missing from the portal. The goal is to race and defeat the dragon! The nether will be on but trapping and camping the nether portal will be off.
 
-(L) **Golden Retriever**| Whenever a player dies, instead of the normal head post, it will drop a Golden Head. 
+THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO (Hosts are only allowed to ask the Admins not players)
+### Dungeoneering (H)
+> Ore rates have been dropped except redstone, lapis, and emerald will spawn more frequently in caves. Dungeons in caves will spawn more frequently. There is no bedrock and TNT veins spawn. If you place the TNT it will automatically ignite.  
+  
+### Eggs (H)
+> You start the game with 3 eggs and when you throw them any mob/animal in the game can come out of the egg. You can get more eggs from chickens when they lay them.
+
+THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO (Hosts are only allowed to ask the Admins not players)
+### Eight Legged Freaks (H) 
+> All hostile mobs will be replaced with Spiders with different abilities and powers. 
+  
+### Elements (H, not comb.)
+> Each player will get an ability, either water, earth, fire, and air. This scenario was created by the group of Ambition. https://pastebin.com/907NZWVJ
  
-(L) **Goldless**| Whenever you mine a piece of gold, if will drop a piece of iron instead. When a player dies, they will drop a golden head and 8 gold on death.
+### Enchanted Death (L)
+> You cannot craft enchanting tables. When a player dies, they will drop an enchanting table. (Please Note: You will be Disqualified of you team-kill your teammates for an enchanting table.)
  
-(H) **Gold Rush**| You cannot craft any leather armor or iron armor. You can only craft either Gold or Diamond Armor.
+### Enchant Paranoia (L)
+> The enchant preview will be disabled. When you enchant an item, it will be enchanted with the enchantment name "???".
  
-(H) **Gone Fishing**| At the start of the game, players receive 20,000 levels, 64 anvils, and an Unbreaking 250 and Luck of the Sea 250 fishing rod. Players cannot craft the enchantment table.
+### Ender Dance (H)
+> IT'S A RACE TO THE DRAGON!  Wait, it's not. The goal of this scenario is to be on top of one of the dragon's healing pillars and destroy one of them. Then if you have a music disk and a jukebox, you must place a jukebox on one of the pillars and put the music disk in the jukebox to win the game! Same rules apply with Dragon Rush (3 Eyes of ender missing).
  
-(L) **Good Game**| The first player to say "gg." after a player dies, will receive a reward. It can either be a diamond, cake, piece of gold, or a firework. The first player to say "eZ", "rekt", "loser", "your bad", or "kys", will get blindness, withered, or poisoned. WARNING: If you spam "gg." too much, you will be muted!!! Also, if you spam any bad messages, you will either be muted for a long time or banned!!!
+### End Meetup (L) 
+> Once the game has reached it's Meetup phase, players will be frozen and teleported into the end. PvP will be disabled for about 10-15 seconds. Then the fight happens. After 10 mins, the dragon will spawn if the game is not completed.
+
+Enemy Recon (L)
+> Whenever you get a kill you will earn 1 recon. This recon will allow you to spy on what the player has in terms of inventory and information. By using the command /er <Player> it will use 1 recon, and it has a 30% chance of broadcasting in chat on who you are spying on.
+  
+### Experienced Crafter (H)
+> If you want to craft a certain item, it will cost you levels to craft it. (An Iron sword, bow, golden apple, or golden head, and a diamond pick costs 1 Experience Level. Crafting Iron Armor will cost 2 Experience Levels. Crafting an Anvil or A Diamond sword will cost 3 Experience Levels. Crafting Diamond Armor will cost 5 Experience Levels. Crafting an Enchant Table will cost 6 Experience Levels. And Lastly: Crafting a Brewing Stand will cost 10 Experience Levels.)
  
-(H, not comb.) **Go To Hell**| After a certain time period (45-60 minutes into the game.) Players will proceed into the Nether. If the player is not in the nether, they will take 0.5 hearts every 30 seconds until they go into the nether. (Required: Portal Trapping/Camping will be disabled for this scenario.)
+### Extreme Mobs (H, not comb.)
+> Upon when monsters are spawning: There is a 1% chance that whenever a zombie spawns, it will become a Giant Zombie. If you manage to kill it, it will drop 4 gold. There is a 5% chance that Creepers will spawn on top of a spider and will ride it. You can call this a Creeper Jockey. For creepers, again, there is a 10% that when you explode a creeper, it will set fire around the exploded area. For creepers, for a third time, there is a 10% chance that when they explode, it will spawn 3 silverfish around them. For witches, there is a 50% chance that they will be flying. (Meaning that the Witches will spawn on top of a bat.)
  
-(L) **Grave Robbers**| Whenever a player dies, their stuff will be in a grave, with a double chest.
+### Fallout (H)
+> If you are not below Y:60 after 45 minutes in the game, you will take half a heart every 30 seconds you stay on the surface.
+  
+### Fast Getaway (L)
+> Whenever you kill a player, you will gain 45 seconds of speed 2. If you get hit or hit another player by bow or sword, 5 seconds when you get the Speed 2, you will lose the Speed.
  
-(L) **Grinch**| Every Midnight, at 0,0 there is a zombie with leather armor known as the "Grinch". He stole of the Christmas presents from Santa! If you kill him, you will receive the present of whatever the Grinch was holding.
+### Fast Smelting (L)
+> Items in the furnace will only take 1 second to smelt per item.
+ 
+### Feather Boots (L)
+> When you craft leather boots, using feathers instead of leather, it will have feather falling 4 upon crafting them.
+ 
+Fireless (L)
+> All Fire damage (Includes lava and fire swords), will not do damage to you.
+ 
+### Flat World (H, not comb.)
+> The world will be completely Flat, and it's surface will be Y:5. Village rates will be upped, for you to survive a bit more easily.
+ 
+### Flippers (L)
+> When you craft golden boots, it will automatically have Depth Strider 3.
+ 
+### Flooded (H)
+> ALL of the world's air blocks between Y:32 to Y:70 will all be covered in water. Players will receive a Depth Strider 3 book and a Aqua Affinity book, some sugar cane, a couple of spawn eggs, for food, leather, and feathers. Players will also receive the permanent potion particles of Water breathing and Night Vision. Oh yea, one more thing, it will rain and the host can not toggle the rain off, it will be raining constantly.
+ 
+### Flower Power (H, not comb.) 
+> Whenever you break a flower, you will gain a random item up to a stack of 64, 32, or 16, depending on the item. You will have 30 seconds to pick up the item from the flower you picked. After the 30 seconds, the item picked from the flower will despawn.
+
+### Football Edition (H, not comb.)
+> Each player on a team will be given a specific position in the game. Whether that would be Goalkeeper, Right or Left Defender, Midfielders or Forwards. https://www.reddit.com/r/ultrahardcore/comments/bsgzy8/may_25_0000_utc_na_hoookeys_2000_cto11_cutclean/ For more information about what powers you receive for each position.  
+ 
+### Frozen In Time (H)
+> All the Current movement in water, lava will not flow. Gravel, sand, cacti, and sugarcane will float in the air. The leaves on trees will not decay. To get obsidian, you need to craft a diamond pickaxe, which would either give you 10 or 14 obsidian, depending if nether is on.
+ 
+### Gap Zap (L) 
+> If you take damage while you are regenerating from a golden apple or head, the regeneration cancels.
+ 
+### Gapple Roulette (L) 
+> Whenever you eat a Golden Apple, you will get a random potion effect for a certain time.  
+
+### Generous Admin (H) 
+> Every so often, the host or a staff member will be scattered in the world with goodies they selected at random. You will receive a compass tracking him and if you kill the staff member, he will drop the goodies for you to receive. 
+ 
+### Genie (L) 
+> You are given 3 wishes and you cannot get more. Based on the number of kills you have in the game is what you can wish for. (If you have 0 kills, you can get the following: Golden Apple, Diamond Sword, Anvil. If you have 1 Kill, you can get the following: Player Head, Speed 1 Potion, Strength 1 Potion. If you have 2 Kills, you can get the following: Enchantment Table, Brewing Stand, 5 Diamond Ore. If you have 4 Kills, you can get the following: Instant Health 2 Potion Not Splashable, 128 Bottles of Enchanting, 1 Glowstone Block, 1 Blaze Rod. If you have 5+ Kills, you can get the following: 64 Obsidian, 8 Gold Ingots, 4 Soul Sand, 3 Wither Skeleton Heads.) 
+
+### Golden Retriever (L) 
+> Whenever a player dies, instead of the normal head post, it will drop a Golden Head. 
+ 
+### Goldless (L)
+> Whenever you mine a piece of gold, if will drop a piece of iron instead. When a player dies, they will drop a golden head and 8 gold on death.
+ 
+### Gold Rush (H) 
+> You cannot craft any leather armor or iron armor. You can only craft either Gold or Diamond Armor.
+ 
+### Gone Fishing (H) 
+> At the start of the game, players receive 20,000 levels, 64 anvils, and an Unbreaking 250 and Luck of the Sea 250 fishing rod. Players cannot craft the enchantment table.
+ 
+### Good Game (L)
+> The first player to say "gg." after a player dies, will receive a reward. It can either be a diamond, cake, piece of gold, or a firework. The first player to say "eZ", "rekt", "loser", "your bad", or "kys", will get blindness, withered, or poisoned. WARNING: If you spam "gg." too much, you will be muted!!! Also, if you spam any bad messages, you will either be muted for a long time or banned!!!
+ 
+### Go To Hell (H, not comb.)
+> After a certain time period (45-60 minutes into the game.) Players will proceed into the Nether. If the player is not in the nether, they will take 0.5 hearts every 30 seconds until they go into the nether. (Required: Portal Trapping/Camping will be disabled for this scenario.)
+ 
+### Grave Robbers (L)
+> Whenever a player dies, their stuff will be in a grave, with a double chest.
+ 
+### Grinch (L)
+> Every Midnight, at 0,0 there is a zombie with leather armor known as the "Grinch". He stole of the Christmas presents from Santa! If you kill him, you will receive the present of whatever the Grinch was holding.
   
 (L) **Hastey Babies**| Every tool that you craft will have Efficiency 1. 
   
@@ -503,7 +618,7 @@ THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO
 
 (H) **Urban Sprawl**| There will be a lot of villages in the world. You will also spawn with 20 Villager Eggs since no villagers will be spawned. 
  
-(L) **Vanilla+**| It is vanilla minecraft, but the game has been tweaked a little bit (Flint rates, Increased Apple Rates Etc.)
+(L) **Vanilla+**| It's the same game, but the game has been tweaked a little bit (Flint rates, Increased Apple Rates Etc.)
  
 (L) **VeinMiner**| If you shift and mine an ore, with the right pickaxe, the entire vein of that ore will all be mined at once. This works with gravel too with a shovel.
  
