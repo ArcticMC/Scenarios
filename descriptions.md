@@ -146,10 +146,10 @@ THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO
 > Whenever you mine lapis ore, you will lose 0.5 hearts. The lapis will only drop 1-2 lapis.
 
 ### Blood Market (L)
-> The first 8 players, selected by the person who does the command /iwantslaveowner \<Code word\>, will be selected. However, the slave owners will have 500 hearts to bid on for players. It'll be bid by heart points. Command to bid is /bid \<Number of heart points\>. The heart points will be half a heart. If you bid a player for 1 heart point, you're bidding the player for .5 hearts. The remaining hearts the slaveowner has left, that will be their max health throughout the game.
+> The first 8 players, selected by the person who does the command /codeward \<Code word\> or manually selected by the host, will be selected. However, the slave owners will have 500 hearts to bid on for players. It'll be bid by heart points. Command to bid is /bid \<Number of heart points\>. The heart points will be half a heart. If you bid a player for 1 heart point, you're bidding the player for .5 hearts. The remaining hearts the slaveowner has left, that will be their max health throughout the game.
 
 ### Blood Market Double Packaging (L)
-> The first 8 players, selected by the person who does the command /iwantslaveowner \<Code word\>, will be selected. However, the slave owners will have 500 hearts to bid on for players. Slave owners will be bidding for 2 people at once, and the 2 people that are selected are completely randomized. It'll be bid by heart points. Command to bid is /bid \<Number of heart points\>. The heart points will be half a heart. If you bid a player for 1 heart point, you're bidding the player for .5 hearts. The remaining hearts the slaveowner has left, that will be their max health throughout the game
+> The first 8 players, selected by the person who does the command /codeward \<Code word\> or manually selected by the host, will be selected. However, the slave owners will have 500 hearts to bid on for players. Slave owners will be bidding for 2 people at once, and the 2 people that are selected are completely randomized. It'll be bid by heart points. Command to bid is /bid \<Number of heart points\>. The heart points will be half a heart. If you bid a player for 1 heart point, you're bidding the player for .5 hearts. The remaining hearts the slaveowner has left, that will be their max health throughout the game
 
 ### Bombers (H)
 > Everybody will have an unbreakable Flint and Steel, and most of the animals and monsters/mobs that you kill, will drop Dynamite/TNT.
@@ -538,9 +538,9 @@ THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO
  
 (H, not comb.) **Skyhigh**| After about 45-60 minutes, players must be at or near 0,0 at a Y level above 101. If players are underneath that Y:101 level they will take half a heart every 30 seconds. You will receive starter items at the beginning of the game, this includes: 2 stacks of blocks, some snowball blocks, some pumpkins, and a Diamond shovel. Also, the sand will drop glass and Snow blocks will drop snow blocks. 
   
-(L, not comb.) **Slavemarket**| The first 8 players, selected by the host will be selected. The slave owners will receive an X amount of diamonds to bid on. The command to bid for players is /bid <# of Diamonds>. After the bidding, the slave owners keep the remaining diamonds.
+(L, not comb.) **Slavemarket**| The first 8 players, selected by the host or by a command of /codeword \<Codeword\>, will be selected. The slave owners will receive an X amount of diamonds to bid on. The command to bid for players is /bid \<# of Diamonds\>. After the bidding, the slave owners keep the remaining diamonds.
  
-(L, not comb.) **Slavemarket Double Packaging**| The first 8 players, selected by the host, will be selected. The slave owners will receive an X amount of diamonds to bid on. The command to bid for players is /bid <# of Diamonds>. Instead of players getting 1 person, they will get 2. The 2 people will be randomized and put together for bidding. After the bidding, the slave owners keep the remaining diamonds.
+(L, not comb.) **Slavemarket Double Packaging**| The first 8 players, selected by the host or by a command on /codeword \<Codeword\>, will be selected. The slave owners will receive an X amount of diamonds to bid on. The command to bid for players is /bid \<# of Diamonds\>. Instead of players getting 1 person, they will get 2. The 2 people will be randomized and put together for bidding. After the bidding, the slave owners keep the remaining diamonds.
  
 (H, not comb.) **Slimy Chunk**| In the world, there is a 10% chance that each chunk can disappear! At the bottom of each chunk that has disappeared will contain slime blocks at the bottom to break your fall! You can break those slime blocks and it can send you or other people down to the void!
  
