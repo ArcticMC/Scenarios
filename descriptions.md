@@ -503,7 +503,7 @@ THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO
 
 (H) **Urban Sprawl**| There will be a lot of villages in the world. You will also spawn with 20 Villager Eggs since no villagers will be spawned. 
  
-(L) **Vanilla+**| It's the same game, but the game has been tweaked a little bit (Flint rates, Increased Apple Rates Etc.)
+(L) **Vanilla+**| It is vanilla minecraft, but the game has been tweaked a little bit (Flint rates, Increased Apple Rates Etc.)
  
 (L) **VeinMiner**| If you shift and mine an ore, with the right pickaxe, the entire vein of that ore will all be mined at once. This works with gravel too with a shovel.
  
