@@ -363,129 +363,190 @@ Fireless (L)
 ### Grinch (L)
 > Every Midnight, at 0,0 there is a zombie with leather armor known as the "Grinch". He stole of the Christmas presents from Santa! If you kill him, you will receive the present of whatever the Grinch was holding.
   
-(L) **Hastey Babies**| Every tool that you craft will have Efficiency 1. 
+### Hastey Babies (L) 
+> Every tool that you craft will have Efficiency 1. 
   
-(L) **Hastey Boys**| Every tool that you craft will have Efficiency 3 and Unbreaking 1.
+### Hastey Boys (L) 
+> Every tool that you craft will have Efficiency 3 and Unbreaking 1.
  
-(L) **Head Hunters**| When a player dies, their head will be somewhere 75 blocks out on where they died, on the surface.
+### Head Hunters (L) 
+> When a player dies, their head will be somewhere 75 blocks out on where they died, on the surface.
 
-(H) **Homework** (CURRENTLY BROKEN)| Every 10 minutes, you will be assigned an item that you must collect and have in your inventory. If you do not have the item in your inventory you will lose 1 full heart. If you have it in your inventory, you will gain 1 potential heart.
+### Homework (H) BROKEN 
+> Every 10 minutes, you will be assigned an item that you must collect and have in your inventory. If you do not have the item in your inventory you will lose 1 full heart. If you have it in your inventory, you will gain 1 potential heart.
  
-(L) **Health Donor**| Players can donate health to other players in the game. Every half a heart you donate will cost 1 experience level. To do this command /donatehp <1-20> <IGN>
+### Health Donor (L)
+> Players can donate health to other players in the game. Every half a heart you donate will cost 1 experience level. To do this command /donatehp <1-20> <IGN>
   
-(L) **Identity Theft**| Whenever you shoot and hit a player, you will gain their disguise. If a player already has another disguise, then you will steal theirs. 
+### Identity Theft (L) 
+> Whenever you shoot and hit a player, you will gain their disguise. If a player already has another disguise, then you will steal theirs. 
  
-(H, not comb, Spawners Galore) **Infestation**| Whenever a monster dies, it has a 40% chance to respawn on where it has died.
+### Infestation (H, not Comb.) 
+> Whenever a monster dies, it has a 40% chance to respawn on where it has died.
  
-(H) **Infinite Allies**| You can have has many allies as you want, but only 1 man can win.
+### Infinite Allies (H) 
+> You can have has many allies as you want, but only 1 man can win.
  
-(H) **Infinite Enchanter**| At the start of the game, everyone will receive 2 stacks of Bookshelves, anvils and enchant tables, and infinite levels.
+### Infinite Enchanter (H) 
+> At the start of the game, everyone will receive 2 stacks of Bookshelves, anvils and enchant tables, and infinite levels.
  
-(L) **Inventors**| The first person to craft something will be broadcasted in the chat. There is no reward for this. It's to show bragging rights!
+### Inventors (L) 
+> The first person to craft something will be broadcasted in the chat. There is no reward for this. It's to show bragging rights!
  
-(L) **Inventors+**| The first player to craft something will be broadcasted in the chat. They will either receive 1 diamond or 2 gold.
+### Inventors+ (L)
+> The first player to craft something will be broadcasted in the chat. They will either receive 1 diamond or 2 gold.
   
-(H, not comb.) **Inverted Dimensions**| The nether and the overworld has been switched. The terrain, in the overworld, would look like the nether, and the nether would look like the overworld. Sugar cane will drop from trees and some lapis and redstone will be placed with obsidian. You cannot place water in the overworld.
+### Inverted Dimensions (h, not Comb.) 
+> The nether and the overworld has been switched. The terrain, in the overworld, would look like the nether, and the nether would look like the overworld. Sugar cane will drop from trees and some lapis and redstone will be placed with obsidian. You cannot place water in the overworld.
  
-(H, not comb.) **Inverted Parallel**| When you go underneath Y:42 in the overworld, it will be replaced by the "nether." You cannot place the water in the "nether."
+### Inverted Parallel (H, not Comb.) 
+> When you go underneath Y:42 in the overworld, it will be replaced by the "nether." You cannot place the water in the "nether."
  
-(L) **Investments**| You can invest diamonds and gold into a player. If the player gets a kill, you receive double the amount of gold or diamonds you put it. If they die, you will lose your investment on that player. 
+### Investments (L) 
+> You can invest diamonds and gold into a player. If the player gets a kill, you receive double the amount of gold or diamonds you put it. If they die, you will lose your investment on that player. 
 
-(L, not comb.) **Isaac Mystery Teams**| Everyone will be scattered alone, once PvP is enabled, you will get a colored Isaac head, you cannot craft this head into a Golden Head. If you find a player with the same Isaac head, then you and that player will be on a team. The command to check the teams is /mt teamsize 
+### Isaac Mystery Teams (L, not comb.) 
+> Everyone will be scattered alone, once PvP is enabled, you will get a colored Isaac head, you cannot craft this head into a Golden Head. If you find a player with the same Isaac head, then you and that player will be on a team. The command to check the teams is /mt teamsize 
  
-(H, not comb.) **Islands**| There are 10 wide cracks run along the x and z axis every 100 blocks. The ore blocks on the side of these cracks are replaced with stone.
+### Islands (H, not Comb.) 
+> There are 10 wide cracks run along the x and z axis every 100 blocks. The ore blocks on the side of these cracks are replaced with stone.
  
-(L) **Kill Reveal**|The teams will be secret until players get a kill. Once they get a kill, their color is shown on the tab list. Players must figure out on who is on what team to determine on what the actual team is.
+### Kill Reveal (L)
+> The teams will be secret until players get a kill. Once they get a kill, their color is shown on the tab list. Players must figure out on who is on what team to determine on what the actual team is.
  
-(L) **Kings**| Upon a team, 1 person will be King, the King will have Strength, Resistance, Haste, and 20 hearts. If the king dies, the remaining teammates will receive weakness for 3 mins and Poison for 15 seconds.
+### Kings (L) 
+> Upon a team, 1 person will be King, the King will have Strength, Resistance, Haste, and 20 hearts. If the king dies, the remaining teammates will receive weakness for 3 mins and Poison for 15 seconds.
  
-(L) **Krenzinator**| If you put 9 redstone blocks in a crafting table, you'll receive a diamond. If you craft a diamond sword, you will lose 1 heart. If you throw an egg, and if it hits a player, it will do half a heart (0.5). Horses and the nether is disabled, but you can still ride donkeys.
+### Krenzinator (L) 
+> If you put 9 redstone blocks in a crafting table, you'll receive a diamond. If you craft a diamond sword, you will lose 1 heart. If you throw an egg, and if it hits a player, it will do half a heart (0.5). Horses and the nether is disabled, but you can still ride donkeys.
  
-(H) **Love at First Damage**| When you take damage, you will be put onto a team. There are a minimum of 6 teams. The order is set as 1,2,3,4,5,6,1,2,3,4,5,6 etc. until everyone has taken damage and is put onto a team
+### Love at First Damage (H) 
+> When you take damage, you will be put onto a team. There are a minimum of 6 teams. The order is set as 1,2,3,4,5,6,1,2,3,4,5,6 etc. until everyone has taken damage and is put onto a team
  
-(H) **Love at first sight**| You are scattered as a solo with no team. The first person you see, you must team with. If you right click on them, you will form a team. That is your teammate for the rest of the game.
+### Love at first sight (L) 
+> You are scattered as a solo with no team. The first person you see, you must team with. If you right click on them, you will form a team. That is your teammate for the rest of the game.
  
-(L, not comb.) **Lavaless**| In the world, lava will not exist, and will be replaced, by the air blocks. The obsidian will generate in veins.
+### Lavaless (L, not Comb.)
+> In the world, lava will not exist, and will be replaced, by the air blocks. The obsidian will generate in veins.
  
-(L) **Lootcrates**| Every 10 minutes players are given out chests. You will gain a reward from them. They are either Tier 1 (Wooden Chest) or Tier 2 (Ender Chest).
+### Lootcrates (L) 
+> Every 10 minutes players are given out chests. You will gain a reward from them. They are either Tier 1 (Wooden Chest) or Tier 2 (Ender Chest).
  
-(H, not comb.) **Love When Coords Meet**| Similar to Soul Brothers and Love At First Sight. Half of the players will be scattered in 1 world and half in the other. Players will not be able to team based on who is in their world, but from coordinates of different worlds. Example, if 1 player in a world is at X:-500 and Z:250 and 1 player is in a 25 block radius near those coordinates in a different world, then they will automatically be put on a team. At meet-up all the players will be teleported into 1 different world.
+### Love When Coords Meet (H, not Comb.)
+> Similar to Soul Brothers and Love At First Sight. Half of the players will be scattered in 1 world and half in the other. Players will not be able to team based on who is in their world, but from coordinates of different worlds. Example, if 1 player in a world is at X:-500 and Z:250 and 1 player is in a 25 block radius near those coordinates in a different world, then they will automatically be put on a team. At meet-up all the players will be teleported into 1 different world.
  
-(L, not comb.) **Lucky Chests**| Ender chests will be scattered across the map, mainly in caves. They will contain either positive loot, like diamonds, gold, etc. Or negative effects like blindness, poison etc.
+### Lucky Chests (L, not Comb.) 
+> Ender chests will be scattered across the map, mainly in caves. They will contain either positive loot, like diamonds, gold, etc. Or negative effects like blindness, poison etc.
  
-(H) **Melee Fun**| There is no delay for when hitting a player, removes the noDamageticks. So this means players can get insane combos! It is sort of like Combo UHC.
+### Melee Fun (H)
+> There is no delay for when hitting a player, removes the noDamageticks. So this means players can get insane combos! It is sort of like Combo UHC.
  
-(H) **Moles**| Once PvP is on, 1 player will be selected on a team to be the mole. The mole's job is to kill his team and meet up with other moles, the moles will receive kits to pick from-located on top of the player's inventory. Depending on how players they're on in the game, there could be more than one mole team! (Arctic only!)
+### Moles (H) 
+> Once PvP is on, 1 player will be selected on a team to be the mole. The mole's job is to kill his team and meet up with other moles, the moles will receive kits to pick from-located on top of the player's inventory. Depending on how players they're on in the game, there could be more than one mole team! (Arctic only!)
  
-(H) **Monsters Inc.**| Once a player places down a door and walk through it, they will be teleported to another door that is connected within the world.
+### Monsters Inc. (H) 
+> Once a player places down a door and walk through it, they will be teleported to another door that is connected within the world.
  
-(L) **Mountaineering**| The entire map will be an extreme hills. Instead of using diamonds to craft an enchant table you will be using emeralds. 
+### Mountaineering (L) 
+> The entire map will be an extreme hills. Instead of using diamonds to craft an enchant table you will be using emeralds. 
  
-(L) **Moved 0,0**| The center of the map is not 0,0, however a different set of coordinates. The coordinates of the real 0,0 will be announced 10 minutes before meetup.
+### Moved 0,0 (L) 
+> The center of the map is not 0,0, however a different set of coordinates. The coordinates of the real 0,0 will be announced 10 minutes before meetup.
  
-(H, MUST USE L SCENS) **Mystery Scenarios**| The players will have no idea what the host enabled as a scenario or scenarios!
+### Mystery Scenarios (H, MUST USE L SCENS) 
+> The players will have no idea what the host enabled as a scenario or scenarios!
  
-(L, not comb.) **Mystery Teams**| At PvP, players will receive a banner, wool, or firework, representing their color. If they find a player with that same color, they are on the same team!
+### Mystery Teams (L, not comb.) 
+> At PvP, players will receive a banner, wool, or firework, representing their color. If they find a player with that same color, they are on the same team!
 
-(L) **Naked and Afraid**| Created by LethalWinter, you are not able to see everyone's armor. It will appear as when a person has no armor. 
+### Naked and Afraid (L) 
+> Created by LethalWinter, you are not able to see everyone's armor. It will appear as when a person has no armor. 
 
 THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO (Hosts are only allowed to ask the Admins not players)
-(H) **Necrophobia**| All passive and aggressive mobs are replaced with zombies with different classes. Once you kill a zombie, they will drop the necessities of leather, string, feathers, and their own flesh in which you can smelt the flesh into food known as "Human Meat" or Steak. If you get hit by one zombie, you will be infected with slowness and weakness. You can craft a curing potion by using 3 glasses of water and 1 blaze rod, dropped by killing a fire zombie, in any shape in the crafting table / 2x2 table. 
+### Necrophobia (H) 
+> All passive and aggressive mobs are replaced with zombies with different classes. Once you kill a zombie, they will drop the necessities of leather, string, feathers, and their own flesh in which you can smelt the flesh into food known as "Human Meat" or Steak. If you get hit by one zombie, you will be infected with slowness and weakness. You can craft a curing potion by using 3 glasses of water and 1 blaze rod, dropped by killing a fire zombie, in any shape in the crafting table / 2x2 table. 
 
-(L) **Nerfed Absorption**| Whenever you eat a golden apple and have 0 absorption hearts, you will get the absorption hearts first then once you eat another golden apple and you have the absorption effect, then you get the regeneration. 
+### Nerfed Absorption (L) 
+> Whenever you eat a golden apple and have 0 absorption hearts, you will get the absorption hearts first then once you eat another golden apple and you have the absorption effect, then you get the regeneration. 
  
-(L) **Neutral Mobs**| All mobs are neutral, like zombie pigman. Once you hit a mob, the mobs will now be aggressive on to you now and deal 3 times as much damage to you.
+### Neutral Mobs (L) 
+> All mobs are neutral, like zombie pigman. Once you hit a mob, the mobs will now be aggressive on to you now and deal 3 times as much damage to you.
 
 THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO (Hosts are only allowed to ask the Admins not players)
-(H) **Nightmare Mode**| The mobs have been intensely strong. Creepers walk twice as fast and when the explode a several silverfish will pop up to attack you. Zombies are slow but strong, if you kill them a skeleton appears and attacks you with melee. The zombies are also fire resistant. Skeletons shot poison arrows. Spiders are pretty fast and when they die, some "blood" and cobwebs will spawn around you. Enderman have mutated and whenever they get damaged, they will have a chance to spawn a blaze. Lastly, witches will have Speed 5. 
+### Nightmare Mode (H) 
+> The mobs have been intensely strong. Creepers walk twice as fast and when the explode a several silverfish will pop up to attack you. Zombies are slow but strong, if you kill them a skeleton appears and attacks you with melee. The zombies are also fire resistant. Skeletons shot poison arrows. Spiders are pretty fast and when they die, some "blood" and cobwebs will spawn around you. Enderman have mutated and whenever they get damaged, they will have a chance to spawn a blaze. Lastly, witches will have Speed 5. 
  
-(L) **No Anvils**| Anvils cannot be crafted nor be used.
+### No Anvils (L) 
+> Anvils cannot be crafted nor be used.
  
-(L) **No Clean**| When you kill a player, you have 20 seconds of PvP protection. If you attack a player and you have the PvP protection on, then you will lose that protection.
+### No Clean (L) 
+> When you kill a player, you have 20 seconds of PvP protection. If you attack a player and you have the PvP protection on, then you will lose that protection.
 
-(L) **No Clean+**| If you hit a player, it will lock you with that player, or team for 15 seconds. Every time you hit that player or team, the timer will refresh until the 15 seconds are up and can be attacked by another player or team. 
+### No Clean+ (L) 
+> If you hit a player, it will lock you with that player, or team for 15 seconds. Every time you hit that player or team, the timer will refresh until the 15 seconds are up and can be attacked by another player or team. 
  
-(L) **No Diamond Armor**| Players cannot craft any diamond armor.
+### No Diamond Armor (L) 
+> Players cannot craft any diamond armor.
  
-(L) **No Enchant Preview**| When enchanting, you cannot see what will you get beforehand.
+### No Enchant Preview (L) 
+> When enchanting, you cannot see what will you get beforehand.
  
-(L) **No Fall**| Players cannot take any fall damage.
+### No Fall (L) 
+> Players cannot take any fall damage.
  
-(L) **No Nametags**| Everyone in the game cannot see other players' name tags, making sneak attacks almost impossible.
+### No Nametags (L) 
+> Everyone in the game cannot see other players' name tags, making sneak attacks almost impossible.
  
-(L) **OP Lootcrates**| Every 15 mins, all players will recieve Overpowered items. There are 3 tiers in this scenario. The ender chest is the best, Trapped chest is the second best, and the normal chest being the third best.
+### OP Lootcrates (L) 
+> Every 15 mins, all players will recieve Overpowered items. There are 3 tiers in this scenario. The ender chest is the best, Trapped chest is the second best, and the normal chest being the third best.
   
-(H) **Overcook**| After the furnace smelts 1 item, the furnace will explode and give you the items, smelted, that were put in the furnace. WARNING: The explosion from the furnace can kill you!
+### Overcook (H) 
+> After the furnace smelts 1 item, the furnace will explode and give you the items, smelted, that were put in the furnace. WARNING: The explosion from the furnace can kill you!
  
-(L) **Parafusion**| When a player mines gold, or diamonds, crafts an enchant table, anvil, golden apples or heads, or brewing stand, eats a golden apple or golden head. or dies, then coordinates will be broadcasted with the names being "???". Health on tab will be disabled. Along with the /h command
+### Parafusion (L) 
+> When a player mines gold, or diamonds, crafts an enchant table, anvil, golden apples or heads, or brewing stand, eats a golden apple or golden head. or dies, then coordinates will be broadcasted with the names being "???". Health on tab will be disabled. Along with the /h command
  
-(L) **Paranoia**| Whenever a player mines gold or diamonds, crafts an enchantment table or anvil, crafts or eats a Golden Apple or Golden Head, or when a player gets killed, their coords are broadcasted in the chat. Health on tab and the /h commands are disabled for this game
+### Paranoia (L) 
+> Whenever a player mines gold or diamonds, crafts an enchantment table or anvil, crafts or eats a Golden Apple or Golden Head, or when a player gets killed, their coords are broadcasted in the chat. Health on tab and the /h commands are disabled for this game
  
-(L) **Period of Resistance**| Every 10 minutes, a damage type will be swapped. You cannot take damage from that type of damage. To check use /status
+### Period of Resistance (L) 
+> Every 10 minutes, a damage type will be swapped. You cannot take damage from that type of damage. To check use /status
  
-(L) **Permakill**| Whenever a player die, the cycle either changes to permanent day or permanent night.
+### Permakill (L) 
+> Whenever a player die, the cycle either changes to permanent day or permanent night.
  
-(L) **Permanight**| There is no day time, it is always night time.
+### Permanight (L)
+> There is no day time, it is always night time.
  
-(L) **Picked Teams**| Players, one by one, are allowed to pick on what team they want to be on. The order in which players will pick, will be randomly selected.
+### Picked Teams (L) 
+> At the start of the game, players, one by one, are allowed to pick on what team they want to be on. The order in which players will pick, will be randomly selected.
  
-(L) **Piggy Back**| If you right click on your teammate, you can ride on top of them!
+### Piggy Back (L) 
+> If you right click on your teammate, you can ride on top of them!
  
-(L) (FFA only) **Player Swap**| Every 2 to 7 minutes, at an unannounced time, 2 players will swap positions. 
+### Player Swap (L) 
+> Every 2 to 7 minutes, at an unannounced time, 2 players will swap positions. 
  
-(H) **Potential Hearts**| Everyone will have 10 regular hearts and X amount of hearts that they can receive if they heal.
+### Potential Hearts (L) 
+> Everyone will have 10 regular hearts and X amount of hearts that they can receive if they heal.
  
-(H) **Potential Moles**| Once PvP is set, there is a chance that a team could have a mole or cannot have a mole on their team.
+### Potential Moles (H) 
+> Once PvP is set, there is a chance that a team could have a mole or cannot have a mole on their team. If you are the mole, the goal is to kill your team and meet up with other moles.
  
-(H, not comb.) **Potential Permanent**| Everyone will start with 10 hearts and 10 absorption hearts. If a player loses any hearts due to damage, they will lose the hearts they've lost and cannot get it back. If you heal with a golden apple or golden head and your health is at maximum heath, you will lose the absorption hearts and gain hearts depending on how much you heal for. Golden heads also heal 2 hearts.
+### Potential Permanent (H, not Comb.) 
+> Everyone will start with 10 hearts and 10 absorption hearts. If a player loses any hearts due to damage, they will lose the hearts they've lost and cannot get it back. If you heal with a golden apple or golden head and your health is at maximum heath, you will lose the absorption hearts and gain hearts depending on how much you heal for. Golden heads also heal 2 hearts.
  
-(L) **Potion Healing**| Whenever you craft a golden apple, it becomes a Tier 1 health potion. Whenever you craft a golden head, it becomes a Tier 2 Health potion.
+### Potion Healing (L) 
+> Whenever you craft a golden apple, it becomes a Tier 1 health potion. Whenever you craft a golden head, it becomes a Tier 2 Health potion.
  
-(H) **Progressive Speed**| Everyone starts out with speed 1, if you manage to get a kill your tier of speed will go up by 1 tier.
+### Progressive Speed (H) 
+> Everyone starts out with speed 1, if you manage to get a kill your tier of speed will go up by 1 tier.
  
-(H, not comb.) **Pyrophobia**| All the water and ice in the world has been evaporated. All lava will replace it. 50% of all redstone veins and lapis veins is replaced by obsidian. Sugarcane will drop from trees at a rate of 2%. And lastly, all mobs in the game are fire resistant.
+### Pyrophobia (H, not Comb.)
+> All the water and ice in the world has been evaporated. All lava will replace it. 50% of all redstone veins and lapis veins is replaced by obsidian. Sugarcane will drop from trees at a rate of 2%. And lastly, all mobs in the game are fire resistant.
 
-(L) **Quadrant Paranoia**| On tab, it will display a colored name for which quadrant you are in. 
+### Quadrant Paranoia (L) 
+> On tab, it will display a colored name for which quadrant you are in. 
  
 (L) **Random Starter Items**| Everyone will receive 9 random starting items at random amounts, all the items will be the same for each player.
 
