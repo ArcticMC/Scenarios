@@ -4,7 +4,9 @@ zac083#1977:
 # REFERENCES
 
 > (H) = Represents this Scenario has a high impact rating on the game.
+
 > (L) = Represents this Scenario has a low impact rating on the game.
+
 > (Not comb.) = This scenario cannot be combined with other scenarios.
 
 # ARCTIC SHOP
