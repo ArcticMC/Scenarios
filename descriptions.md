@@ -1,6 +1,12 @@
 Current Arctic Scenario list with Description (As of March 9th, 2021) Completed At the Moment, made by zac083. His Discord 
 zac083#1977: 
 
+# REFERENCES
+
+(H) = Represents this Scenario has a high impact rating on the game.
+(L) = Represents this Scenario has a low impact rating on the game.
+(Not comb.) = This scenario cannot be combined with other scenarios.
+
 # ARCTIC SHOP
 
 > Ever wanted to host your own game on Arctic, with your amazing friends, maybe with a custom scenario you made? https://store.arcticmc.net/category/1217070 Our dedicated admins can help you host your custom game, Private Game, or Recorded Round with a custom scenario! 
