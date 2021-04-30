@@ -11,7 +11,7 @@ zac083#1977:
 > You will receive iron armor along with an iron sword, fishing rod, bow, 3 golden apples and 48 arrows to fight against your opponent! 
 
 ### UHC Kit
-> You will be iron gear with Projectile Protection 2 and Protection 2. You will also have an iron sword with sharpness one and a bow with power 1, and a stack and a half of arrows. (96 arrows). 
+> You will be iron gear with Projectile Protection 2 and Protection 2. You will have 4 golden apples and 2 golden heads. You will also have an iron sword with sharpness one and a bow with power 1, and a stack and a half of arrows. (96 arrows). 
 
 ### UHC+ Kit
 > You will receive Protection 2 Diamond helmet, Diamond Chest-plate, and Diamond boots. You will also receive Projectile Protection 3 Iron leggings. You will have 2 stacks of arrows, along with a Sharpness 2 Diamond sword, and a power 2 bow. For your healing, you will have 6 golden apples and 3 golden heads.
@@ -548,154 +548,225 @@ THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO
 ### Quadrant Paranoia (L) 
 > On tab, it will display a colored name for which quadrant you are in. 
  
-(L) **Random Starter Items**| Everyone will receive 9 random starting items at random amounts, all the items will be the same for each player.
+### Random Starter Items (L)
+> Everyone will receive 9 random starting items at random amounts, all the items will be the same for each player.
 
-(H) **Randomizer**| Whenever you break a block or kill an animal, it will drop either random loot. Whether it is from a crafting recipe, furnace smelting, or structure loot. 
+### Randomizer (H) 
+> Whenever you break a block or kill an animal, it will drop either random loot. Whether it is from a crafting recipe, furnace smelting, or structure loot. 
  
-(L) **Red Arrows**| Whenever a player dies, a red arrow will appear in the sky in where the person has died.
+### Red Arrows (L)
+Whenever a player dies, a red arrow will appear in the sky in where the person has died.
 
-(L) **Restoration**| Whenever you kill a player, your healing in your inventory will be consumed in order to be close to full health or on full health. I.e. Let's say you kill a player and you have 3 hearts left and 5 gaps. 3 gaps will be consumed automatically so you can be on 9 hearts with 2 gaps remaining. Golden Apples will take higher priority first then golden heads.
+### Restoration (L) 
+> Whenever you kill a player, your healing in your inventory will be consumed in order to be close to full health or on full health. I.e. Let's say you kill a player and you have 3 hearts left and 5 gaps. 3 gaps will be consumed automatically so you can be on 9 hearts with 2 gaps remaining. Golden Apples will take higher priority first then golden heads.
  
-(L) **Rewarding Longshots**| Players that hit another player from a distance with a bow, will be rewarded. (30-49 block longshot is 1 iron. 50-99 block longshot is 1 piece of iron and gold. 100-199 block longshot is 1 iron, 1 gold, and a diamond. 200+ block longshots gives you 5 diamonds, 3 gold and 2 iron.)
+### Rewarding Longshots (L) 
+> Players that hit another player from a distance with a bow, will be rewarded. (30-49 block longshot is 1 iron. 50-99 block longshot is 1 piece of iron and gold. 100-199 block longshot is 1 iron, 1 gold, and a diamond. 200+ block longshots gives you 5 diamonds, 3 gold and 2 iron.)
   
-(L) **Risky Retrieval**| All your mined Gold and Diamonds will go to an unbreakable chest located at 0,0 and the quadrants at 500.500,  500.-500, -500.-500, and -500.500.
+### Risky Retrieval (L) 
+> All your mined Gold and Diamonds will go to an unbreakable chest located at 0,0 and the quadrants at 500.500,  500.-500, -500.-500, and -500.500.
  
-(L) **Rodless**| The fishing rod cannot do any knockback to the player.
+### Rodless (L)
+> The fishing rod cannot do any knockback to the player.
  
-(L) **Rush**| The game will last 44 minutes or less.
+### Rush (L)
+> The game will last 44 minutes or less.
  
 (L) **Santa's Gift**| Putting a milk bucket and a cookie in a crafting table will give you good items.
 
 (L) **Santa's Helper**| Every 15 minutes, all players are asked to obtain an item. Once the player has obtained that item, they can drop the item off in a chest at the coords of X: 250 and Z: 250 at any quadrant to receive a small reward. When the item rotates out, you cannot place that past item into the chest. 
 
 THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO (Hosts are only allowed to ask the Admins not players)
-(H) **Scenario Mania**| Created by the Recorded Round of Cataclysm, each player on a team will be given 1 scenario and it will only work for that 1 player on a team.
+### Scenario Mania (H)
+> Created by the Recorded Round of Cataclysm, each player on a team will be given 1 scenario and it will only work for that 1 player on a team.
  
-(H, MUST YOU L SCENS) **Scenario Stackup**| Every 10 minutes, a new scenario will be enabled, even at the start.
+### Scenario Stackup (H, MUST USE L-Type Scenarios) 
+> Every 10 minutes, a new scenario will be enabled, even at the start.
  
-(H, MUST USE L SCENS) **Scenario Switcher**| Every 10 minutes, a new scenario will be enabled and the old scenario will be disabled.
+### Scenario Switcher (H, MUST USE L-Type Scenarios) 
+> Every 10 minutes, a new scenario will be enabled and the old scenario will be disabled.
  
-(H, not comb.) **School**| There are 2 roles in this scenario: The teacher and the student. The student cannot craft anything until the teacher has crafted that item. If the teacher dies, then the student will have to kill another teacher in order for him to craft everything.
+### School (H, not comb.)
+> There are 2 roles in this scenario: The teacher and the student. The student cannot craft anything until the teacher has crafted that item. If the teacher dies, then the student will have to kill another teacher in order for him to craft everything.
  
-(L) **Secret Health**| On tab, other player's health will not be shown. You can only see your own health.
+### Secret Health (L) 
+> On tab, other player's health will not be shown. You can only see your own health.
  
-(L) **Secret Teams**| The teams are not colored, thus for players to guess on who is on what team.
+### Secret Teams (L) 
+> The teams are not colored, thus for players to guess on who is on what team.
 
 THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO (Hosts are only allowed to ask the Admins not players)
-(H) **Select Fire**| When left clicking your bow, it will go into four modes: Fireballs, Creepers, Flame, or TNT. Chickens do not Drop feathers and coal drops arrows.
+### Select Fire (H) 
+> When left clicking your bow, it will go into four modes: Fireballs, Creepers, Flame, or TNT. Chickens do not Drop feathers and coal drops arrows.
 
 THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO (Hosts are only allowed to ask the Admins not players)
-(H) **Self Diagnosis** You cannot see your own health and everyone else's. It will always display as full health.
+### Self Diagnosis (H) 
+> You cannot see your own health and everyone else's. It will always display as full health.
    
-(H, not comb.) **Shared Health**| Upon a team, their health is shared. Every time a player takes damage, their teammates will also take damage as well. The heals of the Golden Apple will change. (20/X amount of players on a team.) And if one players die on a team, everyone on the team will die as well. Golden heads will be off.
+### Shared Health (H, not comb.) 
+> Upon a team, their health is shared. Every time a player takes damage, their teammates will also take damage as well. The heals of the Golden Apple will change. (20/X amount of players on a team.) And if one players die on a team, everyone on the team will die as well. Golden heads will be off.
 
-(L) **Sharpshooters**| 8 players, selected by the host, will go off to shoot 1 player from a pedestal to pick their players. If they miss their shot, their turn will be skipped. If they hit a player, that player will be added to their team.
+### Sharpshooters (L) 
+> 8 players, selected by the host, will go off to shoot 1 player from a pedestal to pick their players. If they miss their shot, their turn will be skipped. If they hit a player, that player will be added to their team.
    
-(L) **Shrinking Borders**| The border will start to shrink at the start of pvp until meet-up. If you go past the border, you will be killed.
+### Shrinking Borders (L)
+> The border will start to shrink at the start of pvp until meet-up. If you go past the border, you will be killed.
  
-(L) **Silent Night**| When the night time occurs, the chat, name tags, health on tab and /h, and death messages will all be disabled.
+### Silent Night (L) 
+> When the night time occurs, the chat, name tags, health on tab and /h, and death messages will all be disabled.
 
-(L) **Siphon**| Whenever you get a kill, you will regenerate 2 hearts, gain 2 levels and get a random tier 1 enchanted book. (The tier 1 book cannot be Fire Aspect 1 or Flame 1)
+### Siphon (L) 
+> Whenever you get a kill, you will regenerate 2 hearts, gain 2 levels and get a random tier 1 enchanted book. (The tier 1 book cannot be Fire Aspect 1 or Flame 1)
  
-(H, not comb.) **Skyhigh**| After about 45-60 minutes, players must be at or near 0,0 at a Y level above 101. If players are underneath that Y:101 level they will take half a heart every 30 seconds. You will receive starter items at the beginning of the game, this includes: 2 stacks of blocks, some snowball blocks, some pumpkins, and a Diamond shovel. Also, the sand will drop glass and Snow blocks will drop snow blocks. 
+### Skyhigh (H, not comb.) 
+> After about 45-60 minutes, players must be at or near 0,0 at a Y level above 101. If players are underneath that Y:101 level they will take half a heart every 30 seconds. You will receive starter items at the beginning of the game, this includes: 2 stacks of blocks, some snowball blocks, some pumpkins, and a Diamond shovel. Also, the sand will drop glass and Snow blocks will drop snow blocks. 
   
-(L, not comb.) **Slavemarket**| The first 8 players, selected by the host or by a command of /codeword \<Codeword\>, will be selected. The slave owners will receive an X amount of diamonds to bid on. The command to bid for players is /bid \<# of Diamonds\>. After the bidding, the slave owners keep the remaining diamonds.
+### Slavemarket (L, not comb.) 
+> The first 8 players, selected by the host or by a command of /codeword \<Codeword\>, will be selected. The slave owners will receive an X amount of diamonds to bid on. The command to bid for players is /bid \<# of Diamonds\>. After the bidding, the slave owners keep the remaining diamonds.
  
-(L, not comb.) **Slavemarket Double Packaging**| The first 8 players, selected by the host or by a command on /codeword \<Codeword\>, will be selected. The slave owners will receive an X amount of diamonds to bid on. The command to bid for players is /bid \<# of Diamonds\>. Instead of players getting 1 person, they will get 2. The 2 people will be randomized and put together for bidding. After the bidding, the slave owners keep the remaining diamonds.
+### Slavemarket Double Packaging (L, not comb.) 
+> The first 8 players, selected by the host or by a command on /codeword \<Codeword\>, will be selected. The slave owners will receive an X amount of diamonds to bid on. The command to bid for players is /bid \<# of Diamonds\>. Instead of players getting 1 person, they will get 2. The 2 people will be randomized and put together for bidding. After the bidding, the slave owners keep the remaining diamonds.
  
-(H, not comb.) **Slimy Chunk**| In the world, there is a 10% chance that each chunk can disappear! At the bottom of each chunk that has disappeared will contain slime blocks at the bottom to break your fall! You can break those slime blocks and it can send you or other people down to the void!
+### Slimy Chunk (H, not comb.)
+> In the world, there is a 10% chance that each chunk can disappear! At the bottom of each chunk that has disappeared will contain slime blocks at the bottom to break your fall! You can break those slime blocks and it can send you or other people down to the void!
  
-(H, not comb.) **Slimy Crack**| Along the X:0 or Z:0 lies a giant crack in the world with slime blocks underneath to break your fall. You can break the slime blocks. The size of the crack is about 50 blocks.
+### Slimy Crack (H, not comb.) 
+> Along the X:0 or Z:0 lies a giant crack in the world with slime blocks underneath to break your fall. You can break the slime blocks. The size of the crack is about 50 blocks.
 
-(H) **Snowball Fighters**| The snowballs you throw will do damage base on how far away you throw it and hit a player. You cannot obtain or use a bow, and the highest damaging melee weapon you can use it a Stone Axe or a Wood Sword. (Here is the base damage if you have no armor.< 5 blocks = 1.75 hearts, < 15 blocks = 2 hearts, < 25 blocks = 2.25 hearts, < 35 blocks = 2.5 hearts, and > 35 blocks = 2.75 hearts.)
+### Snowball Fighters (H)
+> The snowballs you throw will do damage base on how far away you throw it and hit a player. You cannot obtain or use a bow, and the highest damaging melee weapon you can use it a Stone Axe or a Wood Sword. (Here is the base damage if you have no armor.< 5 blocks = 1.75 hearts, < 15 blocks = 2 hearts, < 25 blocks = 2.25 hearts, < 35 blocks = 2.5 hearts, and > 35 blocks = 2.75 hearts.)
 
-(H) **Snowball Flight**| Whenever you right click a snowball you will be able to ride on that snowball.  When you press your sneak action you will be getting off of the snowball. You must wait 10 seconds before you can throw another snowball to fly again. Fall Damage is disabled for this gamemode
+### Snowball Flight (H) 
+> Whenever you right click a snowball you will be able to ride on that snowball.  When you press your sneak action you will be getting off of the snowball. You must wait 10 seconds before you can throw another snowball to fly again. Fall Damage is disabled for this gamemode
   
-(L, not comb.) **Snowday**| The entire world is covered in snow! Majority of the biomes is replaced by the Cold Taiga biome. Also there Sugar cane drops from trees at a rate of 2%.
+### Snowday (L, not comb.)
+> The entire world is covered in snow! Majority of the biomes is replaced by the Cold Taiga biome. Also there Sugar cane drops from trees at a rate of 2%.
  
-(H, not comb.) **Soul Brothers**| 2 of the same worlds are created. Teammates goes into 1 world, the other teammates goes into the other world. After a specific period of time, the remaining teammates, if they are alive, will be teleported into 1 new world together.
+### Soul Brothers (H, not comb.) 
+> 2 of the same worlds are created. Teammates goes into 1 world, the other teammates goes into the other world. After a specific period of time, the remaining teammates, if they are alive, will be teleported into 1 new world together.
  
-(H, not comb.) **Soul Brothers+**| This is the same as Soul Brothers! Players are scattered into different worlds! However... Players will be scatter into special worlds and not regular worlds!
+### Soul Brothers+ (H, not comb.) 
+> This is the same as Soul Brothers! Players are scattered into different worlds! However... Players will be scatter into special worlds and not regular worlds!
 
-(L) **Speed Shot**| Whenever you hit a 50 block or more longshot, you will gain speed 2 for the next 10 seconds. 
+### Speed Shot (L) 
+> Whenever you hit a 50 block or more longshot, you will gain speed 2 for the next 10 seconds. 
  
-(H, not comb with Infestation) **Spawners Galore**| Spawner rates have been increased in the world. Giving you more mobs to fight and more loot to collect! The spawners can be any mob in the game! Except Ender Dragons, and Withers!
+### Spawners Galore (H, not comb with Infestation) 
+> Spawner rates have been increased in the world. Giving you more mobs to fight and more loot to collect! The spawners can be any mob in the game! Except Ender Dragons, and Withers!
  
-(L, not comb, with Superheroes) **Speedy Miners**| Players that are under Y:32 will receive Speed 1.
+### Speedy Miners (L, not comb with other potion effect scenarios)
+> Players that are under Y:32 will receive Speed 1.
 
 THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO (Hosts are only allowed to ask the Admins not players)
-(L) **Statless**| The game will not count for stats.
+### Statless (L) 
+> The game will not count for stats.
 
-(L) **Split Spawn**| In a Team game, all of the players on a team will be scattered alone.
+### Split Spawn (L) 
+> In a Team game, all of the players on a team will be scattered alone.
 
-(L) **Stock up**| Whenever a player dies, everyone that is currently alive will receive 1 empty heart.
+### Stock up (L) 
+> Whenever a player dies, everyone that is currently alive will receive 1 empty heart.
  
-(H) **Stronger Mobs**| Zombies and Skeletons have a chance to spawn in wearing armor. Creepers have a 25% of being a Charged Creeper. Spiders also have potion effects and witches spawn rate will be increased.
+### Stronger Mobs (H) 
+> Zombies and Skeletons have a chance to spawn in wearing armor. Creepers have a 25% of being a Charged Creeper. Spiders also have potion effects and witches spawn rate will be increased.
  
-(L) **Sudden Death**| Once Meet-up is called all players will be teleported into a 300x300 area of 0,0 and must fight from there!
+### Sudden Death (L) 
+> Once Meet-up is called all players will be teleported into a 300x300 area of 0,0 and must fight from there!
  
-(H) **Superheroes**| Everybody on a team will receive a superpower that will last for the entire game. A player can receive 1 of the following: Strength, Speed, Resistance, Double Health, Invisibility, or Jump Boost. Fall damage is off in this gamemode. For Health power: Gaps heal 3 hearts and Golden Heads heal 6 hearts. *Does not apply to potions!* (If teams of 5, Jump will be available, if teams of 6 or higher, Invisibility is available, unless the player is solo without a team.)
+### Superheroes (H)
+> Everybody on a team will receive a superpower that will last for the entire game. A player can receive 1 of the following: Strength, Speed, Resistance, Double Health, Invisibility, or Jump Boost. Fall damage is off in this gamemode. For Health power: Gaps heal 3 hearts and Golden Heads heal 6 hearts. *Does not apply to potions!* (If teams of 5, Jump will be available, if teams of 6 or higher, Invisibility is available, unless the player is solo without a team.)
  
-(H, not comb.) **Super Smash Brothers**| Each player on a team will receive a different class, all classes are chosen at random. The characters are Mario, Sonic, Kirby, Pit, Meta Knight, Donkey Kong, Pikachu, and Link. All the characters has different abilities. To check abilities, use /ssh. (Here is the link for all of the powers![https://www.reddit.com/r/ultrahardcore/comments/31iydz/super_smash_bros_with_skript/] For the Super Star for Kirby's ability (Frequently asked question) If right clicked on a player, it will send the player upwards at res 100 and speed 5. <----- Might be broken.
+### Super Smash Brothers (H, not comb.) 
+> Each player on a team will receive a different class, all classes are chosen at random. The characters are Mario, Sonic, Kirby, Pit, Meta Knight, Donkey Kong, Pikachu, and Link. All the characters has different abilities. To check abilities, use /ssh. (Here is the link for all of the powers!)[https://www.reddit.com/r/ultrahardcore/comments/31iydz/super_smash_bros_with_skript/] For the Super Star for Kirby's ability (Frequently asked question) If right clicked on a player, it will send the player upwards at res 100 and speed 5. <----- Might be broken.
  
-(L, not comb.) **Swingers**| The first team you see and right click the player on a different team, will combine that team together.
+### Swingers (L, not comb.)
+> The first team you see and right click the player on a different team, will combine that team together.
  
-(H, not comb.) **Take5**| When a player dies, it will spawn a chest with all their stuff in it. You can only take 5 of their items.
+### Take5 (H)
+> When a player dies, it will spawn a chest with all their stuff in it. You can only take 5 of their items.
  
-(L) **Team Health**| All of the team's health is summed to their total combined health. You cannot /h a player or teammate.  
+### Team Health (L) 
+> All of the team's health is summed to their total combined health. You cannot /h a player or teammate.  
 
-(L) **Team Inventory**| You will have the ability to open your team inventory, (/ti) to gain an extra 27 inventory slots for team. If you are the last player on your team, once you die, you will drop all the items that are stored in the Team Inventory.
+### Team Inventory (L) 
+> You will have the ability to open your team inventory, (/ti) to gain an extra 27 inventory slots for team. If you are the last player on your team, once you die, you will drop all the items that are stored in the Team Inventory.
   
-(H, not comb.) **THS3 Terrain**| The terrain is a mix of Flat World, Amplified, and Normal terrain. Dungeon rates are increased and fit every mob type.
+### THS3 Terrain (H, not comb.) 
+> The terrain is a mix of Flat World, Amplified, and Normal terrain. Dungeon rates are increased and fit every mob type.
  
-(H, not comb.) **Tier Progression**| There are 3 worlds in the game and each world will contain different attributes. Everyone will start at World 1 and the Portal will be at 0,0 for World 2. (Same with World 2 to World 3) However, once you enter that portal, you cannot go back to the previous world. World 1 will contain no gold or diamond mining but 15 mins until pvp. World 2 will contain Gold mining, but no diamond mining. Also PvP will activate once you are in World 2. World 3 contains Gold and Diamond mining and PvP will be on once you enter that world. You will be scattered to random cords instead of 0,0 once you enter the world.
+### Tier Progression (H, not comb.) 
+> There are 3 worlds in the game and each world will contain different attributes. Everyone will start at World 1 and the Portal will be at 0,0 for World 2. (Same with World 2 to World 3) However, once you enter that portal, you cannot go back to the previous world. World 1 will contain no gold or diamond mining but 15 mins until pvp. World 2 will contain Gold mining, but no diamond mining. Also PvP will activate once you are in World 2. World 3 contains Gold and Diamond mining and PvP will be on once you enter that world. You will be scattered to random cords instead of 0,0 once you enter the world.
  
-(L) **Timber**| When you break a tree, the entire logs of that tree will come off.
+### Timber (L)
+> When you break a tree, the entire logs of that tree will come off.
  
-(L) **Timebomb**| Whenever a player dies, their stuff will be placed in a chest with a timer ticking. Players will have 30 seconds to grab the stuff before it explodes. After the 30 seconds, the chest full of items will explode. Players can be damaged by the explosion.
+### Timebomb (L) 
+> Whenever a player dies, their stuff will be placed in a chest with a timer ticking. Players will have 30 seconds to grab the stuff before it explodes. After the 30 seconds, the chest full of items will explode. Players can be damaged by the explosion.
 
-(L) **Timed Kings**| Created by the Record Round of Evolution. (Debuted in 8th season) The kings will be swapped every 10 minutes on a team. The old king will lose the king effects and the new king will get the new king effects. 
+### Timed Kings (L) 
+> Created by the Record Round of Evolution. (Debuted in 8th season) The kings will be swapped every 10 minutes on a team. The old king will lose the king effects and the new king will get the new king effects. 
  
-(H) **Timed Teams**| The teams will be set at a random point in the game, rather than before in the game.
+### Timed Teams (H) 
+> The teams will be set at a random point in the game, rather than before in the game.
  
-(L) **Time Flies**| Every day cycle takes 5 minutes and every night cycle takes 5 minutes, making the whole cycle only 10 minutes instead of 20.
+### Time Flies (L) 
+> Every day cycle takes 5 minutes and every night cycle takes 5 minutes, making the whole cycle only 10 minutes instead of 20.
  
-(L) **TommySX**| Creepers will do double damage and every diamond shovel you craft will have Efficiency 5. When you craft a sword or bow, it'll be named XDDDDDDDDDDE. All mobs Passive or Hostile will have a 10% chance to spawn with Speed 2 and will be named Gotta Go Fast!
+### TommySX (L) 
+> Creepers will do double damage and every diamond shovel you craft will have Efficiency 5. When you craft a sword or bow, it'll be named XDDDDDDDDDDE. All mobs Passive or Hostile will have a 10% chance to spawn with Speed 2 and will be named Gotta Go Fast!
  
-(H) **Training Rabbits**| Everybody will start with Jump Boost 2. Every time a player gets a kill, their Jump Boost tier will increase by 1. Fall damage will be off.
+### Training Rabbits (H) 
+> Everybody will start with Jump Boost 2. Every time a player gets a kill, their Jump Boost tier will increase by 1. Fall damage will be off.
  
-(L, not comb.) **Triple Ores**| Instead of 1 ore dropping when you mine it, 3 will be dropped of that ore.
+### Triple Ores (L, not comb.) 
+> Instead of 1 ore dropping when you mine it, 3 will be dropped of that ore.
  
-(L) **True Love**| You are allowed to team up with 1 other ally. If your ally dies, you can team up with another ally, either a solo can win or an allied team of 2 can win the game.
+### True Love (L) 
+> You are allowed to team up with 1 other ally. If your ally dies, you can team up with another ally, either a solo can win or an allied team of 2 can win the game.
  
-(L) **Undead's Revenge**| Whenever a player dies, it will either summon a skeleton or a zombie that you must kill it in order to gain  all of the loot. The Zombie or Skeleton will hold whatever the killed person was holding last.
+### Undead's Revenge (L) 
+> Whenever a player dies, it will either summon a skeleton or a zombie that you must kill it in order to gain  all of the loot. The Zombie or Skeleton will hold whatever the killed person was holding last.
 
 THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO (Hosts are only allowed to ask the Admins not players)
-(H) **Underground Parallel**| The surface is replicated underground at Y:42 and Below.
+### Underground Parallel (H) 
+> The surface is replicated underground at Y:42 and Below.
  
-(L) **Unbreakable**| All tools, weapons, and armor cannot be broken.
+### Unbreakable (L) 
+> All tools, weapons, and armor cannot be broken.
   
-(H, not comb.) **Upside-Down Crafting**| All the crafting recipes in the game will be flipped upside down.
+### Upside-Down Crafting (H, not comb.)
+> All the crafting recipes in the game will be flipped upside down.
 
-(H) **Urban Sprawl**| There will be a lot of villages in the world. You will also spawn with 20 Villager Eggs since no villagers will be spawned. 
+### Urban Sprawl (H)
+> There will be a lot of villages in the world. You will also spawn with 20 Villager Eggs since no villagers will be spawned. 
  
-(L) **Vanilla+**| It's the same game, but the game has been tweaked a little bit (Flint rates, Increased Apple Rates Etc.)
+### Vanilla+ (L) 
+> It's the same game, but the game has been tweaked a little bit (Flint rates, Increased Apple Rates Etc.)
  
-(L) **VeinMiner**| If you shift and mine an ore, with the right pickaxe, the entire vein of that ore will all be mined at once. This works with gravel too with a shovel.
+### VeinMiner (L) 
+> If you shift and mine an ore, with the right pickaxe, the entire vein of that ore will all be mined at once. This works with gravel too with a shovel.
  
-(L) **Vengeful Spirits**| When a player dies above Y:64 a ghast will appear. You must kill that ghast in order to receive the player's head. If they die under Y:64 a blaze will spawn and you must kill it to get the player head. 
+### Vengeful Spirits (L) 
+> When a player dies above Y:64 a ghast will appear. You must kill that ghast in order to receive the player's head. If they die under Y:64 a blaze will spawn and you must kill it to get the player head. 
 
-(H) **Wacky World**| All the blocks in the world, except the trees, and ores will be completely randomized. You can get from clay to melon blocks! This terrain was first featured in Desire Season 6. (Owner’s note: I do think you start with cobble stone, don’t quote me on this)
+### Wacky World (H) 
+> All the blocks in the world, except the trees, and ores will be completely randomized. You can get from clay to melon blocks! This terrain was first featured in Desire Season 6. (Owner’s note: I do think you start with cobble stone, don’t quote me on this)
  
-(H) **Wasteland**| The map is generated as a wasteland. Meaning that everything is dead.
+### Wasteland (H) 
+> The map is generated as a wasteland. Meaning that everything is dead.
   
-(L) **Webcage**| Whenever a player dies, a sphere of cobwebs will spawn on where the player has died.
+### Webcage (L) 
+> Whenever a player dies, a sphere of cobwebs will spawn on where the player has died.
 
-(L) **Wish List**| At the start of the game, each player is assigned 3 random items to obtain. When a player obtains an item in their inventory, they will receive a buff. Each item has their own buff as well
+### Wish List (L) 
+> At the start of the game, each player is assigned 3 random items to obtain. When a player obtains an item in their inventory, they will receive a buff. Each item has their own buff as well
 
 THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO (Hosts are only allowed to ask the Admins not players)
-(H) **WTFIPTG**| It stands for "Who The Fuck Is Playing This Game" The chat, join messages, death messages, and killboard are disabled. Everyone will be disguised as so that way you can't tell who is who. 
+### WTFIPTG (H) 
+> It stands for "Who The Fuck Is Playing This Game" The chat, join messages, death messages, and killboard are disabled. Everyone will be disguised as so that way you can't tell who is who. 
   
-(H, not comb.) **Xenophobia**| Every mob, passive or aggressive, will be a villager, same to go with all the players.
+### Xenophobia (H, not comb.) 
+> Every mob, passive or aggressive, will be a villager, same to go with all the players.
  
-(L) **Zombies Galore**| All Hostile mobs will spawn as a zombie and will drop different items like bones, string etc.
+### Zombies Galore (L) 
+> All Hostile mobs will spawn as a zombie and will drop different items like bones, string etc.
