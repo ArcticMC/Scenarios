@@ -293,7 +293,7 @@ THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO
 ### End Meetup (L) 
 > Once the game has reached it's Meetup phase, players will be frozen and teleported into the end. PvP will be disabled for about 10-15 seconds. Then the fight happens. After 10 mins, the dragon will spawn if the game is not completed.
 
-Enemy Recon (L)
+### Enemy Recon (L)
 > Whenever you get a kill you will earn 1 recon. This recon will allow you to spy on what the player has in terms of inventory and information. By using the command /er <Player> it will use 1 recon, and it has a 30% chance of broadcasting in chat on who you are spying on.
   
 ### Experienced Crafter (H)
@@ -314,7 +314,7 @@ Enemy Recon (L)
 ### Feather Boots (L)
 > When you craft leather boots, using feathers instead of leather, it will have feather falling 4 upon crafting them.
  
-Fireless (L)
+### Fireless (L)
 > All Fire damage (Includes lava and fire swords), will not do damage to you.
  
 ### Flat World (H, not comb.)
@@ -586,9 +586,11 @@ Whenever a player dies, a red arrow will appear in the sky in where the person h
 ### Rush (L)
 > The game will last 44 minutes or less.
  
-(L) **Santa's Gift**| Putting a milk bucket and a cookie in a crafting table will give you good items.
+### Santa's Gift (L)
+ > Putting a milk bucket and a cookie in a crafting table will give you good items.
 
-(L) **Santa's Helper**| Every 15 minutes, all players are asked to obtain an item. Once the player has obtained that item, they can drop the item off in a chest at the coords of X: 250 and Z: 250 at any quadrant to receive a small reward. When the item rotates out, you cannot place that past item into the chest. 
+### Santa's Helper (L)
+ > Every 15 minutes, all players are asked to obtain an item. Once the player has obtained that item, they can drop the item off in a chest at the coords of X: 250 and Z: 250 at any quadrant to receive a small reward. When the item rotates out, you cannot place that past item into the chest. 
 
 THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO (Hosts are only allowed to ask the Admins not players)
 ### Scenario Mania (H)
