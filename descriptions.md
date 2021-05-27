@@ -1,4 +1,4 @@
-Current Arctic Scenario list with Description (As of March 9th, 2021) Completed At the Moment, made by zac083. His Discord 
+Current Arctic Scenario list with Description (As of May 27th, 2021) Completed At the Moment, made by zac083. His Discord 
 zac083#1977: 
 
 # REFERENCES
@@ -437,6 +437,9 @@ Fireless (L)
 ### Lavaless (L, not Comb.)
 > In the world, lava will not exist, and will be replaced, by the air blocks. The obsidian will generate in veins.
  
+### Lawless Meetup (L)
+> The rules of Meet-up have been more relaxed, you are permitted to do anything, besides cross teaming and breaking any server rules.
+ 
 ### Lootcrates (L) 
 > Every 10 minutes players are given out chests. You will gain a reward from them. They are either Tier 1 (Wooden Chest) or Tier 2 (Ender Chest).
  
@@ -555,6 +558,9 @@ THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO
 
 ### Quadrant Paranoia (L) 
 > On tab, it will display a colored name for which quadrant you are in. 
+ 
+### Quiver (L)
+> You are only permitted to carry only 16 arrows in your inventory at one time.
  
 ### Random Starter Items (L)
 > Everyone will receive 9 random starting items at random amounts, all the items will be the same for each player.
