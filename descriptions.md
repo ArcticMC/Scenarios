@@ -278,7 +278,7 @@ THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO
 ### Eight Legged Freaks (H) 
 > All hostile mobs will be replaced with Spiders with different abilities and powers. 
   
-### Elements (H, not comb.)
+### Elements (H, not comb. **BROKEN**)
 > Each player will get an ability, either water, earth, fire, and air. This scenario was created by the group of Ambition. https://pastebin.com/907NZWVJ
  
 ### Enchanted Death (L)
