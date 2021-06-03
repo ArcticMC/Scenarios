@@ -91,7 +91,7 @@ zac083#1977:
 
 ### Battle Royale
 
-> THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO (Hosts are only allowed to ask the Admins not players)
+> This is an Admin Scenario. If this scenario needs to be hosted, a host must ask an admin to enable the scenario for them.
 
 > You are allowed to team up with anyone but only 1 will win. All skeleton, spider, and chicken drop rates have been decreased by 50%. Cobwebs will only drop str 10% of the time. You cannot talk in chat or message players, and no death messages will show. Every 20 minutes, you will get a notification in chat as to who has died. Whenever a player dies, their body will be on the floor of where they died. 
  
