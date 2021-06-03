@@ -83,12 +83,16 @@ zac083#1977:
 ### Barebones (H)
 > Your best tier of mining is Iron, you cannot mine Gold or Diamonds, or obtain any anvils or enchant tables. If you kill a player, they will drop 1 diamond, a golden apple, 2 string and 32 arrows. 
 
-THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO (Hosts are only allowed to ask the Admins not players)
 ### Bats (L)
+
+> THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO (Hosts are only allowed to ask the Admins not players)
+
 > Whenver you kill a bat there is a 99% chance that you get 1 Golden Apple and a 1% chance to be instantly dead. 
 
-THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO (Hosts are only allowed to ask the Admins not players)
-### Battle Royale (H)
+### Battle Royale
+
+> THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO (Hosts are only allowed to ask the Admins not players)
+
 > You are allowed to team up with anyone but only 1 will win. All skeleton, spider, and chicken drop rates have been decreased by 50%. Cobwebs will only drop str 10% of the time. You cannot talk in chat or message players, and no death messages will show. Every 20 minutes, you will get a notification in chat as to who has died. Whenever a player dies, their body will be on the floor of where they died. 
  
 ### Battle Siren (L)
