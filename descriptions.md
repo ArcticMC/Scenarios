@@ -85,7 +85,7 @@ zac083#1977:
 
 ### Bats (L)
 
-> THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO (Hosts are only allowed to ask the Admins not players)
+> (&#x1F534;): THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO (Hosts are only allowed to ask the Admins not players)
 
 > Whenver you kill a bat there is a 99% chance that you get 1 Golden Apple and a 1% chance to be instantly dead. 
 
