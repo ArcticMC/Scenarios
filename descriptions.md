@@ -119,8 +119,10 @@ zac083#1977:
 ### Biome Paranoia (L)
 > On tab your name has a color, that color represents the biome you are in. To check the biomes, use /bl
 
-THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO (Hosts are only allowed to ask the Admins not players)
 ### Birds (H)
+
+> THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO (Hosts are only allowed to ask the Admins not players)
+
 > All players are allowed to fly in the game. Fall damage will be disabled. 
  
 ### Black Plague (H)
@@ -153,8 +155,10 @@ THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO
 ### Blood Enchants (L)
 > Every time you enchant an item, you will lose half a heart.
 
-THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO (Hosts are only allowed to ask the Admins not players)
 ### Blood Lapis (H)
+
+> THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO (Hosts are only allowed to ask the Admins not players)
+
 > Whenever you mine lapis ore, you will lose 0.5 hearts. The lapis will only drop 1-2 lapis.
 
 ### Blood Market (L)
@@ -271,15 +275,19 @@ THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO
 ### Dragon Rush (H) 
 > At 0,0 lays a portal to the end. But 3 eyes of ender are missing from the portal. The goal is to race and defeat the dragon! The nether will be on but trapping and camping the nether portal will be off.
 
-THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO (Hosts are only allowed to ask the Admins not players)
 ### Dungeoneering (H)
+
+> THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO (Hosts are only allowed to ask the Admins not players)
+
 > Ore rates have been dropped except redstone, lapis, and emerald will spawn more frequently in caves. Dungeons in caves will spawn more frequently. There is no bedrock and TNT veins spawn. If you place the TNT it will automatically ignite.  
   
 ### Eggs (H)
 > You start the game with 3 eggs and when you throw them any mob/animal in the game can come out of the egg. You can get more eggs from chickens when they lay them.
 
-THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO (Hosts are only allowed to ask the Admins not players)
 ### Eight Legged Freaks (H) 
+
+> THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO (Hosts are only allowed to ask the Admins not players)
+
 > All hostile mobs will be replaced with Spiders with different abilities and powers. 
   
 ### Elements (H, not comb. **BROKEN**)
@@ -408,7 +416,7 @@ THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO
 ### Inventors+ (L)
 > The first player to craft something will be broadcasted in the chat. They will either receive 1 diamond or 2 gold.
   
-### Inverted Dimensions (h, not Comb.) 
+### Inverted Dimensions (H, not Comb.) 
 > The nether and the overworld has been switched. The terrain, in the overworld, would look like the nether, and the nether would look like the overworld. Sugar cane will drop from trees and some lapis and redstone will be placed with obsidian. You cannot place water in the overworld.
  
 ### Inverted Parallel (H, not Comb.) 
@@ -477,8 +485,10 @@ THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO
 ### Naked and Afraid (L) 
 > Created by LethalWinter, you are not able to see everyone's armor. It will appear as when a person has no armor. 
 
-THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO (Hosts are only allowed to ask the Admins not players)
-### Necrophobia (H) 
+### Necrophobia (H)
+
+> THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO (Hosts are only allowed to ask the Admins not players)
+ 
 > All passive and aggressive mobs are replaced with zombies with different classes. Once you kill a zombie, they will drop the necessities of leather, string, feathers, and their own flesh in which you can smelt the flesh into food known as "Human Meat" or Steak. If you get hit by one zombie, you will be infected with slowness and weakness. You can craft a curing potion by using 3 glasses of water and 1 blaze rod, dropped by killing a fire zombie, in any shape in the crafting table / 2x2 table. 
 
 ### Nerfed Absorption (L) 
@@ -487,8 +497,10 @@ THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO
 ### Neutral Mobs (L) 
 > All mobs are neutral, like zombie pigman. Once you hit a mob, the mobs will now be aggressive on to you now and deal 3 times as much damage to you.
 
-THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO (Hosts are only allowed to ask the Admins not players)
 ### Nightmare Mode (H) 
+
+> THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO (Hosts are only allowed to ask the Admins not players)
+
 > The mobs have been intensely strong. Creepers walk twice as fast and when the explode a several silverfish will pop up to attack you. Zombies are slow but strong, if you kill them a skeleton appears and attacks you with melee. The zombies are also fire resistant. Skeletons shot poison arrows. Spiders are pretty fast and when they die, some "blood" and cobwebs will spawn around you. Enderman have mutated and whenever they get damaged, they will have a chance to spawn a blaze. Lastly, witches will have Speed 5. 
  
 ### No Anvils (L) 
@@ -596,8 +608,10 @@ Whenever a player dies, a red arrow will appear in the sky in where the person h
 ### Santa's Helper (L)
  > Every 15 minutes, all players are asked to obtain an item. Once the player has obtained that item, they can drop the item off in a chest at the coords of X: 250 and Z: 250 at any quadrant to receive a small reward. When the item rotates out, you cannot place that past item into the chest. 
 
-THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO (Hosts are only allowed to ask the Admins not players)
 ### Scenario Mania (H)
+
+> THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO (Hosts are only allowed to ask the Admins not players)
+
 > Created by the Recorded Round of Cataclysm, each player on a team will be given 1 scenario and it will only work for that 1 player on a team.
  
 ### Scenario Stackup (H, MUST USE L-Type Scenarios) 
@@ -615,12 +629,16 @@ THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO
 ### Secret Teams (L) 
 > The teams are not colored, thus for players to guess on who is on what team.
 
-THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO (Hosts are only allowed to ask the Admins not players)
 ### Select Fire (H) 
+
+> THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO (Hosts are only allowed to ask the Admins not players)
+
 > When left clicking your bow, it will go into four modes: Fireballs, Creepers, Flame, or TNT. Chickens do not Drop feathers and coal drops arrows.
 
-THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO (Hosts are only allowed to ask the Admins not players)
 ### Self Diagnosis (H) 
+
+> THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO (Hosts are only allowed to ask the Admins not players)
+
 > You cannot see your own health and everyone else's. It will always display as full health.
    
 ### Shared Health (H, not comb.) 
@@ -677,8 +695,10 @@ THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO
 ### Speedy Miners (L, not comb with other potion effect scenarios)
 > Players that are under Y:32 will receive Speed 1.
 
-THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO (Hosts are only allowed to ask the Admins not players)
 ### Statless (L) 
+
+> THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO (Hosts are only allowed to ask the Admins not players)
+
 > The game will not count for stats.
 
 ### Split Spawn (L) 
@@ -747,8 +767,10 @@ THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO
 ### Undead's Revenge (L) 
 > Whenever a player dies, it will either summon a skeleton or a zombie that you must kill it in order to gain  all of the loot. The Zombie or Skeleton will hold whatever the killed person was holding last.
 
-THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO (Hosts are only allowed to ask the Admins not players)
 ### Underground Parallel (H) 
+
+> THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO (Hosts are only allowed to ask the Admins not players)
+
 > The surface is replicated underground at Y:42 and Below.
  
 ### Unbreakable (L) 
@@ -781,8 +803,10 @@ THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO
 ### Wish List (L) 
 > At the start of the game, each player is assigned 3 random items to obtain. When a player obtains an item in their inventory, they will receive a buff. Each item has their own buff as well
 
-THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO (Hosts are only allowed to ask the Admins not players)
 ### WTFIPTG (H) 
+
+> THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO (Hosts are only allowed to ask the Admins not players)
+
 > It stands for "Who The Fuck Is Playing This Game" The chat, join messages, death messages, and killboard are disabled. Everyone will be disguised as so that way you can't tell who is who. 
   
 ### Xenophobia (H, not comb.) 
