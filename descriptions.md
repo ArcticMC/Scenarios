@@ -85,13 +85,13 @@ zac083#1977:
 
 ### Bats (L)
 
-> (&#x1F534;): THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO (Hosts are only allowed to ask the Admins not players)
+> &#x1F534; THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO (Hosts are only allowed to ask the Admins not players)
 
 > Whenver you kill a bat there is a 99% chance that you get 1 Golden Apple and a 1% chance to be instantly dead. 
 
 ### Battle Royale
 
-> This is an Admin Scenario. If this scenario needs to be hosted, a host must ask an admin to enable the scenario for them.
+> &#x1F534; This is an Admin Scenario. If this scenario needs to be hosted, a host must ask an admin to enable the scenario for them.
 
 > You are allowed to team up with anyone but only 1 will win. All skeleton, spider, and chicken drop rates have been decreased by 50%. Cobwebs will only drop str 10% of the time. You cannot talk in chat or message players, and no death messages will show. Every 20 minutes, you will get a notification in chat as to who has died. Whenever a player dies, their body will be on the floor of where they died. 
  
@@ -121,7 +121,7 @@ zac083#1977:
 
 ### Birds (H)
 
-> THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO (Hosts are only allowed to ask the Admins not players)
+> &#x1F534; THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO (Hosts are only allowed to ask the Admins not players)
 
 > All players are allowed to fly in the game. Fall damage will be disabled. 
  
@@ -157,7 +157,7 @@ zac083#1977:
 
 ### Blood Lapis (H)
 
-> THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO (Hosts are only allowed to ask the Admins not players)
+> &#x1F534; THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO (Hosts are only allowed to ask the Admins not players)
 
 > Whenever you mine lapis ore, you will lose 0.5 hearts. The lapis will only drop 1-2 lapis.
 
@@ -277,7 +277,7 @@ zac083#1977:
 
 ### Dungeoneering (H)
 
-> THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO (Hosts are only allowed to ask the Admins not players)
+> &#x1F534; THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO (Hosts are only allowed to ask the Admins not players)
 
 > Ore rates have been dropped except redstone, lapis, and emerald will spawn more frequently in caves. Dungeons in caves will spawn more frequently. There is no bedrock and TNT veins spawn. If you place the TNT it will automatically ignite.  
   
@@ -286,7 +286,7 @@ zac083#1977:
 
 ### Eight Legged Freaks (H) 
 
-> THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO (Hosts are only allowed to ask the Admins not players)
+> &#x1F534; THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO (Hosts are only allowed to ask the Admins not players)
 
 > All hostile mobs will be replaced with Spiders with different abilities and powers. 
   
@@ -487,7 +487,7 @@ zac083#1977:
 
 ### Necrophobia (H)
 
-> THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO (Hosts are only allowed to ask the Admins not players)
+> &#x1F534; THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO (Hosts are only allowed to ask the Admins not players)
  
 > All passive and aggressive mobs are replaced with zombies with different classes. Once you kill a zombie, they will drop the necessities of leather, string, feathers, and their own flesh in which you can smelt the flesh into food known as "Human Meat" or Steak. If you get hit by one zombie, you will be infected with slowness and weakness. You can craft a curing potion by using 3 glasses of water and 1 blaze rod, dropped by killing a fire zombie, in any shape in the crafting table / 2x2 table. 
 
@@ -499,7 +499,7 @@ zac083#1977:
 
 ### Nightmare Mode (H) 
 
-> THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO (Hosts are only allowed to ask the Admins not players)
+> &#x1F534; THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO (Hosts are only allowed to ask the Admins not players)
 
 > The mobs have been intensely strong. Creepers walk twice as fast and when the explode a several silverfish will pop up to attack you. Zombies are slow but strong, if you kill them a skeleton appears and attacks you with melee. The zombies are also fire resistant. Skeletons shot poison arrows. Spiders are pretty fast and when they die, some "blood" and cobwebs will spawn around you. Enderman have mutated and whenever they get damaged, they will have a chance to spawn a blaze. Lastly, witches will have Speed 5. 
  
@@ -610,7 +610,7 @@ Whenever a player dies, a red arrow will appear in the sky in where the person h
 
 ### Scenario Mania (H)
 
-> THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO (Hosts are only allowed to ask the Admins not players)
+> &#x1F534; THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO (Hosts are only allowed to ask the Admins not players)
 
 > Created by the Recorded Round of Cataclysm, each player on a team will be given 1 scenario and it will only work for that 1 player on a team.
  
@@ -631,13 +631,13 @@ Whenever a player dies, a red arrow will appear in the sky in where the person h
 
 ### Select Fire (H) 
 
-> THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO (Hosts are only allowed to ask the Admins not players)
+> &#x1F534; THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO (Hosts are only allowed to ask the Admins not players)
 
 > When left clicking your bow, it will go into four modes: Fireballs, Creepers, Flame, or TNT. Chickens do not Drop feathers and coal drops arrows.
 
 ### Self Diagnosis (H) 
 
-> THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO (Hosts are only allowed to ask the Admins not players)
+> &#x1F534; THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO (Hosts are only allowed to ask the Admins not players)
 
 > You cannot see your own health and everyone else's. It will always display as full health.
    
@@ -769,7 +769,7 @@ Whenever a player dies, a red arrow will appear in the sky in where the person h
 
 ### Underground Parallel (H) 
 
-> THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO (Hosts are only allowed to ask the Admins not players)
+> &#x1F534; THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO (Hosts are only allowed to ask the Admins not players)
 
 > The surface is replicated underground at Y:42 and Below.
  
@@ -805,7 +805,7 @@ Whenever a player dies, a red arrow will appear in the sky in where the person h
 
 ### WTFIPTG (H) 
 
-> THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO (Hosts are only allowed to ask the Admins not players)
+> &#x1F534; THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO (Hosts are only allowed to ask the Admins not players)
 
 > It stands for "Who The Fuck Is Playing This Game" The chat, join messages, death messages, and killboard are disabled. Everyone will be disguised as so that way you can't tell who is who. 
   
