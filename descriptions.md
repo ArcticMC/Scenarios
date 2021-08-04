@@ -585,7 +585,7 @@ zac083#1977:
 > Whenever you break a block or kill an animal, it will drop either random loot. Whether it is from a crafting recipe, furnace smelting, or structure loot. 
  
 ### Red Arrows (L)
-Whenever a player dies, a red arrow will appear in the sky in where the person has died.
+> Whenever a player dies, a red arrow will appear in the sky in where the person has died.
 
 ### Restoration (L) 
 > Whenever you kill a player, your healing in your inventory will be consumed in order to be close to full health or on full health. I.e. Let's say you kill a player and you have 3 hearts left and 5 gaps. 3 gaps will be consumed automatically so you can be on 9 hearts with 2 gaps remaining. Golden Apples will take higher priority first then golden heads.
