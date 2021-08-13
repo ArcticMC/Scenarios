@@ -55,7 +55,7 @@ zac083#1977:
 ### Anonymous (L)
 > Players will be disguised as an IGN (Currently "Unknown") and players will not be able to tell who is who. The health on tab is disabled. The normal chat and death messages will contain the players in game.
 
-### Aquaphobia (H) (Not in /scen list but Ruined City World + Flooded)
+### Aquaphobia (H) 
 > The world is an abandoned city with water rising from Y:32 to Y:80. Whenever you craft a helmet you will get Respiration 3 and Aqua Affinity and when you craft boots, you will get Depth Strider 3.
    
 ### Armageddon (L)
