@@ -9,6 +9,8 @@ zac083#1977:
 
 > (Not comb.) = This scenario cannot be combined with other scenarios.
 
+> Admin Scen = The host must get an admin's permission to host this scenario
+
 # ARCTIC SHOP
 
 > Ever wanted to host your own game on Arctic, with your amazing friends, maybe with a custom scenario you made?  https://store.arcticmc.net/category/rr-live-privategames Our dedicated admins can help you host your custom game, Private Game, or Recorded Round with a custom scenario! 
