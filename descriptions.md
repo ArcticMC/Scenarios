@@ -1,4 +1,4 @@
-Current Arctic Scenario list with Description (As of May 27th, 2021) Completed At the Moment, made by zac083. His Discord 
+Current Arctic Scenario list with Description (As of September 15th, 2021) Completed At the Moment, made by zac083. His Discord 
 zac083#1977: 
 
 # REFERENCES
