@@ -51,6 +51,9 @@ zac083#1977:
  
 ### Amplified Terrain (H)
 > The terrain will have giant mountains to climb and navigate around.
+
+### Anvil Progression (L)
+> Any time you kill a player, you will get 1 use of the anvil. The more kills you accumulate, the more uses of the anvil you can use. 
  
 ### Anonymous (L)
 > Players will be disguised as an IGN (Currently "Unknown") and players will not be able to tell who is who. The health on tab is disabled. The normal chat and death messages will contain the players in game.
@@ -270,6 +273,9 @@ zac083#1977:
   
 ### Double Slimy Crack (L)
 > Coordinates of X:0 and Z:0 will have 2 cracks, that go to the border, with slime blocks underneath to break your fall. Players can also break the Slime blocks and send people to the void!!!
+
+### Do Not Disturb (L) 
+> If you hit a player, it will lock you with that player, or team for 15 seconds. Every time you hit that player or team, the timer will refresh until the 15 seconds are up and can be attacked by another player or team. When you kill a player, you will be able to safely get the items for 60 seconds.
  
 ### Drafters (L)
 > This is a captains mode that instead of picking people freely, you're restricted from picking a list of 5 people at random. This way, everyone will get accepted. Same captains rules apply. Players get chosen to be captain and take turns to pick players to form their team!
@@ -511,9 +517,6 @@ zac083#1977:
 ### No Clean (L) 
 > When you kill a player, you have 20 seconds of PvP protection. If you attack a player and you have the PvP protection on, then you will lose that protection.
 
-### No Clean+ (L) 
-> If you hit a player, it will lock you with that player, or team for 15 seconds. Every time you hit that player or team, the timer will refresh until the 15 seconds are up and can be attacked by another player or team. 
- 
 ### No Diamond Armor (L) 
 > Players cannot craft any diamond armor.
  
