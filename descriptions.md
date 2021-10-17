@@ -468,6 +468,12 @@ zac083#1977:
  
 ### Lucky Chests (L, not Comb.) 
 > Ender chests will be scattered across the map, mainly in caves. They will contain either positive loot, like diamonds, gold, etc. Or negative effects like blindness, poison etc.
+
+### Market (L, not comb.) 
+> The first 8 players, selected by the host or by a command of /codeword \<Codeword\>, will be selected. The slave owners will receive an X amount of diamonds to bid on. The command to bid for players is /bid \<# of Diamonds\>. After the bidding, the slave owners keep the remaining diamonds.
+ 
+### Market Double Packaging (L, not comb.) 
+> The first 8 players, selected by the host or by a command on /codeword \<Codeword\>, will be selected. The slave owners will receive an X amount of diamonds to bid on. The command to bid for players is /bid \<# of Diamonds\>. Instead of players getting 1 person, they will get 2. The 2 people will be randomized and put together for bidding. After the bidding, the slave owners keep the remaining diamonds.
  
 ### Melee Fun (H)
 > There is no delay for when hitting a player, removes the noDamageticks. So this means players can get insane combos! It is sort of like Combo UHC.
@@ -663,13 +669,7 @@ zac083#1977:
  
 ### Skyhigh (H, not comb.) 
 > After about 45-60 minutes, players must be at or near 0,0 at a Y level above 101. If players are underneath that Y:101 level they will take half a heart every 30 seconds. You will receive starter items at the beginning of the game, this includes: 2 stacks of blocks, some snowball blocks, some pumpkins, and a Diamond shovel. Also, the sand will drop glass and Snow blocks will drop snow blocks. 
-  
-### Slavemarket (L, not comb.) 
-> The first 8 players, selected by the host or by a command of /codeword \<Codeword\>, will be selected. The slave owners will receive an X amount of diamonds to bid on. The command to bid for players is /bid \<# of Diamonds\>. After the bidding, the slave owners keep the remaining diamonds.
- 
-### Slavemarket Double Packaging (L, not comb.) 
-> The first 8 players, selected by the host or by a command on /codeword \<Codeword\>, will be selected. The slave owners will receive an X amount of diamonds to bid on. The command to bid for players is /bid \<# of Diamonds\>. Instead of players getting 1 person, they will get 2. The 2 people will be randomized and put together for bidding. After the bidding, the slave owners keep the remaining diamonds.
- 
+   
 ### Slimy Chunk (H, not comb.)
 > In the world, there is a 10% chance that each chunk can disappear! At the bottom of each chunk that has disappeared will contain slime blocks at the bottom to break your fall! You can break those slime blocks and it can send you or other people down to the void!
  
