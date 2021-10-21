@@ -390,6 +390,9 @@ zac083#1977:
  
 ### Grinch (L)
 > Every Midnight, at 0,0 there is a zombie with leather armor known as the "Grinch". He stole of the Christmas presents from Santa! If you kill him, you will receive the present of whatever the Grinch was holding.
+ 
+### Halloween (Only Active on Oct. 31st)
+> Random lightning strikes around the player at random intervals causing bats to spawn around you and giving you nausea for 10 seconds if you get hit. Getting hit by a hostile mob causes 15 seconds of blindness. All spiders are replaced with cave spiders, The guardian effect appears on the screen at random times scaring you. Witch rates are upped at last Zombies and Skeletons spawn with jack o' lanterns.
   
 ### Hastey Babies (L) 
 > Every tool that you craft will have Efficiency 1. 
