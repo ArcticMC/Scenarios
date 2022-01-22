@@ -167,10 +167,10 @@ zac083#1977:
 > Whenever you mine lapis ore, you will lose 0.5 hearts. The lapis will only drop 1-2 lapis.
 
 ### Blood Market (L)
-> The first 8 players, selected by the person who does the command /codeward \<Code word\> or manually selected by the host, will be selected. However, the slave owners will have 500 hearts to bid on for players. It'll be bid by heart points. Command to bid is /bid \<Number of heart points\>. The heart points will be half a heart. If you bid a player for 1 heart point, you're bidding the player for .5 hearts. The remaining hearts the slaveowner has left, that will be their max health throughout the game.
+> The first 8 players, selected by the person who does the command /codeward \<Code word\> or manually selected by the host, will be selected. However, the owners will have 500 hearts to bid on for players. It'll be bid by heart points. Command to bid is /bid \<Number of heart points\>. The heart points will be half a heart. If you bid a player for 1 heart point, you're bidding the player for .5 hearts. The remaining hearts the slaveowner has left, that will be their max health throughout the game.
 
 ### Blood Market Double Packaging (L)
-> The first 8 players, selected by the person who does the command /codeward \<Code word\> or manually selected by the host, will be selected. However, the slave owners will have 500 hearts to bid on for players. Slave owners will be bidding for 2 people at once, and the 2 people that are selected are completely randomized. It'll be bid by heart points. Command to bid is /bid \<Number of heart points\>. The heart points will be half a heart. If you bid a player for 1 heart point, you're bidding the player for .5 hearts. The remaining hearts the slaveowner has left, that will be their max health throughout the game
+> The first 8 players, selected by the person who does the command /codeward \<Code word\> or manually selected by the host, will be selected. However, the owners will have 500 hearts to bid on for players. Slave owners will be bidding for 2 people at once, and the 2 people that are selected are completely randomized. It'll be bid by heart points. Command to bid is /bid \<Number of heart points\>. The heart points will be half a heart. If you bid a player for 1 heart point, you're bidding the player for .5 hearts. The remaining hearts the slaveowner has left, that will be their max health throughout the game
 
 ### Bombers (H)
 > Everybody will have an unbreakable Flint and Steel, and most of the animals and monsters/mobs that you kill, will drop Dynamite/TNT.
@@ -473,10 +473,10 @@ zac083#1977:
 > Ender chests will be scattered across the map, mainly in caves. They will contain either positive loot, like diamonds, gold, etc. Or negative effects like blindness, poison etc.
 
 ### Market (L, not comb.) 
-> The first 8 players, selected by the host or by a command of /codeword \<Codeword\>, will be selected. The slave owners will receive an X amount of diamonds to bid on. The command to bid for players is /bid \<# of Diamonds\>. After the bidding, the slave owners keep the remaining diamonds.
+> The first 8 players, selected by the host or by a command of /codeword \<Codeword\>, will be selected. The owners will receive an X amount of diamonds to bid on. The command to bid for players is /bid \<# of Diamonds\>. After the bidding, the slave owners keep the remaining diamonds.
  
 ### Market Double Packaging (L, not comb.) 
-> The first 8 players, selected by the host or by a command on /codeword \<Codeword\>, will be selected. The slave owners will receive an X amount of diamonds to bid on. The command to bid for players is /bid \<# of Diamonds\>. Instead of players getting 1 person, they will get 2. The 2 people will be randomized and put together for bidding. After the bidding, the slave owners keep the remaining diamonds.
+> The first 8 players, selected by the host or by a command on /codeword \<Codeword\>, will be selected. The owners will receive an X amount of diamonds to bid on. The command to bid for players is /bid \<# of Diamonds\>. Instead of players getting 1 person, they will get 2. The 2 people will be randomized and put together for bidding. After the bidding, the slave owners keep the remaining diamonds.
  
 ### Melee Fun (H)
 > There is no delay for when hitting a player, removes the noDamageticks. So this means players can get insane combos! It is sort of like Combo UHC.
