@@ -771,6 +771,9 @@ zac083#1977:
  
 ### True Love (L) 
 > You are allowed to team up with 1 other ally. If your ally dies, you can team up with another ally, either a solo can win or an allied team of 2 can win the game.
+
+### Tunnels (L)
+> The cave generation has been changed. All of the caves have been changed to represent Mineshafts, however all of the wood, cobwebs, and rails, have been removed.
  
 ### Undead's Revenge (L) 
 > Whenever a player dies, it will either summon a skeleton or a zombie that you must kill it in order to gain  all of the loot. The Zombie or Skeleton will hold whatever the killed person was holding last.
