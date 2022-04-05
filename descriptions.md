@@ -80,7 +80,7 @@ zac083#1977:
 
 > &#x1F534; THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO (Hosts are only allowed to ask the Admins not players)
 
-> In this gamemode, each individual will be set as a different animal that lives in the conteninant of Australia. For information about the animal and the power you will receive from it, check out this post made by Hoookey. https://www.reddit.com/r/ultrahardcore/comments/a3nbe3/hoookeys_1700/
+> In this gamemode, each individual will be set as a different animal that lives in the continent of Australia. For information about the animal and the power you will receive from it, check out this post made by Hoookey. https://www.reddit.com/r/ultrahardcore/comments/a3nbe3/hoookeys_1700/
  
 ### Backpacks (L)
 > You will have the ability to open your backpack, (/bp) to gain an extra 27 inventory slots for yourself. If you die with items in your backpack, they will fall to the floor.
