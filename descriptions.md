@@ -75,6 +75,12 @@ zac083#1977:
  
 ### Astrophobia (H)
 > Meteors will fall from the world creating craters and exploding the world. It will leave a hole in the earth and if you're lucky, it'll leave 2 gold or a diamond in the crater. The creepers will now be supercharged and deal more damage and explode faster. If you manage to kill one, there is a possibility to receive their spawn egg. The skeletons are the aliens and will shoot their "lasers" and it'll deal more damage. It will always be night time, not day time.
+
+### Australia (H, no comb.)
+
+> &#x1F534; THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO (Hosts are only allowed to ask the Admins not players)
+
+> In this gamemode, each individual will be set as a different animal that lives in the conteninant of Australia. For information about the animal and the power you will receive from it, check out this post made by Hoookey. https://www.reddit.com/r/ultrahardcore/comments/a3nbe3/hoookeys_1700/
  
 ### Backpacks (L)
 > You will have the ability to open your backpack, (/bp) to gain an extra 27 inventory slots for yourself. If you die with items in your backpack, they will fall to the floor.
