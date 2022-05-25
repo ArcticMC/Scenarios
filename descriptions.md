@@ -173,10 +173,10 @@ zac083#1977:
 > Whenever you mine lapis ore, you will lose 0.5 hearts. The lapis will only drop 1-2 lapis.
 
 ### Blood Market (L)
-> The first 8 players, selected by the person who does the command /codeward \<Code word\> or manually selected by the host, will be selected. However, the owners will have 500 hearts to bid on for players. It'll be bid by heart points. Command to bid is /bid \<Number of heart points\>. The heart points will be half a heart. If you bid a player for 1 heart point, you're bidding the player for .5 hearts. The remaining hearts the slaveowner has left, that will be their max health throughout the game.
+> The first 8 players, selected by the person who does the command /codeward \<Code word\> or manually selected by the host, will be selected. However, the owners will have 500 hearts to bid on for players. It'll be bid by heart points. Command to bid is /bid \<Number of heart points\>. The heart points will be half a heart. If you bid a player for 1 heart point, you're bidding the player for .5 hearts. The remaining hearts the owner has left, that will be their max health throughout the game.
 
 ### Blood Market Double Packaging (L)
-> The first 8 players, selected by the person who does the command /codeward \<Code word\> or manually selected by the host, will be selected. However, the owners will have 500 hearts to bid on for players. Slave owners will be bidding for 2 people at once, and the 2 people that are selected are completely randomized. It'll be bid by heart points. Command to bid is /bid \<Number of heart points\>. The heart points will be half a heart. If you bid a player for 1 heart point, you're bidding the player for .5 hearts. The remaining hearts the slaveowner has left, that will be their max health throughout the game
+> The first 8 players, selected by the person who does the command /codeward \<Code word\> or manually selected by the host, will be selected. However, the owners will have 500 hearts to bid on for players. Owners will be bidding for 2 people at once, and the 2 people that are selected are completely randomized. It'll be bid by heart points. Command to bid is /bid \<Number of heart points\>. The heart points will be half a heart. If you bid a player for 1 heart point, you're bidding the player for .5 hearts. The remaining hearts the owner has left, that will be their max health throughout the game
 
 ### Bombers (H)
 > Everybody will have an unbreakable Flint and Steel, and most of the animals and monsters/mobs that you kill, will drop Dynamite/TNT.
