@@ -228,6 +228,9 @@ zac083#1977:
  
 ### Craftable Absorption (L)
 > Absorption is off by default. When you have made a golden apple. If you surround the golden apple with 4 more gold, then it will become an Absorption Golden Apple. (This does not work with Absorption Golden Heads)
+
+### Craftable Teleportation (L)
+> Everyone in the game will start with 1 ender pearl. By renaming the ender pearl with in an anvil with the exact IGN of a player that is alive in the game, once you throw the ender pearl, you will be teleported 50 blocks away from the player's location. (You can be in a cave or on surface)
  
 ### Craft Clean (L)
 > In a crafting table, if you piece of coal or charcoal and surround the fuel with any smeltable item, you will get its smelted result. 
