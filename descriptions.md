@@ -78,9 +78,7 @@ zac083#1977:
 
 ### Australia (H, no comb.)
 
-> &#x1F534; THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO (Hosts are only allowed to ask the Admins not players)
-
-> In this gamemode, each individual will be set as a different animal that lives in the continent of Australia. For information about the animal and the power you will receive from it, check out this post made by Hoookey. https://www.reddit.com/r/ultrahardcore/comments/a3nbe3/hoookeys_1700/
+> In this gamemode, each individual will be set as a different animal that lives in the continent of Australia. For more information about the animals and their powers, use the command /scen and click on the scenario called Australia.
  
 ### Backpacks (L)
 > You will have the ability to open your backpack, (/bp) to gain an extra 27 inventory slots for yourself. If you die with items in your backpack, they will fall to the floor.
@@ -734,7 +732,7 @@ zac083#1977:
 > Everybody on a team will receive a superpower that will last for the entire game. A player can receive 1 of the following: Strength, Speed, Resistance, Double Health, Invisibility, or Jump Boost. Fall damage is off in this gamemode. For Health power: Gaps heal 3 hearts and Golden Heads heal 6 hearts. *Does not apply to potions!* (If teams of 5, Jump will be available, if teams of 6 or higher, Invisibility is available, unless the player is solo without a team.)
  
 ### Super Smash Brothers (H, not comb.) 
-> Each player on a team will receive a different class, all classes are chosen at random. The characters are Mario, Sonic, Kirby, Pit, Meta Knight, Donkey Kong, Pikachu, and Link. All the characters has different abilities. To check abilities, use /ssh. (Here is the link for all of the powers!)[https://www.reddit.com/r/ultrahardcore/comments/31iydz/super_smash_bros_with_skript/] For the Super Star for Kirby's ability (Frequently asked question) If right clicked on a player, it will send the player upwards at res 100 and speed 5. <----- Might be broken.
+> Each player on a team will receive a different class, all classes are chosen at random. The characters are Mario, Sonic, Kirby, Pit, Meta Knight, Donkey Kong, Pikachu, and Link. All the characters has different abilities. To check abilities, use /ssh. (Here is the link for all of the powers!)[https://www.reddit.com/r/ultrahardcore/comments/31iydz/super_smash_bros_with_skript/] 
  
 ### Swingers (L, not comb.)
 > The first team you see and right click the player on a different team, will combine that team together.
@@ -831,6 +829,9 @@ zac083#1977:
   
 ### Xenophobia (H, not comb.) 
 > Every mob, passive or aggressive, will be a villager, same to go with all the players.
+
+### Your Name (L)
+> Every 10 minutes, you will be randomly swapped with your teammates. You will be disguised as the teammate you swapped with.
  
 ### Zombies Galore (L) 
 > All Hostile mobs will spawn as a zombie and will drop different items like bones, string etc.
