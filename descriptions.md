@@ -772,6 +772,9 @@ zac083#1977:
  
 ### Training Rabbits (H) 
 > Everybody will start with Jump Boost 2. Every time a player gets a kill, their Jump Boost tier will increase by 1. Fall damage will be off.
+
+### Trick Or Treat (L)
+> Every 7 minutes, players that are alive in the game will receive a pumpkin. By right clicking on this pumpkin it can provide you with a treat or with a trick. 
  
 ### Triple Ores (L, not comb.) 
 > Instead of 1 ore dropping when you mine it, 3 will be dropped of that ore.
