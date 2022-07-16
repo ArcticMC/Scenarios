@@ -1,4 +1,4 @@
-Current Arctic Scenario list with Description (As of February 5th, 2022) Completed At the Moment, made by zac083. His Discord 
+Current Arctic Scenario list with Description (As of July 16th, 2022) Completed At the Moment, made by zac083. His Discord 
 zac083#1977: 
 
 # REFERENCES
@@ -586,7 +586,10 @@ zac083#1977:
  
 ### Potion Healing (L) 
 > Whenever you craft a golden apple, it becomes a Tier 1 health potion. Whenever you craft a golden head, it becomes a Tier 2 Health potion.
- 
+
+### Progressive Skyhigh (H)
+> After about 45-60 minutes, players must be at or near 0,0 at a Y level above 150. If players are underneath that Y:150 level they will take half a heart every 30 seconds. This damage will increase the more times you are below the recommended Y level. For example, if you took your first half a heart for not being above Y:150, you will take 1 full heart if you are not above Y:150. If you are not under Y:150 for a 3rd time, you will take 1.5 hearts and so on. You will receive starter items at the beginning of the game, this includes: 2 stacks of blocks, some snowball blocks, some pumpkins, and a Diamond shovel. Also, the sand will drop glass and Snow blocks will drop snow blocks.  
+
 ### Progressive Speed (H) 
 > Everyone starts out with speed 1, if you manage to get a kill your tier of speed will go up by 1 tier.
  
@@ -678,8 +681,11 @@ zac083#1977:
 > Whenever you get a kill, you will regenerate 2 hearts, gain 2 levels and get a random tier 1 enchanted book. (The tier 1 book cannot be Fire Aspect 1 or Flame 1)
  
 ### Skyhigh (H, not comb.) 
-> After about 45-60 minutes, players must be at or near 0,0 at a Y level above 101. If players are underneath that Y:101 level they will take half a heart every 30 seconds. You will receive starter items at the beginning of the game, this includes: 2 stacks of blocks, some snowball blocks, some pumpkins, and a Diamond shovel. Also, the sand will drop glass and Snow blocks will drop snow blocks. 
-   
+> After about 45-60 minutes, players must be at or near 0,0 at a Y level above 150. If players are underneath that Y:150 level they will take half a heart every 30 seconds. You will receive starter items at the beginning of the game, this includes: 2 stacks of blocks, some snowball blocks, some pumpkins, and a Diamond shovel. Also, the sand will drop glass and Snow blocks will drop snow blocks. 
+
+### Slender Sniper (L)
+> At the start of the game, everyone will receive 16 arrows. You cannot get more arrows by crafting, killing skeletons, or picking arrows off of the ground. Once you kill a player, your arrow count will be reset back to 16 arrows.
+
 ### Slimy Chunk (H, not comb.)
 > In the world, there is a 10% chance that each chunk can disappear! At the bottom of each chunk that has disappeared will contain slime blocks at the bottom to break your fall! You can break those slime blocks and it can send you or other people down to the void!
  
