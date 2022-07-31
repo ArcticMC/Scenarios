@@ -360,7 +360,7 @@ zac083#1977:
 > Each player on a team will be given a specific position in the game. Whether that would be Goalkeeper, Right or Left Defender, Midfielders or Forwards. https://www.reddit.com/r/ultrahardcore/comments/bsgzy8/may_25_0000_utc_na_hoookeys_2000_cto11_cutclean/ For more information about what powers you receive for each position.  
  
 ### Frozen In Time (H)
-> All the Current movement in water, lava will not flow. Gravel, sand, cacti, and sugarcane will float in the air. The leaves on trees will not decay. To get obsidian, you need to craft a diamond pickaxe, which would either give you 10 or 14 obsidian, depending if nether is on.
+> All the Current movement in water and lava will not flow. Gravel, sand, cacti, and sugarcane will be uneffected by gravity. Leaves will not decay. Your only way of getting apples is through shearing leaves
  
 ### Gap Zap (L) 
 > If you take damage while you are regenerating from a golden apple or head, the regeneration cancels.
