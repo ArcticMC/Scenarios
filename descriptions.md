@@ -398,7 +398,7 @@ zac083#1977:
 ### Grinch (L)
 > Every Midnight, at 0,0 there is a zombie with leather armor known as the "Grinch". He stole of the Christmas presents from Santa! If you kill him, you will receive the present of whatever the Grinch was holding.
  
-### Halloween (Only Active on Oct. 31st)
+### Halloween (H, Only Active on Oct. 31st)
 > Random lightning strikes around the player at random intervals causing bats to spawn around you and giving you nausea for 10 seconds if you get hit. Getting hit by a hostile mob causes 15 seconds of blindness. All spiders are replaced with cave spiders, The guardian effect appears on the screen at random times scaring you. Witch rates are upped at last Zombies and Skeletons spawn with jack o' lanterns.
   
 ### Hastey Babies (L) 
@@ -588,7 +588,7 @@ zac083#1977:
 > Whenever you craft a golden apple, it becomes a Tier 1 health potion. Whenever you craft a golden head, it becomes a Tier 2 Health potion.
 
 ### Progressive Skyhigh (H)
-> After about 45-60 minutes, players must be at or near 0,0 at a Y level above 150. If players are underneath that Y:150 level they will take half a heart every 30 seconds. This damage will increase the more times you are below the recommended Y level. For example, if you took your first half a heart for not being above Y:150, you will take 1 full heart if you are not above Y:150. If you are not under Y:150 for a 3rd time, you will take 1.5 hearts and so on. You will receive starter items at the beginning of the game, this includes: 2 stacks of blocks, some snowball blocks, some pumpkins, and a Diamond shovel. Also, the sand will drop glass and Snow blocks will drop snow blocks.  
+> After about 45-60 minutes, players must be at or near 0,0 at a Y level above 150. If players are underneath that Y:150 level they will take half a heart every 30 seconds. This damage will increase the more times you are below the recommended Y level. For example, if you took your first half a heart for not being above Y:150, you will take 1 full heart. If you are not above Y:150 for a 3rd time, you will take 1.5 hearts and so on. You will receive starter items at the beginning of the game, this includes: 2 stacks of blocks, some snowball blocks, some pumpkins, and a Diamond shovel. Also, the sand will drop glass and Snow blocks will drop snow blocks.  
 
 ### Progressive Speed (H) 
 > Everyone starts out with speed 1, if you manage to get a kill your tier of speed will go up by 1 tier.
