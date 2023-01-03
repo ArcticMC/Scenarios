@@ -30,7 +30,10 @@ zac083#1977:
 > This will test your bow skills, You will receive an Infinity bow with 1 arrow. You will be wearing leather armor with Projectile Protection for this kit.
 
 # UHC SCENARIOS
- 
+
+### 1.7 Enchants (L)
+> Enchanting is reverted to how it works in MC 1.7, where it takes all the levels it costs, you cannot preview what you are getting and no lapis is required. Anvils are still 1.8
+
 ### 100 Hearts (H)
 > Everyone will start with 100 hearts!!! Golden apples will heal 20% of your max health.
 
@@ -509,6 +512,9 @@ zac083#1977:
 ### Naked and Afraid (L) 
 > Created by LethalWinter, you are not able to see everyone's armor. It will appear as when a person has no armor. 
 
+### Naughty or Nice (L)
+> Every 5 minutes, players are given a present. Right clicking the present will give them a random item based on if they are naughty or nice!
+ 
 ### Necrophobia (H)
 
 > &#x1F534; THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO (Hosts are only allowed to ask the Admins not players)
