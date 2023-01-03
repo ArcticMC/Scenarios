@@ -602,6 +602,9 @@ zac083#1977:
 ### Quiver (L)
 > You are only permitted to carry only 16 arrows in your inventory at one time.
  
+### Quiver+ (L)
+> You are only permitted to carry only 32 arrows in your inventory at one time.
+ 
 ### Random Starter Items (L)
 > Everyone will receive 9 random starting items at random amounts, all the items will be the same for each player.
 
