@@ -350,6 +350,12 @@ zac083#1977:
 ### Flat World (H, not comb.)
 > The world will be completely Flat, and it's surface will be Y:5. Village rates will be upped, for you to survive a bit more easily.
  
+### Flatlands (L)
+ 
+> &#x1F534; THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO (Hosts are only allowed to ask the Admins not players)
+ 
+> The entire world's surface is at Y:63, in all biomes. Resulting in a flat world that still has caves and normal biomes/structures.
+ 
 ### Flippers (L)
 > When you craft golden boots, it will automatically have Depth Strider 3.
  
