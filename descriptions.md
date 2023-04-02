@@ -236,6 +236,9 @@ zac083#1977:
 ### Craft Clean (L)
 > In a crafting table, if you piece of coal or charcoal and surround the fuel with any smeltable item, you will get its smelted result. 
 
+### Creeper Pong (H)
+> Players start with a stack of Charged Creeper Spawn Eggs, Knockback X stick and an Unbreaking X Flint and Steel.
+
 ### Cryophobia (H, not comb.)
 > You will spawn in an icy/snowy world. Skeletons will wear leather armor and will shoot snowballs, and if they hit you, you take a decent amount of damage. As the game progresses, the ice rise. The ice will start at Y:0 at the start of the game, and it will continue to rise as the game goes on. The ice will stop rising when meetup is called and when the ice reaches the surface.
  
