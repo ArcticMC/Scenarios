@@ -569,6 +569,9 @@ zac083#1977:
 ### Paranoia (L) 
 > Whenever a player mines gold or diamonds, crafts an enchantment table or anvil, crafts or eats a Golden Apple or Golden Head, or when a player gets killed, their coords are broadcasted in the chat. Health on tab and the /h commands are disabled for this game
  
+### Parassassins (H)
+> A combination of the gamemodes "Parafusion" and "Assassins". All players in the game will receive a 'target' at PvP, and instead of a compass pointing to their location, they will have parafusion coordinates to the target. If your target dies, you will be assigned a new one. Unlike assassins, any kill in the game will still drop their items.
+ 
 ### Period of Resistance (L) 
 > Every 10 minutes, a damage type will be swapped. You cannot take damage from that type of damage. To check use /status
  
