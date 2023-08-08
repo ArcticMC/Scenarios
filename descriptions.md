@@ -496,6 +496,9 @@ zac083#1977:
  
 ### Melee Fun (H)
 > There is no delay for when hitting a player, removes the noDamageticks. So this means players can get insane combos! It is sort of like Combo UHC.
+
+### Meteors (H)
+> It is permanently night time. After 10 minutes, meteors will begin to fall from the sky. These meteors will contain chests inside of them containing loot.
  
 ### Moles (H) 
 > Once PvP is on, 1 player will be selected on a team to be the mole. The mole's job is to kill his team and meet up with other moles, the moles will receive kits to pick from-located on top of the player's inventory. Depending on how players they're on in the game, there could be more than one mole team! (Arctic only!)
