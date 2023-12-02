@@ -1,4 +1,4 @@
-Current Arctic Scenario list with Description (As of July 16th, 2022) Completed At the Moment, made by zac083. His Discord 
+Current Arctic Scenario list with Description (As of December 2nd, 2023) Completed At the Moment, made by zac083. His Discord 
 zac083#1977: 
 
 # REFERENCES
@@ -182,6 +182,9 @@ zac083#1977:
 ### Bombers (H)
 > Everybody will have an unbreakable Flint and Steel, and most of the animals and monsters/mobs that you kill, will drop Dynamite/TNT.
 
+### Bookception (L)
+> Players will drop a random enchanted book on death.
+
 ### BowFighters (H)
 > Everybody will start off with an infinity book, an arrow and two string. You most powerful weapon can be a stone axe or wooden sword. 
 
@@ -319,6 +322,9 @@ zac083#1977:
  
 ### Enchant Paranoia (L)
 > The enchant preview will be disabled. When you enchant an item, it will be enchanted with the enchantment name "???".
+
+### Enchant Progression (L)
+> All players receive 1 enchanting table use for each kill they get.
  
 ### Ender Dance (H)
 > IT'S A RACE TO THE DRAGON!  Wait, it's not. The goal of this scenario is to be on top of one of the dragon's healing pillars and destroy one of them. Then if you have a music disk and a jukebox, you must place a jukebox on one of the pillars and put the music disk in the jukebox to win the game! Same rules apply with Dragon Rush (3 Eyes of ender missing).
@@ -424,6 +430,9 @@ zac083#1977:
  
 ### Health Donor (L)
 > Players can donate health to other players in the game. Every half a heart you donate will cost 1 experience level. To do this command /donatehp <1-20> <IGN>
+
+### Identity Reveal (L) 
+> All players start out the game with a disguise. When a player gets a kill, their true identity is revealed to everyone.
   
 ### Identity Theft (L) 
 > Whenever you shoot and hit a player, you will gain their disguise. If a player already has another disguise, then you will steal theirs. 
@@ -541,6 +550,9 @@ zac083#1977:
 > &#x1F534; THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO (Hosts are only allowed to ask the Admins not players)
 
 > The mobs have been intensely strong. Creepers walk twice as fast and when the explode a several silverfish will pop up to attack you. Zombies are slow but strong, if you kill them a skeleton appears and attacks you with melee. The zombies are also fire resistant. Skeletons shot poison arrows. Spiders are pretty fast and when they die, some "blood" and cobwebs will spawn around you. Enderman have mutated and whenever they get damaged, they will have a chance to spawn a blaze. Lastly, witches will have Speed 5. 
+
+### No Enchants (L) 
+> Enchanting tables cannot be crafted nor be used.
  
 ### No Anvils (L) 
 > Anvils cannot be crafted nor be used.
