@@ -202,12 +202,12 @@ zac083#1977:
 
 ### Cannibalism (L)
 > Whenever you eat a player head, you will gain 1 empty heart. This heart will be permanent and will not go away.
- 
+
 ### Captains (L)
 > The captains are either picked by the host or chosen randomly and they pick players that they want on their team. (Order is snake draft. I.E. 1,2,3,4,4,3,2,1.)
  
 ### Carrot Combo (H)
-> Whenever you craft a sword, it'll give you a carrot with the equivalent attack damage that sword has. (Wood and Gold = Sharp 2 Carrot. Stone = Sharp 3. Iron = Sharp 5. Diamond = Sharp 6.)
+> Whenever you craft a sword, it'll give you a carrot with the equivalent attack damage that sword has. (Wood and Gold = Sharp 2 Carrot. Stone = Sharp 3. Iron = Sharp 5. Diamond = Sharp 6.) This also affects axes if the game is 1.9+ Combat, except the carrot will have +1 sharpness level than the sword equivalent.
  
 ### Catacombs (H, not comb.)
 > There will be several layers underground that replicate the surface in the game!
@@ -223,7 +223,10 @@ zac083#1977:
 
 ### Chunk Biomes (H)
 > Each chunk has its separate biome. These chunks have slime blocks on the edges to separate the biomes from its chunk. 
- 
+
+### Circus (L)
+> When you kill a mob, there's a 25% chance the spawn egg for that mob will drop.
+
 ### City World (H)
 > Instead of a normal UHC world, the whole world is replaced in a City, meaning Mineshafts, Buildings, Sewers, etc.
   
@@ -720,7 +723,7 @@ zac083#1977:
 > Whenever you get a kill, you will regenerate 2 hearts, gain 2 levels and get a random tier 1 enchanted book. (The tier 1 book cannot be Fire Aspect 1 or Flame 1)
  
 ### Skyhigh (H, not comb.) 
-> After about 45-60 minutes, players must be at or near 0,0 at a Y level above 150. If players are underneath that Y:150 level they will take half a heart every 30 seconds. You will receive starter items at the beginning of the game, this includes: 2 stacks of blocks, some snowball blocks, some pumpkins, and a Diamond shovel. Also, the sand will drop glass and Snow blocks will drop snow blocks. 
+> After about 30-45 minutes, players must be at or near 0,0 at a Y level above 150. If players are underneath that Y:150 level they will take half a heart every 30 seconds. You will receive starter items at the beginning of the game, this includes: 2 stacks of blocks, some snowball blocks, some pumpkins, and a Diamond shovel. Also, the sand will drop glass and Snow blocks will drop snow blocks. 
 
 ### Slender Sniper (L)
 > At the start of the game, everyone will receive 16 arrows. You cannot get more arrows by crafting, killing skeletons, or picking arrows off of the ground. Once you kill a player, your arrow count will be reset back to 16 arrows.
@@ -820,7 +823,10 @@ zac083#1977:
 
 ### Trick Or Treat (L)
 > Every 7 minutes, players that are alive in the game will receive a pumpkin. By right clicking on this pumpkin it can provide you with a treat or with a trick. 
- 
+
+### Triple Iron (L) 
+> When mining iron, it drops 3 iron.
+
 ### Triple Ores (L, not comb.) 
 > Instead of 1 ore dropping when you mine it, 3 will be dropped of that ore.
  
@@ -883,3 +889,6 @@ zac083#1977:
  
 ### Zombies Galore (L) 
 > All Hostile mobs will spawn as a zombie and will drop different items like bones, string etc.
+
+### Zoomies (L)
+> All mobs have Speed III.
