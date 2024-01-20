@@ -393,7 +393,10 @@ zac083#1977:
 > Every so often, the host or a staff member will be scattered in the world with goodies they selected at random. You will receive a compass tracking him and if you kill the staff member, he will drop the goodies for you to receive. 
  
 ### Genie (L) 
-> You are given 3 wishes and you cannot get more. Based on the number of kills you have in the game is what you can wish for. (If you have 0 kills, you can get the following: Golden Apple, Diamond Sword, Anvil. If you have 1 Kill, you can get the following: Player Head, Speed 1 Potion, Strength 1 Potion. If you have 2 Kills, you can get the following: Enchantment Table, Brewing Stand, 5 Diamond Ore. If you have 4 Kills, you can get the following: Instant Health 2 Potion Not Splashable, 128 Bottles of Enchanting, 1 Glowstone Block, 1 Blaze Rod. If you have 5+ Kills, you can get the following: 64 Obsidian, 8 Gold Ingots, 4 Soul Sand, 3 Wither Skeleton Heads.) 
+> You are given 3 wishes and you cannot get more. Based on the number of kills you have in the game is what you can wish for. (If you have 0 kills, you can get the following: Golden Apple, Diamond Sword, Anvil. If you have 1 Kill, you can get the following: Player Head, Speed 1 Potion, Strength 1 Potion. If you have 2 Kills, you can get the following: Enchantment Table, Brewing Stand, 5 Diamond Ore. If you have 4 Kills, you can get the following: Instant Health 2 Potion Not Splashable, 128 Bottles of Enchanting, 1 Glowstone Block, 1 Blaze Rod. If you have 5+ Kills, you can get the following: 64 Obsidian, 8 Gold Ingots, 4 Soul Sand, 3 Wither Skeleton Heads.)
+
+### Golden Pearl (L)
+> Surrounding a pearl with 8 gold in a crafting table will create a Golden Pearl. Golden Pearls will deal no damage when used, while regular pearls will have their regular damage.
 
 ### Golden Retriever (L) 
 > Whenever a player dies, instead of the normal head post, it will drop a Golden Head. 
@@ -652,6 +655,9 @@ zac083#1977:
  
 ### Red Arrows (L)
 > Whenever a player dies, a red arrow will appear in the sky in where the person has died.
+
+### Refill (L)
+> On kill, the victim will drop extra gold depending on the killer's health after the fight. In a teams game, it'll depend on the average health of the team. The gold ranges from 0 gold between 80% and 100% and 10 gold between 0% and 15%.
 
 ### Restoration (L) 
 > Whenever you kill a player, your healing in your inventory will be consumed in order to be close to full health or on full health. I.e. Let's say you kill a player and you have 3 hearts left and 5 gaps. 3 gaps will be consumed automatically so you can be on 9 hearts with 2 gaps remaining. Golden Apples will take higher priority first then golden heads.
