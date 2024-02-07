@@ -673,6 +673,9 @@ zac083#1977:
  
 ### Rush (L)
 > The game will last 44 minutes or less.
+
+### Safe Loot (L)
+> When a player dies, their loot will be placed into a chest and locked to their killer for 60 seconds.
  
 ### Santa's Gift (L)
  > Putting a milk bucket and a cookie in a crafting table will give you good items.
