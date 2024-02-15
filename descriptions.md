@@ -523,7 +523,10 @@ zac083#1977:
 
 ### Meteors (H)
 > It is permanently night time. After 10 minutes, meteors will begin to fall from the sky. These meteors will contain chests inside of them containing loot.
- 
+
+### Mista's Birthday (L)
+> It's Mista's birthday every day! Explosions will create fireworks and have a 50% chance of dropping a cake.
+
 ### Moles (H) 
 > Once PvP is on, 1 player will be selected on a team to be the mole. The mole's job is to kill his team and meet up with other moles, the moles will receive kits to pick from-located on top of the player's inventory. Depending on how players they're on in the game, there could be more than one mole team! (Arctic only!)
  
