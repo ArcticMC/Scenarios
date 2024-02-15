@@ -211,7 +211,10 @@ zac083#1977:
  
 ### Catacombs (H, not comb.)
 > There will be several layers underground that replicate the surface in the game!
- 
+
+### Cherry World (L)
+> The entire world is a Cherry Blossom biome!
+
 ### Children Left Unattended (L)
 > Whenever a teammate dies, each player on that team earns a speed potion and a tamed wolf.
  
