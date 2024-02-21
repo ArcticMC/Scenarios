@@ -81,7 +81,7 @@ zac083#1977:
 
 ### Australia (H, no comb.)
 
-> In this gamemode, each individual will be set as a different animal that lives in the continent of Australia. For more information about the animals and their powers, use the command /scen and click on the scenario called Australia.
+> In this gamemode, each individual will be set as a different animal that lives in the continent of Australia. For more information about the animals and their powers, use the command /scen and click on the scenario called Australia during a game where it's enabled or check [here](https://pastebin.com/CRfnJHaB).
  
 ### Backpacks (L)
 > You will have the ability to open your backpack, (/bp) to gain an extra 27 inventory slots for yourself. If you die with items in your backpack, they will fall to the floor.
