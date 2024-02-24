@@ -1,4 +1,4 @@
-Current Arctic Scenario list with Description (As of December 2nd, 2023) Completed At the Moment, made by zac083. His Discord 
+Current Arctic Scenario list with Description (As of February 24th, 2024) Completed At the Moment, made by zac083. His Discord 
 zac083#1977: 
 
 # REFERENCES
@@ -81,7 +81,7 @@ zac083#1977:
 
 ### Australia (H, no comb.)
 
-> In this gamemode, each individual will be set as a different animal that lives in the continent of Australia. For more information about the animals and their powers, use the command /scen and click on the scenario called Australia during a game where it's enabled or check [here](https://pastebin.com/CRfnJHaB).
+> In this gamemode, each individual will be set as a different animal that lives in the continent of Australia. For more information about the animals and their powers, use the command /scen and click on the scenario called Australia during a game where it's enabled or check [here](/Scenario%20Roles/Australia.md).
  
 ### Backpacks (L)
 > You will have the ability to open your backpack, (/bp) to gain an extra 27 inventory slots for yourself. If you die with items in your backpack, they will fall to the floor.
@@ -688,6 +688,9 @@ zac083#1977:
 
 ### Santa's Helper (L)
  > Every 15 minutes, all players are asked to obtain an item. Once the player has obtained that item, they can drop the item off in a chest at the coords of X: 250 and Z: 250 at any quadrant to receive a small reward. When the item rotates out, you cannot place that past item into the chest. 
+
+### Scatterless (L)
+> All players start the game at the center of the map.
 
 ### Scenario Mania (H)
 
