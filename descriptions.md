@@ -290,6 +290,9 @@ zac083#1977:
 ### Double Healing (H)
 > All golden apples, golden heads, and instant health pots will heal twice as much. If absorption is enabled, then it will give you 3 absorption hearts instead of 4.
 
+### Double Hearts (L)
+> Everyone will start with 20 hearts!!! Golden apples will heal 20% of your max health.
+
 ### Double Moles (H)
 > Instead of one mole on the team, there will now be 2 moles on your team to worry about. The moles are the people who must betray their team in order to meet up with other moles in the game. They will get kits to help betray their team quicker.
  
