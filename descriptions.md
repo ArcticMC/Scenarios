@@ -439,12 +439,15 @@ zac083#1977:
  
 ### Head Hunters (L) 
 > When a player dies, their head will be somewhere 75 blocks out on where they died, on the surface.
-
-### Homework (H) BROKEN 
-> Every 10 minutes, you will be assigned an item that you must collect and have in your inventory. If you do not have the item in your inventory you will lose 1 full heart. If you have it in your inventory, you will gain 1 potential heart.
  
 ### Health Donor (L)
 > Players can donate health to other players in the game. Every half a heart you donate will cost 1 experience level. To do this command /donatehp <1-20> <IGN>
+
+### Hex Lands (L)
+> The world is now using hexagonal terrain generation, with each hexagon being a different biome with a stone brick wall separating the different hexagons.
+
+### Homework (H) BROKEN 
+> Every 10 minutes, you will be assigned an item that you must collect and have in your inventory. If you do not have the item in your inventory you will lose 1 full heart. If you have it in your inventory, you will gain 1 potential heart.
 
 ### Identity Reveal (L) 
 > All players start out the game with a disguise. When a player gets a kill, their true identity is revealed to everyone.
