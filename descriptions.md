@@ -156,7 +156,7 @@ zac083#1977:
 > Whenever you mine a different type of block, you will be rewarded with 1 gold ingot.
 
 ### Blood Brothers (H) (Teams of 2 only!)
-> Whenever you eat a gap, head, or health potion, it will your teammate instead of you.
+> Whenever you eat a gap, head, or health potion, it will heal your teammate instead of you.
  
 ### Blood Cycle (H)
 > Every 10 minutes the Blood cycle will target an ore that you that has a chance to make you lose lose half a heart. The cycle of ores is random and it includes the following: Coal, Iron, Gold, Redstone, Lapis, Emerald, and Diamond. If you're lucky, the game will have a "no ore," meaning that no ores will do half a heart to you.
