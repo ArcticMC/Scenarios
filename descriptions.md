@@ -235,6 +235,9 @@ zac083#1977:
   
 ### Compensation (H)
 > When a teammate dies, their total health is divided to the remaining teammates. For example, if one teammate dies, and they're on a team of 3, the other 2 teammates will gain and regenerate 5 hearts. And if the other teammate dies, the solo player will receive the dead teammates 15 hearts, and have a total of 30 hearts. When you craft arrows, you'll get 16 per craft instead of the normal 4. Golden Apples heal 20% of your current total health, while Golden Heads heal 40% of your health. (If you have 20 hearts, the golden apple will heal 4 hearts and the Golden Head will heal 8.)
+
+### Corpses (L)
+> When a player dies, their corpse will remain on the ground to show where they died.
  
 ### Corrupt Kings (H)
 > Every team will have a king. The king will be unknown to the team, each time a teammate dies, the king gets their hearts. The king will have 20 hearts and strength once all of their teammates have died. The goal of the team is to kill the king and the king's goal is to kill their team members. 
