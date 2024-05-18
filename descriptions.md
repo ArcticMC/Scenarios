@@ -277,6 +277,9 @@ zac083#1977:
   
 ### Depths (L)
 > As your Y level goes down, the monsters will get stronger and stronger.
+
+### Desert Flat World (H, not comb.)
+> The world is a desert superflat world with very high village & temple rates. Villager spawning is disabled to prevent TPS issues, so you start with 20 villager spawn eggs. Enchant tables will automatically have lapis in them as well.
  
 ### Diamondless (H)
 > When you mine a diamond, the diamond will not drop, instead a piece of iron will drop it. No diamonds will be dropped when a player dies.
