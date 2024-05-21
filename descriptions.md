@@ -772,6 +772,9 @@ zac083#1977:
   
 ### Snowday (L, not comb.)
 > The entire world is covered in snow! Majority of the biomes is replaced by the Cold Taiga biome. Also there Sugar cane drops from trees at a rate of 2%.
+
+### Sonar (L)
+> Every 1-5 minutes, all players are given the distance between them and the nearest player to them.
  
 ### Soul Brothers (H, not comb.) 
 > 2 of the same worlds are created. Teammates goes into 1 world, the other teammates goes into the other world. After a specific period of time, the remaining teammates, if they are alive, will be teleported into 1 new world together.
