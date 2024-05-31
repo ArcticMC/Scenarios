@@ -674,6 +674,9 @@ zac083#1977:
 ### Red Arrows (L)
 > Whenever a player dies, a red arrow will appear in the sky in where the person has died.
 
+### Red Arrows+ (L)
+> When a player dies, a giant arrow will spawn above where they died. The arrow will start out as green, turn yellow after 2 minutes, and turn red after 3 more minutes.
+
 ### Refill (L)
 > On kill, the victim will drop extra gold depending on the killer's health after the fight. In a teams game, it'll depend on the average health of the team. The gold ranges from 0 gold between 80% and 100% and 10 gold between 0% and 15%.
 
