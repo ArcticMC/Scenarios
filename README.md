@@ -1,3 +1,5 @@
+![ArcticMC Banner](https://i.imgur.com/tQiSJ7q.png)
+
 # Arctic Scenarios
 This repository contains all information you will ever need about all of the scenarios on the ArcticMC UHC Network
 
