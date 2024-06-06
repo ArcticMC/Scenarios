@@ -831,6 +831,9 @@ zac083#1977:
 
 ### Team Inventory (L) 
 > You will have the ability to open your team inventory, (/ti) to gain an extra 27 inventory slots for team. If you are the last player on your team, once you die, you will drop all the items that are stored in the Team Inventory.
+
+### Terraria (H)
+> The world is a long line along the Z axis that is 100 blocks wide, simulating a 2D world like Terraria.
   
 ### THS3 Terrain (H, not comb.) 
 > The terrain is a mix of Flat World, Amplified, and Normal terrain. Dungeon rates are increased and fit every mob type.
