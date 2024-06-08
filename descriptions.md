@@ -1,7 +1,8 @@
 ![ArcticMC Banner](https://i.imgur.com/tQiSJ7q.png)
 
-Current Arctic Scenario list with Description (As of February 24th, 2024) Completed At the Moment, made by zac083. His Discord 
-zac083#1977: 
+Current Arctic Scenario list with Description (As of February 24th, 2024) Completed at the moment, originally created by **zac083**, his discord is **zac083**.
+
+Updated by **MarcusWest**, his discord is **mrcsm**.
 
 # REFERENCES
 
