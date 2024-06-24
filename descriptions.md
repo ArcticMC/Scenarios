@@ -274,7 +274,10 @@ Updated by **MarcusWest**, his discord is **mrcsm**.
  
 ### Dead Biomes (L)
 > Every 10 minutes, a new biome will be announced as a "Dead Biome". If players are in that biome, they will receive Slowness 1 and Weakness 1 and for every minute they stay in the biome, they will lose 1 heart.
-  
+
+### Deep Diggers (L, not comb with other potion effect scenarios)
+> Players that are under Y:-32 will receive Haste 1.
+
 ### Demolition (H)
 > Most of the ores/blocks, have been replaced with TNT. As you decrease your Y level, more TNT will spawn will spawn in more veins and frequencies. If you place down TNT, it will instantly ignite it. Enderman will have TNT in their hands and creepers and super charged creepers and more likely to spawn. Most of the skeletons will have flame bows that will ignite the TNT. There is also no bedrock in the world so you can fall into the void!!!
   
@@ -394,7 +397,16 @@ Updated by **MarcusWest**, his discord is **mrcsm**.
 
 ### Football Edition (H, not comb.)
 > Each player on a team will be given a specific position in the game. Whether that would be Goalkeeper, Right or Left Defender, Midfielders or Forwards. https://www.reddit.com/r/ultrahardcore/comments/bsgzy8/may_25_0000_utc_na_hoookeys_2000_cto11_cutclean/ For more information about what powers you receive for each position.  
- 
+
+### Fortune Babies (H)
+> Every tool that you craft will have Fortune 1.
+
+### Fortune Boys (H)
+> Every tool that you craft will have Fortune 2.
+
+### Fortune Men (H)
+> Every tool that you craft will have Fortune 3.
+
 ### Frozen In Time (H)
 > All the Current movement in water and lava will not flow. Gravel, sand, cacti, and sugarcane will be uneffected by gravity. Leaves will not decay. Your only way of getting apples is through shearing leaves
  
@@ -445,6 +457,9 @@ Updated by **MarcusWest**, his discord is **mrcsm**.
   
 ### Hastey Boys (L) 
 > Every tool that you craft will have Efficiency 3 and Unbreaking 1.
+
+### Hastey Men (L)
+> Every tool that you craft will have Efficiency 5 and Unbreaking 3.
  
 ### Head Hunters (L) 
 > When a player dies, their head will be somewhere 75 blocks out on where they died, on the surface.
@@ -619,9 +634,15 @@ Updated by **MarcusWest**, his discord is **mrcsm**.
  
 ### Parassassins (H)
 > A combination of the gamemodes "Parafusion" and "Assassins". All players in the game will receive a 'target' at PvP, and instead of a compass pointing to their location, they will have parafusion coordinates to the target. If your target dies, you will be assigned a new one. Unlike assassins, any kill in the game will still drop their items.
+
+### Passive Mobs (L)
+> All hostile mobs will not attack you.
  
 ### Period of Resistance (L) 
 > Every 10 minutes, a damage type will be swapped. You cannot take damage from that type of damage. To check use /status
+
+### Perma Glow (L, 1.20+ Only)
+> Whenever a player dies, the glowing effect is toggled for all players.
  
 ### Permakill (L) 
 > Whenever a player die, the cycle either changes to permanent day or permanent night.
@@ -797,14 +818,14 @@ Updated by **MarcusWest**, his discord is **mrcsm**.
 ### Speedy Miners (L, not comb with other potion effect scenarios)
 > Players that are under Y:32 will receive Speed 1.
 
+### Split Spawn (L) 
+> In a Team game, all of the players on a team will be scattered alone.
+
 ### Statless (L) 
 
 > THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO (Hosts are only allowed to ask the Admins not players)
 
 > The game will not count for stats.
-
-### Split Spawn (L) 
-> In a Team game, all of the players on a team will be scattered alone.
 
 ### Stock up (L) 
 > Whenever a player dies, everyone that is currently alive will receive 1 empty heart.
@@ -814,6 +835,9 @@ Updated by **MarcusWest**, his discord is **mrcsm**.
  
 ### Sudden Death (L) 
 > Once Meet-up is called all players will be teleported into a 300x300 area of 0,0 and must fight from there!
+
+### Sugar Rush (L)
+> Consuming sugar will give you Speed II for 4 seconds. Sugar has a 15 second cooldown after expiration.
  
 ### Superheroes (H)
 > Everybody on a team will receive a superpower that will last for the entire game. A player can receive 1 of the following: Strength, Speed, Resistance, Double Health, Invisibility, or Jump Boost. Fall damage is off in this gamemode. For Health power: Gaps heal 3 hearts and Golden Heads heal 6 hearts. *Does not apply to potions!* (If teams of 5, Jump will be available, if teams of 6 or higher, Invisibility is available, unless the player is solo without a team.)
