@@ -926,6 +926,9 @@ Updated by **MarcusWest**, his discord is **mrcsm**.
 ### Xenophobia (H, not comb.) 
 > Every mob, passive or aggressive, will be a villager, same to go with all the players.
 
+### Yapper Siren (L)
+> Whenever you type in chat, there is a 10% chance your coordinates will be broadcasted to everyone.
+
 ### Your Name (L)
 > Every 10 minutes, you will be randomly swapped with your teammates. You will be disguised as the teammate you swapped with.
  
