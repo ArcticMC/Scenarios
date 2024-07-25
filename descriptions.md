@@ -769,7 +769,10 @@ Updated by **MarcusWest**, his discord is **mrcsm**.
 
 ### Sharpshooters (L) 
 > 8 players, selected by the host, will go off to shoot 1 player from a pedestal to pick their players. If they miss their shot, their turn will be skipped. If they hit a player, that player will be added to their team.
-   
+
+### Shieldless (L)
+> Shields are disabled.
+ 
 ### Shrinking Borders (L)
 > The border will start to shrink at the start of pvp until meet-up. If you go past the border, you will be killed.
  
