@@ -2,8 +2,6 @@
 
 Current Arctic Scenario list with Description (As of February 24th, 2024) Completed at the moment, originally created by **zac083**, his discord is **zac083**.
 
-Updated by **MarcusWest**, his discord is **mrcsm**.
-
 # REFERENCES
 
 > (H) = Represents this Scenario has a high impact rating on the game.
@@ -517,7 +515,10 @@ Updated by **MarcusWest**, his discord is **mrcsm**.
  
 ### Krenzinator (L) 
 > If you put 9 redstone blocks in a crafting table, you'll receive a diamond. If you craft a diamond sword, you will lose 1 heart. If you throw an egg, and if it hits a player, it will do half a heart (0.5). Horses and the nether is disabled, but you can still ride donkeys.
- 
+
+### Lifesteal (L)
+> You gain half a heart to your max health after every kill.
+
 ### Love at First Damage (H) 
 > When you take damage, you will be put onto a team. There are a minimum of 6 teams. The order is set as 1,2,3,4,5,6,1,2,3,4,5,6 etc. until everyone has taken damage and is put onto a team
  
