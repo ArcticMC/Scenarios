@@ -1028,6 +1028,9 @@ Current Arctic Scenario list with Description (As of February 24th, 2024) Comple
 
 ### Tunnels (L)
 > The cave generation has been changed. All of the caves have been changed to represent Mineshafts, however all of the wood, cobwebs, and rails, have been removed.
+
+### Unbreakable (L) 
+> All tools, weapons, and armor cannot be broken.
  
 ### Undead's Revenge (L) 
 > Whenever a player dies, it will either summon a skeleton or a zombie that you must kill it in order to gain  all of the loot. The Zombie or Skeleton will hold whatever the killed person was holding last.
@@ -1037,9 +1040,9 @@ Current Arctic Scenario list with Description (As of February 24th, 2024) Comple
 > &#x1F534; THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO (Hosts are only allowed to ask the Admins not players)
 
 > The surface is replicated underground at Y:42 and Below.
- 
-### Unbreakable (L) 
-> All tools, weapons, and armor cannot be broken.
+
+### Universal Health Care (L)
+> Every time someone heals, everyone in the game heals 1%.
   
 ### Upside-Down Crafting (H, not comb.)
 > All the crafting recipes in the game will be flipped upside down.
