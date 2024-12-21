@@ -777,6 +777,9 @@ Current Arctic Scenario list with Description (As of February 24th, 2024) Comple
 ### Pyrophobia (H, not Comb.)
 > All the water and ice in the world has been evaporated. All lava will replace it. 50% of all redstone veins and lapis veins is replaced by obsidian. Sugarcane will drop from trees at a rate of 2%. And lastly, all mobs in the game are fire resistant.
 
+### Quadrant Balance (L)
+> Players can only mine a maximum of 8 diamonds and 48 gold per quadrant of the map. When a player kills another, their ore count is reset in the quadrant where they got the kill.
+
 ### Quadrant Paranoia (L) 
 > On tab, it will display a colored name for which quadrant you are in. 
 
