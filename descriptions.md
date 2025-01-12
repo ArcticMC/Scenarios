@@ -1,6 +1,6 @@
 ![ArcticMC Banner](https://i.imgur.com/tQiSJ7q.png)
 
-Current Arctic Scenario list with Description (As of February 24th, 2024) Completed at the moment, originally created by **zac083**, his discord is **zac083**.
+Current Arctic Scenario list with Description (As of January 12th, 2025) Completed at the moment, originally created by **zac083**, his discord is **zac083**.
 
 # REFERENCES
 
@@ -329,6 +329,9 @@ Current Arctic Scenario list with Description (As of February 24th, 2024) Comple
 
 ### Do Not Disturb (L) 
 > If you hit a player, it will lock you with that player, or team for 15 seconds. Every time you hit that player or team, the timer will refresh until the 15 seconds are up and can be attacked by another player or team. When you kill a player, you will be able to safely get the items for 60 seconds.
+
+### Do Not Disturb+ (L)
+> When the border reaches ±250, hitting a player will lock you (or your team) in combat with that player (or their team) for 15 seconds, the timer refreshes for every hit. When a player dies, their loot will be locked to the killer for 30 seconds.
  
 ### Drafters (L)
 > This is a captains mode that instead of picking people freely, you're restricted from picking a list of 5 people at random. This way, everyone will get accepted. Same captains rules apply. Players get chosen to be captain and take turns to pick players to form their team!
