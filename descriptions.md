@@ -1,6 +1,6 @@
 ![ArcticMC Banner](https://i.imgur.com/tQiSJ7q.png)
 
-Current Arctic Scenario list with Description (As of January 12th, 2025) Completed at the moment, originally created by **zac083**, his discord is **zac083**.
+Current Arctic Scenario list with Description (As of February 1st, 2025) Completed at the moment, originally created by **zac083**, his discord is **zac083**.
 
 # REFERENCES
 
@@ -42,7 +42,7 @@ Current Arctic Scenario list with Description (As of January 12th, 2025) Complet
 > Whenever you eat a golden apple, your teammate will gain an absorption heart.
 
 ### Absorption Switch (L) 
-> By left clicking on a golden apple, it will either switch to giving 2 hearts of absorption and 0 hearts of healing or the golden apple with heal 2 hearts without the absorption. Golden heads, when toggled to absorption on, will give out 2 hearts and heal whatever the host set the regeneration for golden heads (3-4 hearts). When absorption is toggled off, it will heal the normal health the golden head regeneration is set at. 
+> By left clicking on a golden apple, it will either switch to giving 2 hearts of absorption and 0 hearts of regeneration or a golden apple with heal 2 hearts without the absorption. Golden heads, when toggled to absorption on, will give out 2 hearts and heal whatever the host set the regeneration for golden heads (3-4 hearts). When absorption is toggled off, it will heal the normal health the golden head regeneration is set at. 
  
 ### Achievement Hunters (H)
 > When you earn a certain achievement, you will either be rewarded or penalized for earning that achievement. /alist is the command. Heads for this game are disabled and only available through 2 achievements. 
@@ -79,6 +79,9 @@ Current Arctic Scenario list with Description (As of January 12th, 2025) Complet
 
 ### Armor Compensation (L)
 > The amount of teammates remaining determine the number of diamond armor each teammate can wear. If you are a solo, you can wear full, Teams of 2 3/4ths Diamond, Teams of 3 is Half Diamond, and Teams of 4 is one piece diamond armor.
+
+### Armor Reveal (L)
+> At the start of the game, your armor will not be shown to other players. Until you kill a player, your armor will be revealed towards other players.
  
 ### Assassins (H)
 > At PvP, you will receive a target, that is your target until the target dies, then it switches to another target. If you manage to kill your target, they will drop all of their loot. If you kill a player that is not your target, then nothing will drop but their head. You need to craft a Compass in order to track your target.
@@ -111,7 +114,7 @@ Current Arctic Scenario list with Description (As of January 12th, 2025) Complet
 
 > Whenver you kill a bat there is a 99% chance that you get 1 Golden Apple and a 1% chance to be instantly dead. 
 
-### Battle Royale
+### Battle Royale (H) 
 
 > &#x1F534; This is an Admin Scenario. If this scenario needs to be hosted, a host must ask an admin to enable the scenario for them.
 
@@ -180,6 +183,9 @@ Current Arctic Scenario list with Description (As of January 12th, 2025) Complet
 ### Blood Diamonds (L)
 > Every time you mine a diamond ore, you will lose half a heart.
 
+### Blood Diamonds+ (L)
+> Whenever you mine a diamond, you will take 1% of damage or 0.1 hearts. The damage will progressively continue for each diamond you mine. For example, if you're mining your 15th diamond, you will take 15% of damage or 1.5 hearts.
+
 ### Blood Enchants (L)
 > Every time you enchant an item, you will lose half a heart.
 
@@ -228,6 +234,9 @@ Current Arctic Scenario list with Description (As of January 12th, 2025) Complet
 ### Catacombs (H, not comb.)
 > There will be several layers underground that replicate the surface in the game!
 
+### Chameleons (L)
+> Based on what minecraft skin you're wearing, you will be disguised in that biome.
+
 ### Cherry World (L)
 > The entire world is a Cherry Blossom biome!
 
@@ -256,7 +265,7 @@ Current Arctic Scenario list with Description (As of January 12th, 2025) Complet
 > When a player dies, their corpse will remain on the ground to show where they died.
  
 ### Corrupt Kings (H)
-> Every team will have a king. The king will be unknown to the team, each time a teammate dies, the king gets their hearts. The king will have 20 hearts and strength once all of their teammates have died. The goal of the team is to kill the king and the king's goal is to kill their team members. 
+> Every team will have a king. The king will be unknown to the team, each time a teammate dies, the king gets their hearts. The king will have 20 hearts and strength once all of their teammates have died. 
  
 ### Craftable Absorption (L)
 > Absorption is off by default. When you have made a golden apple. If you surround the golden apple with 4 more gold, then it will become an Absorption Golden Apple. (This does not work with Absorption Golden Heads)
@@ -299,6 +308,12 @@ Current Arctic Scenario list with Description (As of January 12th, 2025) Complet
 
 ### Desert Flat World (H, not comb.)
 > The world is a desert superflat world with very high village & temple rates. Villager spawning is disabled to prevent TPS issues, so you start with 20 villager spawn eggs. Enchant tables will automatically have lapis in them as well.
+
+### Dex S1 Balance (L)
+> Players are allowed to mine a total of 22 diamonds.
+
+### Dex S2 Balance (L)
+> Players are allowed to mine a total of 8 diamonds and 48 gold. Whenever you kill a player, you can mine 2 more diamonds and 8 more gold.
  
 ### Diamondless (H)
 > When you mine a diamond, the diamond will not drop, instead a piece of iron will drop it. No diamonds will be dropped when a player dies.
@@ -328,10 +343,10 @@ Current Arctic Scenario list with Description (As of January 12th, 2025) Complet
 > Coordinates of X:0 and Z:0 will have 2 cracks, that go to the border, with slime blocks underneath to break your fall. Players can also break the Slime blocks and send people to the void!!!
 
 ### Do Not Disturb (L) 
-> If you hit a player, it will lock you with that player, or team for 15 seconds. Every time you hit that player or team, the timer will refresh until the 15 seconds are up and can be attacked by another player or team. When you kill a player, you will be able to safely get the items for 60 seconds.
+> Whenever the border reaches to ±100 radius or ±200 diameter, if you hit a player, it will lock you with that player, or team for 15 seconds. Every time you hit that player or team, the timer will refresh until the 15 seconds are up and can be attacked by another player or team. When you kill a player, you will be able to safely get the items for 60 seconds.
 
 ### Do Not Disturb+ (L)
-> When the border reaches ±250, hitting a player will lock you (or your team) in combat with that player (or their team) for 15 seconds, the timer refreshes for every hit. When a player dies, their loot will be locked to the killer for 30 seconds.
+> When the border reaches ±250 radius or ±500 diameter, hitting a player will lock you (or your team) in combat with that player (or their team) for 15 seconds, the timer refreshes for every hit. When a player dies, their loot will be locked to the killer for 30 seconds.
  
 ### Drafters (L)
 > This is a captains mode that instead of picking people freely, you're restricted from picking a list of 5 people at random. This way, everyone will get accepted. Same captains rules apply. Players get chosen to be captain and take turns to pick players to form their team!
@@ -594,8 +609,11 @@ Current Arctic Scenario list with Description (As of January 12th, 2025) Complet
 ### Lootcrates (L) 
 > Every 10 minutes players are given out chests. You will gain a reward from them. They are either Tier 1 (Wooden Chest) or Tier 2 (Ender Chest).
  
-### Love When Coords Meet (H, not Comb.)
+### Love When Coords Match (H, not Comb.)
 > Similar to Soul Brothers and Love At First Sight. Half of the players will be scattered in 1 world and half in the other. Players will not be able to team based on who is in their world, but from coordinates of different worlds. Example, if 1 player in a world is at X:-500 and Z:250 and 1 player is in a 25 block radius near those coordinates in a different world, then they will automatically be put on a team. At meet-up all the players will be teleported into 1 different world.
+
+### Love at First Lake (L)
+> If you and another player are in the same body of water, like the same river or pond, you two will be put together on a team
  
 ### Lucky Chests (L, not Comb.) 
 > Ender chests will be scattered across the map, mainly in caves. They will contain either positive loot, like diamonds, gold, etc. Or negative effects like blindness, poison etc.
@@ -640,7 +658,7 @@ Current Arctic Scenario list with Description (As of January 12th, 2025) Complet
 
 > &#x1F534; THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO (Hosts are only allowed to ask the Admins not players)
 
-> The entire world is a Mushroom island.
+> The entire world is a never ending Mushroom Island. To get wood, you can break mushroom blocks for them. Hostile mobs will also spawn throughout the island.
  
 ### Mystery Scenarios (H, MUST USE L SCENS) 
 > The players will have no idea what the host enabled as a scenario or scenarios!
@@ -673,6 +691,9 @@ Current Arctic Scenario list with Description (As of January 12th, 2025) Complet
 > The mobs have been intensely strong. Creepers walk twice as fast and when the explode a several silverfish will pop up to attack you. Zombies are slow but strong, if you kill them a skeleton appears and attacks you with melee. The zombies are also fire resistant. Skeletons shot poison arrows. Spiders are pretty fast and when they die, some "blood" and cobwebs will spawn around you. Enderman have mutated and whenever they get damaged, they will have a chance to spawn a blaze. Lastly, witches will have Speed 5. 
 
 ### Nintendo Switch (L)
+> Whenever you shoot an entity, you will switch places with that entity. 
+
+### Nintendo Switch+ (L)
 > Whenever you shoot an entity, you will switch places with that entity. You can make this option turned on or off by left clicking your bow.
 
 ### No Enchants (L) 
@@ -728,6 +749,9 @@ Current Arctic Scenario list with Description (As of January 12th, 2025) Complet
 
 ### Perma Glow (L, 1.20+ Only)
 > Whenever a player dies, the glowing effect is toggled for all players.
+
+### Permaday (L)
+> For the entire game, it will always be day time, no night time.
  
 ### Permakill (L) 
 > Whenever a player die, the cycle either changes to permanent day or permanent night.
@@ -736,7 +760,7 @@ Current Arctic Scenario list with Description (As of January 12th, 2025) Complet
 > Whenever a player dies, the weather will cycle between clear skies, to rain, to thunderstorms. 
  
 ### Permanight (L)
-> There is no day time, it is always night time.
+> After the first day, it will always be night.
  
 ### Picked Teams (L) 
 > At the start of the game, players, one by one, are allowed to pick on what team they want to be on. The order in which players will pick, will be randomly selected.
@@ -771,6 +795,9 @@ Current Arctic Scenario list with Description (As of January 12th, 2025) Complet
 ### Potion Healing (L) 
 > Whenever you craft a golden apple, it becomes a Tier 1 health potion. Whenever you craft a golden head, it becomes a Tier 2 Health potion.
 
+### Progressive Flood (H, not comb.)
+> The water will start to rise. Water will periodically rise. Every 20 minutes into the game, the water will rise by 2 blocks instead of 1.
+
 ### Progressive Skyhigh (H)
 > After about 45-60 minutes, players must be at or near 0,0 at a Y level above 150. If players are underneath that Y:150 level they will take half a heart every 30 seconds. This damage will increase the more times you are below the recommended Y level. For example, if you took your first half a heart for not being above Y:150, you will take 1 full heart. If you are not above Y:150 for a 3rd time, you will take 1.5 hearts and so on. You will receive starter items at the beginning of the game, this includes: 2 stacks of blocks, some snowball blocks, some pumpkins, and a Diamond shovel. Also, the sand will drop glass and Snow blocks will drop snow blocks.  
 
@@ -800,6 +827,9 @@ Current Arctic Scenario list with Description (As of January 12th, 2025) Complet
 
 ### Random Starter Items+ (H)
 > Everyone will receive 36 random starting items at random amounts, all the items will be the same for each player.
+
+### Randomized Crafts (H)
+> All the crafting recipes have been randomized. If you try to craft an item, you will receive a different item. For example, crafting a stone pickaxe might give you an iron sword instead. 
 
 ### Randomizer (H) 
 > Whenever you break a block or kill an animal, it will drop either random loot. Whether it is from a crafting recipe, furnace smelting, or structure loot. 
@@ -989,6 +1019,9 @@ Current Arctic Scenario list with Description (As of January 12th, 2025) Complet
 
 ### Terraria (H, not comb.)
 > The world is a long line along the Z axis that is 100 blocks wide, simulating a 2D world like Terraria.
+
+### Terraria X (H, not comb.)
+> The world is two long lines along the X and Z axis that is 100 blocks wide.
   
 ### THS3 Terrain (H, not comb.) 
 > The terrain is a mix of Flat World, Amplified, and Normal terrain. Dungeon rates are increased and fit every mob type.
