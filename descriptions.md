@@ -310,10 +310,10 @@ Current Arctic Scenario list with Description (As of February 1st, 2025) Complet
 > The world is a desert superflat world with very high village & temple rates. Villager spawning is disabled to prevent TPS issues, so you start with 20 villager spawn eggs. Enchant tables will automatically have lapis in them as well.
 
 ### Dex S1 Balance (L)
-> Players are allowed to mine a total of 22 diamonds.
+> Players are allowed to mine a total of 8 diamonds and 48 gold. Whenever you kill a player, you can mine 2 more diamonds and 8 more gold.
 
 ### Dex S2 Balance (L)
-> Players are allowed to mine a total of 8 diamonds and 48 gold. Whenever you kill a player, you can mine 2 more diamonds and 8 more gold.
+> Players are allowed to mine a total of 22 diamonds.
  
 ### Diamondless (H)
 > When you mine a diamond, the diamond will not drop, instead a piece of iron will drop it. No diamonds will be dropped when a player dies.
