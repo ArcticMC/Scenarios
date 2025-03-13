@@ -101,6 +101,9 @@ Current Arctic Scenario list with Description (As of February 1st, 2025) Complet
  
 ### Balance (L)
 > After mining 8 diamonds, it will be harder to mine more diamonds. After mining 48 gold, it will be harder to mine more gold.
+
+### Balance+ (L)
+> Players are allowed to mine a total of 8 diamonds and 48 gold. Whenever you kill a player, you can mine 2 more diamonds and 8 more gold.
  
 ### Bald Chicken (L)
 > Chickens do not drop feathers in this scenario, instead skeletons will drop 10-20 arrows upon their death.
@@ -308,15 +311,12 @@ Current Arctic Scenario list with Description (As of February 1st, 2025) Complet
 
 ### Desert Flat World (H, not comb.)
 > The world is a desert superflat world with very high village & temple rates. Villager spawning is disabled to prevent TPS issues, so you start with 20 villager spawn eggs. Enchant tables will automatically have lapis in them as well.
-
-### Dex S1 Balance (L)
-> Players are allowed to mine a total of 8 diamonds and 48 gold. Whenever you kill a player, you can mine 2 more diamonds and 8 more gold.
-
-### Dex S2 Balance (L)
-> Players are allowed to mine a total of 22 diamonds.
  
 ### Diamondless (H)
 > When you mine a diamond, the diamond will not drop, instead a piece of iron will drop it. No diamonds will be dropped when a player dies.
+
+### Diamond Limit (L)
+> Players are allowed to mine a total of 22 diamonds.
 
 ### Dolphins (L) 
 > If you swim in the water, you swim speed increases, making you swim like a dolphin. You cannot drown in the water 
