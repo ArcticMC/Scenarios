@@ -691,10 +691,10 @@ Current Arctic Scenario list with Description (As of February 1st, 2025) Complet
 > The mobs have been intensely strong. Creepers walk twice as fast and when the explode a several silverfish will pop up to attack you. Zombies are slow but strong, if you kill them a skeleton appears and attacks you with melee. The zombies are also fire resistant. Skeletons shot poison arrows. Spiders are pretty fast and when they die, some "blood" and cobwebs will spawn around you. Enderman have mutated and whenever they get damaged, they will have a chance to spawn a blaze. Lastly, witches will have Speed 5. 
 
 ### Nintendo Switch (L)
-> Whenever you shoot an entity, you will switch places with that entity. 
+> Whenever you shoot a mob, passive, agressive, or neutral, you will switch places with that entity. 
 
 ### Nintendo Switch+ (L)
-> Whenever you shoot an entity, you will switch places with that entity. You can make this option turned on or off by left clicking your bow.
+> Whenever you shoot an mob, passive, aggressive, or neutral, you will switch places with that entity. You can make this option turned on or off by left clicking your bow.
 
 ### No Enchants (L) 
 > Enchanting tables cannot be crafted nor be used.
