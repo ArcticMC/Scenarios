@@ -385,12 +385,12 @@ Current Arctic Scenario list with Description (As of February 1st, 2025) Complet
 > You cannot craft enchanting tables. When a player dies, they will drop an enchanting table. (Please Note: You will be Disqualified of you team-kill your teammates for an enchanting table.)
  
 ### Enchant Paranoia (L)
-> The enchant preview will be disabled. When you enchant an item, it will be enchanted with the enchantment name "???".
-
-### Enchant Progression (L)
 
 > &#x1F534; THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO (Hosts are only allowed to ask the Admins not players)
 
+> The enchant preview will be disabled. When you enchant an item, it will be enchanted with the enchantment name "???".
+
+### Enchant Progression (L)
 > All players receive 1 enchanting table use for each kill they get.
  
 ### Ender Dance (H)
