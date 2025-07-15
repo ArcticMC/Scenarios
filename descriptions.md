@@ -55,11 +55,14 @@ Current Arctic Scenario list with Description (As of February 1st, 2025) Complet
   
 ### Alone Together (L)
 > You are not able to see your own teammates.
+
+### Altitude Anvils (L)
+> Anvils are only usable on surface (above y60).
  
 ### Amplified Terrain (H)
 > The terrain will have giant mountains to climb and navigate around.
 
-### Anvil Arrrows (L)
+### Anvil Arrows (L)
 > Whenever a player dies, a giant arrow of anvils will spawn in the sky above where a player has died. The anvils are effected by gravity.
 
 ### Anvil Progression (L)
@@ -941,6 +944,9 @@ Current Arctic Scenario list with Description (As of February 1st, 2025) Complet
  
 ### Slimy Crack (H, not comb.) 
 > Along the X:0 or Z:0 lies a giant crack in the world with slime blocks underneath to break your fall. You can break the slime blocks. The size of the crack is about 50 blocks.
+
+### Snapshot (L)
+> All players have 2 lives! Use /snapshot once to save your current inventory. If you die, you'll respawn once at a random location within the world border with the saved inventory. If you don't use the command, you'll respawn with the inventory you had when you died. The command can only be used once.
 
 ### Snowball Fighters (H)
 > The snowballs you throw will do damage base on how far away you throw it and hit a player. You cannot obtain or use a bow, and the highest damaging melee weapon you can use it a Stone Axe or a Wood Sword. (Here is the base damage if you have no armor.< 5 blocks = 1.75 hearts, < 15 blocks = 2 hearts, < 25 blocks = 2.25 hearts, < 35 blocks = 2.5 hearts, and > 35 blocks = 2.75 hearts.)
