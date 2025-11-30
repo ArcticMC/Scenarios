@@ -38,6 +38,13 @@ Current Arctic Scenario list with Description (As of February 1st, 2025) Complet
 ### 100 Hearts (H)
 > Everyone will start with 100 hearts!!! Golden apples will heal 20% of your max health.
 
+
+### 9 Lives (H)
+
+> &#x1F534; THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO (Hosts are only allowed to ask the Admins not players)
+
+> At the start of the game, you will have 10 hearts. Each time you die, you will be rescattered into the game, gain 2 golden apples, and lose 1 permanent heart. You will keep playing until you have 1 permanent heart remaining where if you die with 1 permanent heart left, you will no longer respawn into the game.
+
 ### Absorption Partner (L)
 > Whenever you eat a golden apple, your teammate will gain an absorption heart.
 
@@ -520,13 +527,13 @@ Current Arctic Scenario list with Description (As of February 1st, 2025) Complet
 > Every tool that you craft will have Efficiency 1. 
   
 ### Hastey Boys (L) 
-> Every tool that you craft will have Efficiency 3 and Unbreaking 1.
+> Every tool that you craft will have Efficiency 3 and Unbreaking 1. With the exception of shovels, the max being efficiency 2.
 
 ### Hastey Getaway (L)
-> Whenever you kill a player, you will gain Haste 2 for 45 seconds.
+> Whenever you kill a player, you will gain Haste 2 for 45 seconds. 
 
 ### Hastey Men (L)
-> Every tool that you craft will have Efficiency 5 and Unbreaking 3.
+> Every tool that you craft will have Efficiency 5 and Unbreaking 3. With the exception of shovels, the max being efficiency 2.
  
 ### Head Hunters (L) 
 > When a player dies, their head will be somewhere 75 blocks out on where they died, on the surface.
