@@ -547,6 +547,9 @@ Current Arctic Scenario list with Description (As of February 1st, 2025) Complet
 ### Homework (H) BROKEN 
 > Every 10 minutes, you will be assigned an item that you must collect and have in your inventory. If you do not have the item in your inventory you will lose 1 full heart. If you have it in your inventory, you will gain 1 potential heart.
 
+### Ice Cage (L)
+> Whenever a player dies, a sphere of ice will spawn around where that player has died.
+
 ### Identity Reveal (L) 
 > All players start out the game with a disguise. When a player gets a kill, their true identity is revealed to everyone.
   
