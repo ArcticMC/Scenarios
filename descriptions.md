@@ -553,7 +553,7 @@ Current Arctic Scenario list with Description (As of February 1st, 2025) Complet
 ### Identity Reveal (L) 
 > All players start out the game with a disguise. When a player gets a kill, their true identity is revealed to everyone.
   
-### Identity Theft (L) 
+### Identity Theft (L) BROKEN
 > Whenever you shoot and hit a player, you will gain their disguise. If a player already has another disguise, then you will steal theirs. 
  
 ### Infestation (H, not Comb.) 
