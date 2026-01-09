@@ -859,6 +859,9 @@ Current Arctic Scenario list with Description (As of February 1st, 2025) Complet
 ### Red Arrows+ (L)
 > When a player dies, a giant arrow will spawn above where they died. The arrow will start out as green, turn yellow after 2 minutes, and turn red after 3 more minutes.
 
+### Redemption (L)
+> All players in the game have two lives. Once you die a first time, you will be rescattered with your current inventory. Dying for a second time represents your elimination from the game.
+
 ### Refill (L)
 > On kill, the victim will drop extra gold depending on the killer's health after the fight. In a teams game, it'll depend on the average health of the team. The gold ranges from 0 gold between 80% and 100% and 10 gold between 0% and 15%.
 
@@ -955,7 +958,10 @@ Current Arctic Scenario list with Description (As of February 1st, 2025) Complet
 ### Slimy Crack (H, not comb.) 
 > Along the X:0 or Z:0 lies a giant crack in the world with slime blocks underneath to break your fall. You can break the slime blocks. The size of the crack is about 50 blocks.
 
-### Snapshot (L)
+### Snapshot (L) 
+
+> &#x1F534; THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO (Hosts are only allowed to ask the Admins not players)
+
 > All players have 2 lives! Use /snapshot once to save your current inventory. If you die, you'll respawn once at a random location within the world border with the saved inventory. If you don't use the command, you'll respawn with the inventory you had when you died. The command can only be used once.
 
 ### Snowball Fighters (H)
