@@ -330,7 +330,10 @@ Current Arctic Scenario list with Description (As of February 1st, 2025) Complet
 
 ### Dolphins (L) 
 > If you swim in the water, you swim speed increases, making you swim like a dolphin. You cannot drown in the water 
- 
+
+### Dooomsday Clock (H) 
+> There is a nuclear doomsday clock that starts at 20 seconds to midnight (this number can be adjusted by the host). Every time a player dies, the doomsday clock will move one second closer to midnight. Upon reaching midnight, the doomsday clock will be activated, meaning the game will become permanight and squids will begin to fall from the sky. Each squid will explode 5 seconds after it lands on the ground. When the game reaches meetup, the doomsday clock will also be activated if it has not already.
+
 ### **Double Big Crack** (L)
 > Upon the X:0 and Z:0 coordinates will lie 2 giant cracks, these cracks go all the way to the border. Also, beware of the void, you can get killed down there.
  
