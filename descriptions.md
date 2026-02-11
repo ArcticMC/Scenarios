@@ -904,7 +904,7 @@ Current Arctic Scenario list with Description (As of February 1st, 2025) Complet
 
 > &#x1F534; This scenario's code needs to be manually tweaked each time it is hosted depending on what scenarios a host or an RR organizer wants each player to be given at the start of the game. To allow enough time for these code changes and testing to be done, please make a Paid Custom Scenario ticket in our discord at least 5 days in advance of when your game is planned for.
 
-> Created by the recorded round Cataclysm, each player on every team will be assigned 1 different scenario. The scenario a player has been assigned will only work for that 1 player on each team. The specific scenarios that can be assigned to players are determined in advance of the game, and the amount of pre-determined scenarios needs to be the same as the max teamsize of the game.
+> Each player on every team will be assigned 1 different scenario, and the scenario a player has been assigned will only work for that 1 player on each team. The specific scenarios that can be assigned to players are determined in advance of the game, and the amount of pre-determined scenarios needs to be the same as the max teamsize of the game.
  
 ### Scenario Stackup (H, MUST USE L-Type Scenarios) 
 > Every 10 minutes, a new scenario will be enabled, even at the start.
