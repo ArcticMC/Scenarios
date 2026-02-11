@@ -250,7 +250,7 @@ Current Arctic Scenario list with Description (As of February 1st, 2025) Complet
 ### Chameleons (L)
 > Based on what minecraft skin you're wearing, you will be disguised in that biome.
 
-### Cherry World (L)
+### Cherry World (L, 1.21+ only)
 > The entire world is a Cherry Blossom biome!
 
 ### Children Left Unattended (L)
@@ -310,7 +310,7 @@ Current Arctic Scenario list with Description (As of February 1st, 2025) Complet
 ### Dead Biomes (L)
 > Every 10 minutes, a new biome will be announced as a "Dead Biome". If players are in that biome, they will receive Slowness 1 and Weakness 1 and for every minute they stay in the biome, they will lose 1 heart.
 
-### Deep Diggers (L, not comb with other potion effect scenarios)
+### Deep Diggers (L, 1.21+ only, not comb with other potion effect scenarios)
 > Players that are under Y:-32 will receive Haste 1.
 
 ### Demolition (H)
@@ -766,7 +766,7 @@ Current Arctic Scenario list with Description (As of February 1st, 2025) Complet
 ### Period of Resistance (L) 
 > Every 10 minutes, a damage type will be swapped. You cannot take damage from that type of damage. To check use /status
 
-### Perma Glow (L, 1.20+ Only)
+### Perma Glow (L, 1.21+ only)
 > Whenever a player dies, the glowing effect is toggled for all players.
 
 ### Permaday (L)
@@ -902,7 +902,9 @@ Current Arctic Scenario list with Description (As of February 1st, 2025) Complet
 
 > &#x1F534; THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO (Hosts are only allowed to ask the Admins not players)
 
-> Created by the Recorded Round of Cataclysm, each player on a team will be given 1 scenario and it will only work for that 1 player on a team.
+> &#x1F534; This scenario's code needs to be manually tweaked each time it is hosted depending on what scenarios a host or an RR organizer wants each player to be given at the start of the game. To allow enough time for these code changes and testing to be done, please make a Paid Custom Scenario ticket in our discord at least 5 days in advance of when your game is planned for.
+
+> Created by the recorded round Cataclysm, each player on every team will be assigned 1 different scenario. The scenario a player has been assigned will only work for that 1 player on each team. The specific scenarios that can be assigned to players are determined in advance of the game, and the amount of pre-determined scenarios needs to be the same as the max teamsize of the game.
  
 ### Scenario Stackup (H, MUST USE L-Type Scenarios) 
 > Every 10 minutes, a new scenario will be enabled, even at the start.
