@@ -326,7 +326,7 @@ Current Arctic Scenario list with Description (As of February 1st, 2025) Complet
 > When you mine a diamond, the diamond will not drop, instead a piece of iron will drop it. No diamonds will be dropped when a player dies.
 
 ### Diamond Limit (L)
-> Players are allowed to mine a total of 22 diamonds.
+> Players can only mine a certain amount of diamonds. The limit can be viewed with /diamondlimit, and this limit is customizable by the host.
 
 ### Dolphins (L) 
 > If you swim in the water, you swim speed increases, making you swim like a dolphin. You cannot drown in the water 
