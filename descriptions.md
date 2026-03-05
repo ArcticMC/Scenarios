@@ -68,21 +68,21 @@ Current Arctic Scenario list with Description (As of February 1st, 2025) Complet
  
 ### Amplified Terrain (H)
 > The terrain will have giant mountains to climb and navigate around.
+ 
+### Anonymous (L)
+> Players will be disguised as an IGN (Currently "Unknown") and players will not be able to tell who is who. The health on tab is disabled. The normal chat and death messages will contain the players in game.
 
 ### Anvil Arrows (L)
 > Whenever a player dies, a giant arrow of anvils will spawn in the sky above where a player has died. The anvils are effected by gravity.
 
 ### Anvil Progression (L)
 > Any time you kill a player, you will get 1 use of the anvil. The more kills you accumulate, the more uses of the anvil you can use. 
- 
-### Anonymous (L)
-> Players will be disguised as an IGN (Currently "Unknown") and players will not be able to tell who is who. The health on tab is disabled. The normal chat and death messages will contain the players in game.
-
-### Aquaphobia (H) 
-> The world is an abandoned city with water rising from Y:32 to Y:80. Whenever you craft a helmet you will get Respiration 3 and Aqua Affinity and when you craft boots, you will get Depth Strider 3.
 
 ### Apple & Flint Switch (L)
 > Roles of materials have been switched. Flint now drops from leaves and apples drop from gravel.
+
+### Aquaphobia (H) 
+> The world is an abandoned city with water rising from Y:32 to Y:80. Whenever you craft a helmet you will get Respiration 3 and Aqua Affinity and when you craft boots, you will get Depth Strider 3.
    
 ### Armageddon (L)
 > THE WORLD IS ENDING!!! Blocks and objects will fall from the sky, this will include: Gravel, Gold Nuggets, Splash potions that will damage you, lava, etc.
@@ -108,7 +108,10 @@ Current Arctic Scenario list with Description (As of February 1st, 2025) Complet
  
 ### Backpacks (L)
 > You will have the ability to open your backpack, (/bp) to gain an extra 27 inventory slots for yourself. If you die with items in your backpack, they will fall to the floor.
- 
+
+### BAFB (L)
+> Stands for "Block at First Break". Breaking your first block will add you to a team with other people who broke the same block as you. Once a team is full, anyone trying to break a similar block as you will not be added to a team. Once you are added to a team, you cannot leave a team. 
+
 ### Balance (L)
 > After mining 8 diamonds, it will be harder to mine more diamonds. After mining 48 gold, it will be harder to mine more gold.
 
@@ -229,9 +232,6 @@ Current Arctic Scenario list with Description (As of February 1st, 2025) Complet
 ### Bowless (L)
 > Bows are disabled! You cannot craft, use, nor obtain bows!
 
-### Break at First Block (L)
-> Breaking your first block will add you to a team with other people who broke the same block as you. Once a team is full, anyone trying to break a similar block as you will not be added to a team. Once you are added to a team, you cannot leave a team. 
-
 ### Breakup (L)
 > Before the start of the game, players on a big team, will be separated into smaller teams.
 
@@ -283,10 +283,10 @@ Current Arctic Scenario list with Description (As of February 1st, 2025) Complet
 ### Craftable Absorption (L)
 > Absorption is off by default. When you have made a golden apple. If you surround the golden apple with 4 more gold, then it will become an Absorption Golden Apple. (This does not work with Absorption Golden Heads)
 
-### Craftable Teleportation (L)
+### Craftable TP (L)
 > Everyone in the game will start with 1 ender pearl. By renaming the ender pearl with in an anvil with the exact IGN of a player that is alive in the game, once you throw the ender pearl, you will be teleported 50 blocks away from the player's location. (You can be in a cave or on surface)
  
-### Craft Clean (L)
+### CraftClean (L)
 > In a crafting table, if you piece of coal or charcoal and surround the fuel with any smeltable item, you will get its smelted result. 
 
 ### Creeper Pong (H)
@@ -298,7 +298,7 @@ Current Arctic Scenario list with Description (As of February 1st, 2025) Complet
 ### Cupid (L)
 > Every time you shoot and hit a player with your bow, you gain 1% of your health back.
 
-### Custom 0.0 (H)
+### Custom 0,0 (H)
 > The map at 0,0 will be customized by the host! 
  
 ### CutClean (L)
@@ -321,15 +321,21 @@ Current Arctic Scenario list with Description (As of February 1st, 2025) Complet
 
 ### Desert Flat World (H, not comb.)
 > The world is a desert superflat world with very high village & temple rates. Villager spawning is disabled to prevent TPS issues, so you start with 20 villager spawn eggs. Enchant tables will automatically have lapis in them as well.
- 
-### Diamondless (H)
-> When you mine a diamond, the diamond will not drop, instead a piece of iron will drop it. No diamonds will be dropped when a player dies.
 
 ### Diamond Limit (L)
 > Players can only mine a certain amount of diamonds. The limit can be viewed with /diamondlimit, and this limit is customizable by the host.
 
+### Diamondless (H)
+> When you mine a diamond, the diamond will not drop, instead a piece of iron will drop it. No diamonds will be dropped when a player dies.
+
 ### Dolphins (L) 
 > If you swim in the water, you swim speed increases, making you swim like a dolphin. You cannot drown in the water 
+
+### DoNotDisturb (L) 
+> Whenever the border reaches to ±100 radius or ±200 diameter, if you hit a player, it will lock you with that player, or team for 15 seconds. Every time you hit that player or team, the timer will refresh until the 15 seconds are up and can be attacked by another player or team. When you kill a player, you will be able to safely get the items for 60 seconds.
+
+### DoNotDisturb+ (L)
+> When the border reaches ±250 radius or ±500 diameter, hitting a player will lock you (or your team) in combat with that player (or their team) for 15 seconds, the timer refreshes for every hit. When a player dies, their loot will be locked to the killer for 30 seconds.
 
 ### Doomsday Clock (H) 
 > There is a nuclear doomsday clock that starts at X number of seconds to midnight (this number must be set by the host before the game starts). Every time a player dies, the doomsday clock will move one second closer to midnight. Upon reaching midnight, the doomsday clock will be activated, meaning the game will become permanight and squids will begin to fall from the sky. Each squid will explode 5 seconds after it lands on the ground. When the game reaches meetup, the doomsday clock will also be activated if it has not already.
@@ -354,12 +360,6 @@ Current Arctic Scenario list with Description (As of February 1st, 2025) Complet
   
 ### Double Slimy Crack (L)
 > Coordinates of X:0 and Z:0 will have 2 cracks, that go to the border, with slime blocks underneath to break your fall. Players can also break the Slime blocks and send people to the void!!!
-
-### Do Not Disturb (L) 
-> Whenever the border reaches to ±100 radius or ±200 diameter, if you hit a player, it will lock you with that player, or team for 15 seconds. Every time you hit that player or team, the timer will refresh until the 15 seconds are up and can be attacked by another player or team. When you kill a player, you will be able to safely get the items for 60 seconds.
-
-### Do Not Disturb+ (L)
-> When the border reaches ±250 radius or ±500 diameter, hitting a player will lock you (or your team) in combat with that player (or their team) for 15 seconds, the timer refreshes for every hit. When a player dies, their loot will be locked to the killer for 30 seconds.
  
 ### Drafters (L)
 > This is a captains mode that instead of picking people freely, you're restricted from picking a list of 5 people at random. This way, everyone will get accepted. Same captains rules apply. Players get chosen to be captain and take turns to pick players to form their team!
@@ -394,9 +394,6 @@ Current Arctic Scenario list with Description (As of February 1st, 2025) Complet
 ### Elements (H, not comb. **BROKEN**)
 > Each player will get an ability, either water, earth, fire, and air. This scenario was created by the group of Ambition. https://pastebin.com/907NZWVJ
  
-### Enchanted Death (L)
-> You cannot craft enchanting tables. When a player dies, they will drop an enchanting table. (Please Note: You will be Disqualified of you team-kill your teammates for an enchanting table.)
- 
 ### Enchant Paranoia (L)
 
 > &#x1F534; THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO (Hosts are only allowed to ask the Admins not players)
@@ -405,12 +402,15 @@ Current Arctic Scenario list with Description (As of February 1st, 2025) Complet
 
 ### Enchant Progression (L)
 > All players receive 1 enchanting table use for each kill they get.
- 
-### Ender Dance (H)
-> IT'S A RACE TO THE DRAGON!  Wait, it's not. The goal of this scenario is to be on top of one of the dragon's healing pillars and destroy one of them. Then if you have a music disk and a jukebox, you must place a jukebox on one of the pillars and put the music disk in the jukebox to win the game! Same rules apply with Dragon Rush (3 Eyes of ender missing).
- 
+
+### Enchanted Death (L)
+> You cannot craft enchanting tables. When a player dies, they will drop an enchanting table. (Please Note: You will be Disqualified of you team-kill your teammates for an enchanting table.)
+
 ### End Meetup (L) 
 > Once the game has reached it's Meetup phase, players will be frozen and teleported into the end. PvP will be disabled for about 10-15 seconds. Then the fight happens. After 10 mins, the dragon will spawn if the game is not completed.
+
+### Ender Dance (H)
+> IT'S A RACE TO THE DRAGON!  Wait, it's not. The goal of this scenario is to be on top of one of the dragon's healing pillars and destroy one of them. Then if you have a music disk and a jukebox, you must place a jukebox on one of the pillars and put the music disk in the jukebox to win the game! Same rules apply with Dragon Rush (3 Eyes of ender missing).
 
 ### Enemy Recon (L)
 > Whenever you get a kill you will earn 1 recon. This recon will allow you to spy on what the player has in terms of inventory and information. By using the command /er <Player> it will use 1 recon, and it has a 30% chance of broadcasting in chat on who you are spying on.
@@ -475,7 +475,7 @@ Current Arctic Scenario list with Description (As of February 1st, 2025) Complet
 ### Fragile Spirits (L)
 > Whenever a player dies on surface, instead of a head post spawning, it will spawn an ocelot with speed 1 and resistance 1. If the player dies underground it will spawn a bat with resistance 2. If you kill these animals, you will gain the dead player's head.
 
-### Frozen In Time (H)
+### Frozen in Time (H)
 > All the Current movement in water and lava will not flow. Gravel, sand, cacti, and sugarcane will be uneffected by gravity. Leaves will not decay. Your only way of getting apples is through shearing leaves
 
 ### Game Health (L)
@@ -496,6 +496,9 @@ Current Arctic Scenario list with Description (As of February 1st, 2025) Complet
 ### Genie (L) 
 > You are given 3 wishes and you cannot get more. Based on the number of kills you have in the game is what you can wish for. (If you have 0 kills, you can get the following: Golden Apple, Diamond Sword, Anvil. If you have 1 Kill, you can get the following: Player Head, Speed 1 Potion, Strength 1 Potion. If you have 2 Kills, you can get the following: Enchantment Table, Brewing Stand, 5 Diamond Ore. If you have 4 Kills, you can get the following: Instant Health 2 Potion Not Splashable, 128 Bottles of Enchanting, 1 Glowstone Block, 1 Blaze Rod. If you have 5+ Kills, you can get the following: 64 Obsidian, 8 Gold Ingots, 4 Soul Sand, 3 Wither Skeleton Heads.)
 
+### Go To Hell (H, not comb.)
+> After a certain time period (45-60 minutes into the game.) Players will proceed into the Nether. If the player is not in the nether, they will take 0.5 hearts every 30 seconds until they go into the nether. (Required: Portal Trapping/Camping will be disabled for this scenario.)
+
 ### Golden Pearl (L)
 > Surrounding a pearl with 8 gold in a crafting table will create a Golden Pearl. Golden Pearls will deal no damage when used, while regular pearls will have their regular damage.
 
@@ -513,9 +516,6 @@ Current Arctic Scenario list with Description (As of February 1st, 2025) Complet
  
 ### Good Game (L)
 > The first player to say "gg." after a player dies, will receive a reward. It can either be a diamond, cake, piece of gold, or a firework. The first player to say "eZ", "rekt", "loser", "your bad", or "kys", will get blindness, withered, or poisoned. WARNING: If you spam "gg." too much, you will be muted!!! Also, if you spam any bad messages, you will either be muted for a long time or banned!!!
- 
-### Go To Hell (H, not comb.)
-> After a certain time period (45-60 minutes into the game.) Players will proceed into the Nether. If the player is not in the nether, they will take 0.5 hearts every 30 seconds until they go into the nether. (Required: Portal Trapping/Camping will be disabled for this scenario.)
  
 ### Grave Robbers (L)
 > Whenever a player dies, their stuff will be in a grave, with a double chest.
@@ -582,9 +582,6 @@ Current Arctic Scenario list with Description (As of February 1st, 2025) Complet
  
 ### Investments (L) 
 > You can invest diamonds and gold into a player. If the player gets a kill, you receive double the amount of gold or diamonds you put it. If they die, you will lose your investment on that player. 
-
-### Isaac Mystery Teams (L, not comb.) 
-> Everyone will be scattered alone, once PvP is enabled, you will get a colored Isaac head, you cannot craft this head into a Golden Head. If you find a player with the same Isaac head, then you and that player will be on a team. The command to check the teams is /mt teamsize 
  
 ### Islands (H, not Comb.) 
 > There are 10 wide cracks run along the x and z axis every 100 blocks. The ore blocks on the side of these cracks are replaced with stone.
@@ -603,15 +600,6 @@ Current Arctic Scenario list with Description (As of February 1st, 2025) Complet
 > MUST HOST WITH FOOD CONSUMPTION DO NOT HOST THIS BY ITSELF.
 
 > Whenever a player mines a Lapis lazuli ore, it will have a have to drop a random food item in the game.
-
-### Lifesteal (L)
-> You gain half a heart to your max health after every kill.
-
-### Love at First Damage (H) 
-> When you take damage, you will be put onto a team. There are a minimum of 6 teams. The order is set as 1,2,3,4,5,6,1,2,3,4,5,6 etc. until everyone has taken damage and is put onto a team
- 
-### Love at first sight (L) 
-> You are scattered as a solo with no team. The first person you see, you must team with. If you right click on them, you will form a team. That is your teammate for the rest of the game.
  
 ### Lavaless (L, not Comb.)
 > In the world, lava will not exist, and will be replaced, by the air blocks. The obsidian will generate in veins.
@@ -622,17 +610,26 @@ Current Arctic Scenario list with Description (As of February 1st, 2025) Complet
 ### Leggings Paranoia (L)
 > The color on tab represents what type of leggings the player is wearing.
 
-### Love At First Gapple (H)
-> Whenever you eat your first golden apple, you will be placed on a team in order based on when you eat it.
+### Lifesteal (L)
+> You gain half a heart to your max health after every kill.
 
 ### Lootcrates (L) 
 > Every 10 minutes players are given out chests. You will gain a reward from them. They are either Tier 1 (Wooden Chest) or Tier 2 (Ender Chest).
+
+### Love at First Damage (H) 
+> When you take damage, you will be put onto a team. There are a minimum of 6 teams. The order is set as 1,2,3,4,5,6,1,2,3,4,5,6 etc. until everyone has taken damage and is put onto a team.
+
+### Love at First Gapple (H)
+> Whenever you eat your first golden apple, you will be placed on a team in order based on when you eat it.
+
+### Love at First Lake (L)
+> If you and another player are in the same body of water, like the same river or pond, you two will be put together on a team.
+
+### Love at First Sight (L) 
+> You are scattered as a solo with no team. The first person you see, you must team with. If you right click on them, you will form a team. That is your teammate for the rest of the game.
  
 ### Love When Coords Match (H, not Comb.)
 > Similar to Soul Brothers and Love At First Sight. Half of the players will be scattered in 1 world and half in the other. Players will not be able to team based on who is in their world, but from coordinates of different worlds. Example, if 1 player in a world is at X:-500 and Z:250 and 1 player is in a 25 block radius near those coordinates in a different world, then they will automatically be put on a team. At meet-up all the players will be teleported into 1 different world.
-
-### Love at First Lake (L)
-> If you and another player are in the same body of water, like the same river or pond, you two will be put together on a team
  
 ### Lucky Chests (L, not Comb.) 
 > Ender chests will be scattered across the map, mainly in caves. They will contain either positive loot, like diamonds, gold, etc. Or negative effects like blindness, poison etc.
@@ -714,22 +711,19 @@ Current Arctic Scenario list with Description (As of February 1st, 2025) Complet
 
 ### Nintendo Switch+ (L)
 > Whenever you shoot an mob, passive, aggressive, or neutral, you will switch places with that entity. You can make this option turned on or off by left clicking your bow.
-
-### No Enchants (L) 
-> Enchanting tables cannot be crafted nor be used.
  
 ### No Anvils (L) 
 > Anvils cannot be crafted nor be used.
- 
-### No Clean (L) 
-> When you kill a player, you have 20 seconds of PvP protection. If you attack a player and you have the PvP protection on, then you will lose that protection.
 
 ### No Diamond Armor (L) 
 > Players cannot craft any diamond armor.
  
 ### No Enchant Preview (L) 
 > When enchanting, you cannot see what will you get beforehand.
- 
+
+### No Enchants (L) 
+> Enchanting tables cannot be crafted nor be used.
+
 ### No Fall (L) 
 > Players cannot take any fall damage.
  
@@ -739,23 +733,26 @@ Current Arctic Scenario list with Description (As of February 1st, 2025) Complet
 ### No Shoes No Shirt No Service (L)
 > The only armor you can see on other players are their chestplates and boots.
 
-### Ore Jackpot (L)
-> Every 10 minutes, a random ore will be selected between coal, iron, redstone, or lapis. If you believe you have the most of that ore, you can bet either 1 diamond or 5 gold ingots. You are allowed to bet multiple times. If you are the player who has the most of that certain ore, you will win the pot of diamonds or gold of whatever players bet.
- 
+### NoClean (L) 
+> When you kill a player, you have 20 seconds of PvP protection. If you attack a player and you have the PvP protection on, then you will lose that protection.
+
 ### OP Lootcrates (L) 
 > Every 15 mins, all players will recieve Overpowered items. There are 3 tiers in this scenario. The ender chest is the best, Trapped chest is the second best, and the normal chest being the third best.
+
+### Ore Jackpot (L)
+> Every 10 minutes, a random ore will be selected between coal, iron, redstone, or lapis. If you believe you have the most of that ore, you can bet either 1 diamond or 5 gold ingots. You are allowed to bet multiple times. If you are the player who has the most of that certain ore, you will win the pot of diamonds or gold of whatever players bet.
   
 ### Overcook (H) 
 > After the furnace smelts 1 item, the furnace will explode and give you the items, smelted, that were put in the furnace. WARNING: The explosion from the furnace can kill you!
-
-### Parannoying (L)
-> Whenever a player does any certain action, it will be announced in chat and the coordinates of where it happened. There are 50 certain actions that a player can do to trigger their coordinates being announced
  
 ### Parafusion (L) 
 > When a player mines gold, or diamonds, crafts an enchant table, anvil, golden apples or heads, or brewing stand, eats a golden apple or golden head. or dies, then coordinates will be broadcasted with the names being "???". Health on tab will be disabled. Along with the /h command
  
 ### Paranoia (L) 
 > Whenever a player mines gold or diamonds, crafts an enchantment table or anvil, crafts or eats a Golden Apple or Golden Head, or when a player gets killed, their coords are broadcasted in the chat. Health on tab and the /h commands are disabled for this game
+
+### Parannoying (L)
+> Whenever a player does any certain action, it will be announced in chat and the coordinates of where it happened. There are 50 certain actions that a player can do to trigger their coordinates being announced.
  
 ### Parassassins (H)
 > A combination of the gamemodes "Parafusion" and "Assassins". All players in the game will receive a 'target' at PvP, and instead of a compass pointing to their location, they will have parafusion coordinates to the target. If your target dies, you will be assigned a new one. Unlike assassins, any kill in the game will still drop their items.
@@ -886,7 +883,7 @@ Current Arctic Scenario list with Description (As of February 1st, 2025) Complet
 ### Rush (L)
 > The game will last 44 minutes or less.
 
-### Safe Loot (L)
+### SafeLoot (L)
 > When a player dies, their loot will be placed into a chest and locked to their killer for 60 seconds.
  
 ### Santa's Gift (L)
@@ -936,9 +933,6 @@ Current Arctic Scenario list with Description (As of February 1st, 2025) Complet
 ### Shared Health (H, not comb.) 
 > Upon a team, their health is shared. Every time a player takes damage, their teammates will also take damage as well. The heals of the Golden Apple will change. (20/X amount of players on a team.) And if one players die on a team, everyone on the team will die as well. Golden heads will be off.
 
-### Sharpshooters (L) 
-> 8 players, selected by the host, will go off to shoot 1 player from a pedestal to pick their players. If they miss their shot, their turn will be skipped. If they hit a player, that player will be added to their team.
-
 ### Shieldless (L)
 > Shields are disabled.
  
@@ -986,13 +980,13 @@ Current Arctic Scenario list with Description (As of February 1st, 2025) Complet
  
 ### Soul Brothers+ (H, not comb.) 
 > This is the same as Soul Brothers! Players are scattered into different worlds! However... Players will be scatter into special worlds and not regular worlds!
-
-### Speed Shot (L) 
-> Whenever you hit a 50 block or more longshot, you will gain speed 2 for the next 10 seconds. 
  
 ### Spawners Galore (H, not comb with Infestation) 
 > Spawner rates have been increased in the world. Giving you more mobs to fight and more loot to collect! The spawners can be any mob in the game! Except Ender Dragons, and Withers!
- 
+
+### Speed Shot (L) 
+> Whenever you hit a 50 block or more longshot, you will gain speed 2 for the next 10 seconds. 
+
 ### Speedy Miners (L, not comb with other potion effect scenarios)
 > Players that are under Y:32 will receive Speed 1.
 
@@ -1001,11 +995,11 @@ Current Arctic Scenario list with Description (As of February 1st, 2025) Complet
 
 ### Statless (L) 
 
-> THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO (Hosts are only allowed to ask the Admins not players)
+> &#x1F534; THIS IS AN ADMIN SCENARIO. PLEASE ASK AN ADMIN IF YOU WANT TO HOST THIS SCENARIO (Hosts are only allowed to ask the Admins not players)
 
 > The game will not count for stats.
 
-### Stock up (L) 
+### Stock Up (L) 
 > Whenever a player dies, everyone that is currently alive will receive 1 empty heart.
  
 ### Stronger Mobs (H) 
@@ -1016,16 +1010,16 @@ Current Arctic Scenario list with Description (As of February 1st, 2025) Complet
 
 ### Sugar Rush (L)
 > Consuming sugar will give you Speed II for 4 seconds. Sugar has a 15 second cooldown after expiration.
- 
-### Superheroes (H)
-> Everybody on a team will receive a superpower that will last for the entire game. A player can receive 1 of the following: Strength, Speed, Resistance, Double Health, Invisibility, or Jump Boost. Fall damage is off in this gamemode. For Health power: Gaps heal 3 hearts and Golden Heads heal 6 hearts. *Does not apply to potions!* (If teams of 5, Jump will be available, if teams of 6 or higher, Invisibility is available, unless the player is solo without a team.)
+
+### Super Smash Brothers (H, not comb.) 
+> Each player on a team will receive a different class, all classes are chosen at random. The characters are Mario, Sonic, Kirby, Pit, Meta Knight, Donkey Kong, Pikachu, and Link. All the characters has different abilities. To check abilities, use /ssh. (Here is the link for all of the powers!)[https://www.reddit.com/r/ultrahardcore/comments/31iydz/super_smash_bros_with_skript/] 
 
 ### Super Zeroes (L)
 > All players on a team will be randomly assigned a potion effect. The effects are Haste 1, Night Vision, Fire Resistance, Saturation, and Absorption that will replenish every 20 minutes.
- 
-### Super Smash Brothers (H, not comb.) 
-> Each player on a team will receive a different class, all classes are chosen at random. The characters are Mario, Sonic, Kirby, Pit, Meta Knight, Donkey Kong, Pikachu, and Link. All the characters has different abilities. To check abilities, use /ssh. (Here is the link for all of the powers!)[https://www.reddit.com/r/ultrahardcore/comments/31iydz/super_smash_bros_with_skript/] 
- 
+
+### Superheroes (H)
+> Everybody on a team will receive a superpower that will last for the entire game. A player can receive 1 of the following: Strength, Speed, Resistance, Double Health, Invisibility, or Jump Boost. Fall damage is off in this gamemode. For Health power: Gaps heal 3 hearts and Golden Heads heal 6 hearts. *Does not apply to potions!* (If teams of 5, Jump will be available, if teams of 6 or higher, Invisibility is available, unless the player is solo without a team.)
+
 ### Switcheroo (H)
 > Whenever you shoot and hit a player, you will swap places with them.
 
@@ -1065,14 +1059,14 @@ Current Arctic Scenario list with Description (As of February 1st, 2025) Complet
 ### Timebomb (L) 
 > Whenever a player dies, their stuff will be placed in a chest with a timer ticking. Players will have 30 seconds to grab the stuff before it explodes. After the 30 seconds, the chest full of items will explode. Players can be damaged by the explosion.
 
+### Time Flies (L) 
+> Every day cycle takes 5 minutes and every night cycle takes 5 minutes, making the whole cycle only 10 minutes instead of 20.
+
 ### Timed Kings (L) 
 > Created by the Record Round of Evolution. (Debuted in 8th season) The kings will be swapped every 10 minutes on a team. The old king will lose the king effects and the new king will get the new king effects. 
  
 ### Timed Teams (H) 
 > The teams will be set at a random point in the game, rather than before in the game.
- 
-### Time Flies (L) 
-> Every day cycle takes 5 minutes and every night cycle takes 5 minutes, making the whole cycle only 10 minutes instead of 20.
  
 ### TommySX (L) 
 > Creepers will do double damage and every diamond shovel you craft will have Efficiency 5. When you craft a sword or bow, it'll be named XDDDDDDDDDDE. All mobs Passive or Hostile will have a 10% chance to spawn with Speed 2 and will be named Gotta Go Fast!
@@ -1110,15 +1104,15 @@ Current Arctic Scenario list with Description (As of February 1st, 2025) Complet
 ### Universal Health Care (L)
 > Every time someone heals, everyone in the game heals 1%.
   
-### Upside-Down Crafting (H, not comb.)
+### UpsideDown Crafting (H, not comb.)
 > All the crafting recipes in the game will be flipped upside down.
 
 ### Urban Sprawl (H)
 > There will be a lot of villages in the world. You will also spawn with 20 Villager Eggs since no villagers will be spawned. 
- 
-### Vanilla+ (L) 
+
+### Vanilla+ (L)
 > It's the same game, but the game has been tweaked a little bit (Flint rates, Increased Apple Rates Etc.)
- 
+
 ### VeinMiner (L) 
 > If you shift and mine an ore, with the right pickaxe, the entire vein of that ore will all be mined at once. This works with gravel too with a shovel.
  
@@ -1130,9 +1124,6 @@ Current Arctic Scenario list with Description (As of February 1st, 2025) Complet
  
 ### Wasteland (H) 
 > The map is generated as a wasteland. Meaning that everything is dead.
-  
-### Webcage (L) 
-> Whenever a player dies, a sphere of cobwebs will spawn on where the player has died.
 
 ### Weather Wizards (H, not Comb.)
 
@@ -1152,6 +1143,9 @@ Current Arctic Scenario list with Description (As of February 1st, 2025) Complet
 
 > Sky Splitting Sonic Stream: By casting this spell, a thunderstorm sound and creeper explosions are played towards all players. The caster will gain speed 1 and jump boost 4 for 15 seconds. They will also spawn 6 creepers within 15 blocks of an enemy player that is within 50 blocks of the caster. If the cast is during a thunder storm, it will be charged creepers instead of regular creepers (15 minute cooldown)
 
+### Webcage (L) 
+> Whenever a player dies, a sphere of cobwebs will spawn on where the player has died.
+
 ### Wish List (L) 
 > At the start of the game, each player is assigned 3 random items to obtain. When a player obtains an item in their inventory, they will receive a buff. Each item has their own buff as well
 
@@ -1170,7 +1164,7 @@ Current Arctic Scenario list with Description (As of February 1st, 2025) Complet
 ### Your Name (L)
 > Every 10 minutes, you will be randomly swapped with your teammates. You will be disguised as the teammate you swapped with.
 
-### Zeta Zombies (L)
+### Zeta Bombies (L)
 > Whenever you kill a zombie, they will drop flint, hay bales, or slime blocks instead of rotten flesh.
  
 ### Zombies Galore (L) 
